@@ -9,7 +9,9 @@ title:
 the limit is the fundamental concept in calculus.
 
 
-consider this function $f(x)=\frac{x-1}{x-1}$
+## introduction
+
+consider this function $f(x)=\dfrac{x-1}{x-1}$
 well, it is equal to $f(x)=1$ but we must also put a constraint, so the way we could simplify the function as $f(x)=1,x \neq 1$
 
 the graph of this function will be a line, but has a gap at the place where $x=1$ because when $x=1$, y is undefined.
@@ -22,15 +24,26 @@ remember: a limit exists if it has the same value from the left hand side and th
 
 therefore, the limit as x approaches 1 of f(x) is equal to 1 and this is expressed as $\lim \limits_{x \to 1} f(x) = 1$
 
+
+#### example
 we have the function:
 
-$$g(x) = \left\{ \begin{array}{l} x^2,x\neq 2 1, x=2 \end{array} \right \}$$
+$$
+g(x) = 
+     \begin{cases}
+       x^2 &\quad\text{if } x \neq 2\\
+       1 &\quad\text{if } x=2\\
+     \end{cases}
+$$
 
 so normally, f(x) is equal to $x^2$, except when $x=2$, then f(x) would be equal to 1
 
 we could make x closer and closer to 2, but never equal to 2:
 
-$$\begin{array}{l} x=1,y=1 x=1.5,y=2.25 x=1.9,y=3.61 x=1.999,y=3.996 \end{array}$$
+x=1,y=1
+x=1.5,y=2.25
+x=1.9,y=3.61
+x=1.999,y=3.996
 
 that was from the left hand side. from the right hand side, the limit also approaches 4.
 
@@ -38,7 +51,7 @@ remember: a limit exists if it has the same value from the left hand side and th
 
 so, the limit as x approaches 2 of g(x) is equal to 4.
 
-$$\lim \limits_{x \to 2} g(x) = 4$$
+$\lim \limits_{x \to 2} g(x) = 4$
 
 when the limit from the left hand side is infinity, and the limit from the right hand side is infinity, we could say that the limit in unbounded.
 
@@ -57,17 +70,19 @@ but the limit as we approach $x=-1$ from the right hand side is 7
 
 this means that the limit as x approaches negative one of f(x) does not exist.
 
-$$\lim \limits_{x \to -1} f(x) \,\,\, \text{does not exist}$$
+$\lim \limits_{x \to -1} f(x) \text{ does not exist}$
 
 but we have a way to express one-sided limits as well.
 
 the limit of f(x) as we approach $x=-1$ from the left hand side is 5:
 
-$$\lim \limits_{x \to -1^-} g(x) = 5$$
+$\lim \limits_{x \to -1^-} f(x) = 5$
 
 the limit of f(x) as we approach $x=-1$ from the right hand side is 7:
 
-$$\lim \limits_{x \to -1^+} g(x) = 7$$
+$\lim \limits_{x \to -1^+} f(x) = 7$
+
+so, the one sided limits of f(x) are different therefore there isn't a limit for f(x). however, it does have a left hand limit and a right hand limit.
 
 ## limit properties
 
@@ -143,65 +158,66 @@ $$\lim \limits_{x \to -4} \frac{7}{x-3} = \frac{7}{-7} = -1$$
 
 find:
 
-$$\lim \limits_{x \to -3} \frac{\sqrt{4x+28}-4}{x+3}$$
+$\lim \limits_{x \to -3} \frac{\sqrt{4x+28}-4}{x+3}$
 
 let us rationalize the numerator.
 
-$$\lim \limits_{x \to -3} \frac{\sqrt{4x+28}-4}{x+3}*\frac{\sqrt{4x+28}+4}{\sqrt{4x+28}+4}$$
+$\lim \limits_{x \to -3} \frac{\sqrt{4x+28}-4}{x+3}*\frac{\sqrt{4x+28}+4}{\sqrt{4x+28}+4}$
 
-$$\lim \limits_{x \to -3} \frac{(4x+28)-4^2}{(x+3)(\sqrt{4x+28}+4)}$$
+$\lim \limits_{x \to -3} \frac{(4x+28)-4^2}{(x+3)(\sqrt{4x+28}+4)}$
 
-$$\lim \limits_{x \to -3} \frac{4x+12}{(x+3)(\sqrt{4x+28}+4)}$$
+$\lim \limits_{x \to -3} \frac{4x+12}{(x+3)(\sqrt{4x+28}+4)}$
 
-$$\lim \limits_{x \to -3} \frac{4(x+3)}{(x+3)(\sqrt{4x+28}+4)}$$
+$\lim \limits_{x \to -3} \frac{4(x+3)}{(x+3)(\sqrt{4x+28}+4)}$
 
-$$\lim \limits_{x \to -3} \frac{4}{\sqrt{4x+28}+4}\text{, for x }\neq -3$$
+$\lim \limits_{x \to -3} \frac{4}{\sqrt{4x+28}+4}\text{, for x }\neq -3$
 
 now we can use direct substitution:
 
-$$\lim \limits_{x \to -3} \frac{4}{\sqrt{4x+28}+4} = \frac{4}{\sqrt{-12+28}+4} = \frac{4}{8} = \frac{1}{2}$$
+$\lim \limits_{x \to -3} \frac{4}{\sqrt{4x+28}+4} = \frac{4}{\sqrt{-12+28}+4} = \frac{4}{8} = \frac{1}{2}$
 
 \subsubsection{problem 3}
 find:
 
-$$\lim \limits_{\theta \to -\frac{\pi}{4}} \frac{1+\sqrt{2}\sin(\theta)}{\cos(2\theta)}$$
+$\lim \limits_{\theta \to -\frac{\pi}{4}} \frac{1+\sqrt{2}\sin(\theta)}{\cos(2\theta)}$
 
 well, we can use trig identities:
 
-$$\cos(2\theta)=\cos^2(\theta)-\sin^2(\theta)=1-2\sin^2(\theta)=2\cos^2(\theta)-1$$
+$\cos(2\theta)=\cos^2(\theta)-\sin^2(\theta)=1-2\sin^2(\theta)=2\cos^2(\theta)-1$
 
 we could factor:
 
-$$1-2\sin^2(\theta) = (1+\sqrt{2}\sin(\theta))(1-\sqrt{2}\sin(\theta))$$
+$1-2\sin^2(\theta) = (1+\sqrt{2}\sin(\theta))(1-\sqrt{2}\sin(\theta))$
 
-$$\lim \limits_{\theta \to -\frac{\pi}{4}} \frac{1+\sqrt{2}\sin(\theta)}{(1+\sqrt{2}\sin(\theta))(1-\sqrt{2}\sin(\theta))}$$
+$\lim \limits_{\theta \to -\frac{\pi}{4}} \frac{1+\sqrt{2}\sin(\theta)}{(1+\sqrt{2}\sin(\theta))(1-\sqrt{2}\sin(\theta))}$
 
-$$\lim \limits_{\theta \to -\frac{\pi}{4}} \frac{1}{1-\sqrt{2}\sin(\theta)} \text{, }\theta \neq \frac{\pi}{4}$$
+$\lim \limits_{\theta \to -\frac{\pi}{4}} \frac{1}{1-\sqrt{2}\sin(\theta)} \text{, }\theta \neq \frac{\pi}{4}$
 
-$$\frac{1}{1-\sqrt{2}\sin\left(\dfrac{-\pi}{4}\right)} = \frac{1}{2}$$
+$\frac{1}{1-\sqrt{2}\sin\left(\dfrac{-\pi}{4}\right)} = \frac{1}{2}$
 
-\subsubsection{problem 4}
+#### example
 find:
 
-$$\lim \limits_{x \to \frac{\pi}{2}} \frac{\cot^2(x)}{1-\sin(x)}$$
+$\lim \limits_{x \to \frac{\pi}{2}} \dfrac{\cot^2(x)}{1-\sin(x)}$
 
 expand cotangent
 
-$$\lim \limits_{x \to \frac{\pi}{2}} \frac{\cos^2(x)}{\sin^2(x)(1-\sin(x))}$$
+$\lim \limits_{x \to \frac{\pi}{2}} \dfrac{\cos^2(x)}{\sin^2(x)(1-\sin(x))}$
 
 apply pythagorean identity
 
-$$\lim \limits_{x \to \frac{\pi}{2}} \frac{(1-\sin^2(x))}{\sin^2(x)(1-\sin(x))}$$
+$\lim \limits_{x \to \frac{\pi}{2}} \dfrac{(1-\sin^2(x))}{\sin^2(x)(1-\sin(x))}$
 
 difference of squares
 
-$$\lim \limits_{x \to \frac{\pi}{2}} \frac{(1-\sin(x))(1+\sin(x))}{\sin^2(x)(1-\sin(x))}$$
+$\lim \limits_{x \to \frac{\pi}{2}} \dfrac{(1-\sin(x))(1+\sin(x))}{\sin^2(x)(1-\sin(x))}$
 
-$$\lim \limits_{x \to \frac{\pi}{2}} \frac{1+\sin(x)}{\sin^2(x)}$$
+$\lim \limits_{x \to \frac{\pi}{2}} \dfrac{1+\sin(x)}{\sin^2(x)}$
 
-$$\frac{1+\sin(\frac{\pi}{2})}{\sin^2(\frac{\pi}{2})} = 2$$
+$\dfrac{1+\sin(\frac{\pi}{2})}{\sin^2(\frac{\pi}{2})}$
 
-##  squeeze theorem
+so, the answer is 2
+## squeeze theorem
 let's say we have three functions, and $f(x) \leq g(x) \leq h(x)$
 
 if $\lim \limits_{x \to c} f(x) = L$ and $\lim \limits_{x \to c} h(x) = L$, we can conclude that $\lim \limits_{x \to c} g(x) = L$
@@ -260,7 +276,6 @@ this also means that for a function $f$, the equation of the tangent line at $x=
 \subsection{example}
 write an equation of the line tangent to the graph of $f(x)=2x^2+7x-9$ at the point where $x=-3$.
 
-\begin{quote}
   remember: for a function $f$, the equation of the tangent line at $x=c$ will be equal to $y-f(c)=f'(c)(x-c)$
 
   also, $\dfrac{d}{dx}\left[f(x)+g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] +\dfrac{d}{dx}\left[g(x)\right] = f'(x) + g'(x)$
@@ -270,4 +285,3 @@ write an equation of the line tangent to the graph of $f(x)=2x^2+7x-9$ at the po
   $f'(c)$ is $\dfrac{d}{dx}\left[2x^2\right]+\dfrac{d}{dx}\left[7x\right]$, which is $4x+7$, which is $-5$ when $x=c=-3$
 
   so the answer is $y+12=-5(x+3)$, or $-5x-27$
-\end{quote}

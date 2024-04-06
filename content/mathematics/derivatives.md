@@ -153,7 +153,7 @@ what is $\lim \limits_{x \to 0}\dfrac{3(2+x)^4-3(2)^4}{h}$
 
 this limit expression has the form:
 
-$$\lim \limits_{x \to 0}\dfrac{f(t+x)-f(t)}{x}$$
+$\lim \limits_{x \to 0}\dfrac{f(t+x)-f(t)}{x}$
 
 we can tell that $t$, or the x value, is 2.
 
@@ -164,7 +164,6 @@ in this case, $f(x)=3x^4$, and $f'(x)=12x^3$
 so the answer is $f'(2)$, which is $12(2)^3$, which is $96$
 
 ### related derivatives
-
 
 https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-contextual-applications-new/ab-4-5/v/falling-ladder-related-rates
 here is example of a related rates problem

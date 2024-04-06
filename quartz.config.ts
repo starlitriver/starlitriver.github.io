@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "quartz",
+    pageTitle: "starlitriver",
     enableSPA: true,
     enablePopovers: true,
     baseUrl: "starlitriver.github.io",

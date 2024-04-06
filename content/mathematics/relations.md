@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - functions
 links: 
 tags:
   - mathematics

@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - indicies
 links: 
 tags:
   - mathematics

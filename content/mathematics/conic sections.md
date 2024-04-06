@@ -1,8 +1,7 @@
 ---
-aliases: 
+aliases:
+  - circles
 links: 
 tags: 
 title: 
 ---
-
-you look around the
