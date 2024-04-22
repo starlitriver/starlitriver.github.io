@@ -6,14 +6,14 @@ tags:
 title: 
 ---
 
-|  |  |  |  |  |
-| ---- | ---- | ---- | ---- | ---- |
-|  | **Prokaryote** | **Eukaryote** |  |  |
-| **Nucleus** | Absent | Present |  |  |
-| **Membrane-bound organelles** | Absent | Present |  |  |
-| **Cell structure** | Unicellular | Mostly multicellular; some unicellular |  |  |
-| **Cell size** | Smaller (0.1-5 μm) | Larger (10-100 μm) |  |  |
-| **Complexity** | Simpler | More complex |  |  |
-| **DNA Form** | Circular | Linear |  |  |
-| **Examples** | Bacteria, archaea | Animals, plants, fungi, protists |  |  |
-|  |  |  |  |  |
+
+|  | prokaryote | eukaryote |
+| ---- | ---- | ---- | ---- | 
+| nucleus | absent | present |
+| membrane-bound organelles | absent | present |
+| cell structure | unicellular | mostly multicellular; some unicellular |
+| cell size | smaller (0.1-5 μm) | larger (10-100 μm) |
+| complexity | simpler | more complex |
+| dna form | circular | linear |
+| examples | bacteria, archaea | animals, plants, fungi, protists |
+|  |  |  |

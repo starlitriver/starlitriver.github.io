@@ -6,11 +6,11 @@ tags:
 title: 
 ---
 
-the cells are seperated from the outside of the cells by the [cell membrane](https://www.khanacademy.org/science/ap-biology/cell-structure-and-function/plasma-membranes/a/structure-of-the-plasma-membrane), which is a plasma membrane. this "encasing of salad oil" effectively serves as a barrier that allows some lipid-soluble molecules and some small molecules to permeate the membrane, but the it effectively repels the many large, water-soluble molecules and electrically charged ions that the cell must import or export in order to live.
+the cells are separated from the outside of the cells by the [[cell membrane]], which is a plasma membrane. this "encasing of salad oil" effectively serves as a barrier that allows some lipid-soluble molecules and some small molecules to permeate the membrane, but the it effectively repels the many large, water-soluble molecules and electrically charged ions that the cell must import or export in order to live.
 
 ## membrane composition
 
-the membrane consisits of phos
+the membrane consists of [[phospholipids]]
 
 ## membrane transport
 
@@ -30,4 +30,4 @@ active transport is making molecules against their passive diffusion direction w
 
 ## bulk export
 
-the golgi body produces vesicles to wrap the contents in a plasma membrane, and merges with the cell membrane so that the contents can be released outside of the cell.
+the [[golgi body]] produces vesicles to wrap the contents in a plasma membrane, and merges with the cell membrane so that the contents can be released outside of the cell.

@@ -1,6 +1,5 @@
 ---
-aliases:
-  - circles
+aliases: 
 links: 
 tags: 
 title: 
