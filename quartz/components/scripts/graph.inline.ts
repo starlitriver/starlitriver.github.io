@@ -115,6 +115,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   const simulation: d3.Simulation<NodeData, LinkData> = d3
     .forceSimulation(graphData.nodes)
     .force("charge", d3.forceManyBody().strength(-100 * repelForce))
+    .force("gravity", d3.forceManyBody().strength(60.1))
     .force(
       "link",
       d3
@@ -141,7 +142,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .data(graphData.links)
     .join("line")
     .attr("class", "link")
-    .attr("stroke", "var(--lightgray)")
+    .attr("stroke", "var(--gray)")
     .attr("stroke-width", 1)
 
   // svg groups
@@ -187,7 +188,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
   function nodeRadius(d: NodeData) {
     const numLinks = links.filter((l: any) => l.source.id === d.id || l.target.id === d.id).length
-    return 2 + Math.sqrt(numLinks)
+    return 2 + Math.sqrt(numLinks/2)
   }
 
   let connectedNodes: SimpleSlug[] = []
@@ -226,7 +227,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       }
 
       // highlight links
-      linkNodes.transition().duration(200).attr("stroke", "var(--gray)").attr("stroke-width", 1)
+      linkNodes.transition().duration(200).attr("stroke", "var(--secondary)").attr("stroke-width", 1)
 
       const bigFont = fontSize * 1.5
 
@@ -251,7 +252,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         .selectAll(".link")
         .filter((d: any) => d.source.id === currentId || d.target.id === currentId)
 
-      linkNodes.transition().duration(200).attr("stroke", "var(--lightgray)")
+      linkNodes.transition().duration(200).attr("stroke", "var(--gray)")
 
       const parent = this.parentNode as HTMLElement
       d3.select<HTMLElement, NodeData>(parent)

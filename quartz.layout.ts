@@ -34,12 +34,12 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: 1, // how many hops of notes to display
-        scale: 1.9, // default view scale
-        repelForce: 0.5, // how much nodes should repel each other
+        scale: 1.2, // default view scale
+        repelForce: 0.9, // how much nodes should repel each other
         centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 27, // how long should the links be by default?
-        fontSize: 0.3, // what size should the node labels be?
-        opacityScale: 3, // how quickly do we fade out the labels when zooming out?
+        linkDistance: 30, // how long should the links be by default?
+        fontSize: 0.5, // what size should the node labels be?
+        opacityScale: 5, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
@@ -47,11 +47,11 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: -1, // how many hops of notes to display
-        scale: 1.1, // default view scale
+        scale: 0.9, // default view scale
         repelForce: 0.8, // how much nodes should repel each other
-        centerForce: 1.8, // how much force to use when trying to center the nodes
-        linkDistance: 37, // how long should the links be by default?
-        fontSize: 0.4, // what size should the node labels be?
+        centerForce: 0.8, // how much force to use when trying to center the nodes
+        linkDistance: 47, // how long should the links be by default?
+        fontSize: 0.35, // what size should the node labels be?
         opacityScale: 3, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
@@ -78,12 +78,12 @@ export const defaultListPageLayout: PageLayout = {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: 1, // how many hops of notes to display
-        scale: 1.3, // default view scale
-        repelForce: 0.5, // how much nodes should repel each other
+        scale: 1.2, // default view scale
+        repelForce: 0.9, // how much nodes should repel each other
         centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 27, // how long should the links be by default?
-        fontSize: 0.3, // what size should the node labels be?
-        opacityScale: 3, // how quickly do we fade out the labels when zooming out?
+        linkDistance: 30, // how long should the links be by default?
+        fontSize: 0.5, // what size should the node labels be?
+        opacityScale: 5, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
@@ -91,11 +91,11 @@ export const defaultListPageLayout: PageLayout = {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: -1, // how many hops of notes to display
-        scale: 1.0, // default view scale
+        scale: 0.9, // default view scale
         repelForce: 0.8, // how much nodes should repel each other
-        centerForce: 1.8, // how much force to use when trying to center the nodes
-        linkDistance: 37, // how long should the links be by default?
-        fontSize: 0.4, // what size should the node labels be?
+        centerForce: 0.8, // how much force to use when trying to center the nodes
+        linkDistance: 47, // how long should the links be by default?
+        fontSize: 0.35, // what size should the node labels be?
         opacityScale: 3, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
