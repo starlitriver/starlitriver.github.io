@@ -1,11 +1,11 @@
 ---
-aliases: 
+aliases:
+  - nuclei
 links: 
-tags:
-  - biology
+tags: 
 title: 
 ---
 
-the nucleus is a specialized, membrane bound vault in the [[cells|cell]] that is used to enclose the genetic information in [[eukaryotes]]
+the nucleus is a specialized, membrane bound vault in the [[cell|cell]] that is used to enclose the genetic information in [[eukaryote]]
 
-the nucleus has [[nucleic acids]]
+the nucleus has [[nucleic acid]]

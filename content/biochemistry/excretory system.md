@@ -1,7 +1,7 @@
 ---
 aliases: 
 links: 
-tags: 
+tags: []
 title: 
 ---
 
@@ -11,4 +11,4 @@ it is needed to maintain a constant internal environment.
 the metabolism of proteins produce waste products including nitrogen and amino acids
 amino acids these are called nitrogenous wastes.
 
-the most important part of the excretory system is the [[kidneys]] 
+the most important part of the excretory system is the [[kidney]] 

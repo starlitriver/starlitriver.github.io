@@ -1,8 +1,7 @@
 ---
 aliases: 
 links: 
-tags:
-  - mathematics
+tags: []
 title: 
 ---
 

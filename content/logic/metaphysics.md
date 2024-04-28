@@ -19,19 +19,6 @@ what exists?
 
 what is observable?
 
+thinking that everything is either all physical or virtual and there is nothing in between is called [[monism]]
 
-existence
-
-objects
-
-properties
-
-time
-  
-space
-
-cause
-
-effect
-
-possibility
+thinking that some things can be physical while others can be virtual is called [[dualism]]

@@ -11,9 +11,9 @@ deoxyribonucleic acid, DNA, bears the hereditary information that's passed on fr
 it provides instructions for how and when to make the many proteins needed to build and maintain functioning cells, tissues and organisms
 it is similar to RNA - see the [[differences between DNA and RNA]]
 
-in [[eukaryotes]], DNA is found in the [[nucleus]]
+in [[eukaryote]], DNA is found in the [[nucleus]]
 
-DNA is typically broken up into a number of very long, linear pieces called [[chromosomes]]
+DNA is typically broken up into a number of very long, linear pieces called [[chromosome]]
 
 not only do the DNA strands run opposite to each other, they are also antiparallel
 this means the one strand points up while the other strand points down

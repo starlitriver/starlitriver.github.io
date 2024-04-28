@@ -1,7 +1,11 @@
 ---
 aliases: 
 links: 
-tags: 
+tags:
+  - biology
+  - chemistry
+  - mathematics
+  - logic
 title: welcome to starlitriver
 ---
 
@@ -13,10 +17,17 @@ i aim to continuously add to this vault for the purpose of creating a wiki of ac
 who knows, if one day i forget about all these information, i would have an accessible, clear and concise wiki to help me.
 ## usage
 
-we use links and tags to organize the content.
+the pages are organized with links and tags
 
-whenever you want to find tags and pages, the best way to browse is to visit the [tags](/tags)
+always remember use the search bar with control + k
 
-the best way to navigate these pages is to use the graph view on the upper right; if you press the icon in the corner of the graph view, you can open the global graph view of the entire vault.
 
-when searching for a specific topic, remember to toggle the search bar with control k
+navigate using the graph views - local graph and global graph
+you can find the local graph at the top right corner
+press the icon in the corner of the local graph to open the global graph
+
+alternatively, you can navigate using [tags](/tags)
+
+## features
+
+like wikipedia, all article names are singular in form with the exception of nouns that are always plural in english

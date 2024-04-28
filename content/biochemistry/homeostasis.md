@@ -10,8 +10,8 @@ homeostasis is
 the process by which an organism maintains a stable internal environment, despite the changing external environment
 
 it is essential for organisms to maintain a consistent internal environment because
-- biological [[catalysts]] need to operate
-- [[cells]] survive best in an isotonic solution
+- biological [[catalyst]] need to operate
+- [[cell]] survive best in an isotonic solution
 
 homeostasis is a negative feedback loop, meaning that 
 

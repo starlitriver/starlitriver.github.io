@@ -1,6 +1,7 @@
 ---
 aliases: 
-links: 
+links:
+  - cell membranes
 tags:
   - biology
 title: 
@@ -10,7 +11,7 @@ the cells are separated from the outside of the cells by the [[cell membrane]], 
 
 ## membrane composition
 
-the membrane consists of [[phospholipids]]
+the membrane consists of [[phospholipid]]
 
 ## membrane transport
 

@@ -3,7 +3,6 @@ aliases:
 links: 
 tags:
   - formula
-  - mathematics
 title: 
 ---
 

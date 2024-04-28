@@ -1,8 +1,7 @@
 ---
 aliases: 
 links: 
-tags:
-  - logic
+tags: []
 title: 
 ---
 
