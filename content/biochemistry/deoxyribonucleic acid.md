@@ -2,8 +2,7 @@
 aliases:
   - DNA
 links: 
-tags:
-  - biology
+tags: []
 title: 
 ---
 

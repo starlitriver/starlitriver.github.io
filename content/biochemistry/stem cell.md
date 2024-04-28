@@ -6,6 +6,8 @@ tags: []
 title: 
 ---
 
+stem cells can undergo [[cellular differentiation]]
+
 What are stem cells?
 
 Two properties of stem cells: Self-renewal and Potency:

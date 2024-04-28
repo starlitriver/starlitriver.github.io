@@ -2,8 +2,7 @@
 aliases: 
 links:
   - cell membranes
-tags:
-  - biology
+tags: []
 title: 
 ---
 

@@ -1,12 +1,11 @@
 ---
 aliases: 
 links: 
-tags:
-  - biology
+tags: []
 title: 
 ---
 
-Apoptosis is the controlled cell death of eukaryotic cells.
+Apoptosis is the controlled cell death of eukaryotes, as part of the [[eukaryotic cell cycle]]
 
 Apoptosis can occur due to:
 

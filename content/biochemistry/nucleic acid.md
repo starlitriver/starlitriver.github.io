@@ -6,7 +6,7 @@ tags:
 title: 
 ---
 
-nucleic acids are the acids that reside within a [[cell|cell]]'s [[nucleus]]
+nucleic acids are the acids that reside within the [[nucleus]]
 
 nucleic acids are the main information-carrying molecules of the cell, composed of nucleotides with nitrogen-containing bases, sugars, and phosphates
 

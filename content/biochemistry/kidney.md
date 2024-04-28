@@ -2,8 +2,7 @@
 aliases:
   - kidneys
 links: 
-tags:
-  - biology
+tags: 
 title: 
 ---
 

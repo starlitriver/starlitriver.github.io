@@ -2,9 +2,7 @@
 aliases:
   - proteins
 links: 
-tags:
-  - biology
-  - chemistry
+tags: []
 title: 
 ---
 

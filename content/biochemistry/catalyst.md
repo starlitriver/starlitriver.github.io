@@ -3,7 +3,6 @@ aliases:
   - catalysts
 links: 
 tags:
-  - biology
   - chemistry
 title: 
 ---

@@ -6,3 +6,6 @@ tags:
   - chemistry
 title: 
 ---
+
+
+[[protein|proteins]]

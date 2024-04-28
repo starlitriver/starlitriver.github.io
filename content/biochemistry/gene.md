@@ -2,8 +2,7 @@
 aliases:
   - genes
 links: 
-tags:
-  - biology
+tags: []
 title: 
 ---
 
