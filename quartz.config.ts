@@ -18,18 +18,18 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#F3EDD1",
-          lightgray: "#e5e5e5",
-          gray: "#4B4B4B",
+          light: "#FFFAD5",
+          lightgray: "#B6B6B6",
+          gray: "#AEAEAE",
           darkgray: "#212121",
           dark: "#000000",
-          secondary: "#1DAB5C",
+          secondary: "#23BC73",
           tertiary: "#1FCE6E",
           highlight: "rgba(75, 194, 128, 0.1)",
         },
         darkMode: {
           light: "#000000",
-          lightgray: "#393639",
+          lightgray: "#474747",
           gray: "#CCCCCC",
           darkgray: "#e6e6e6",
           dark: "#ffffff",
