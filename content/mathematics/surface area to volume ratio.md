@@ -1,6 +1,8 @@
 ---
 aliases: 
 links: 
-tags: 
+tags:
+  - mathematics
+  - ratio
 title: 
 ---

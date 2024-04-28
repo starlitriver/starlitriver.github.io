@@ -1,3 +1,9 @@
+---
+aliases: 
+links: 
+tags: 
+title: 
+---
 Vascular tissue is a complex conducting tissue, formed of more than one cell type, found in vascular plants. The primary components of vascular tissue are the xylem and phloem. These two tissues transport fluid and nutrients internally.
 
 

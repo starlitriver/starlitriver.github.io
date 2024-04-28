@@ -14,3 +14,9 @@ it is similar to RNA - see the [[differences between DNA and RNA]]
 in [[eukaryotes]], DNA is found in the [[nucleus]]
 
 DNA is typically broken up into a number of very long, linear pieces called [[chromosomes]]
+
+not only do the DNA strands run opposite to each other, they are also antiparallel
+this means the one strand points up while the other strand points down
+this is indicated by the 3 prime and 5 prime ends of the DNA
+
+DNA undergoes [[transcription]]

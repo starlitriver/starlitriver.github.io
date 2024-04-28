@@ -6,11 +6,11 @@ tags:
 title: 
 ---
 
-logarithms are a way of expressing "to what power do you raise the input to get the output"?
+logarithms are a way of expressing "to what [[exponents|exponent]] do you raise the input to get the output"?
 
 logarithms can be simply explained with this rule:
 
-$$\text{if }a^b=c\text{ then }\log_a(c)=b$$
+$\text{if }a^b=c\text{ then }\log_a(c)=b$$
 
 for example, you have $2^4=16$ and $\sqrt[4]{16}=2$ and $\log_2(16)=4$
 so, the log base 2 of 16 is 4
@@ -29,10 +29,10 @@ solving for logarithms operations with logarithms can be done with some rules th
 
 for reference, some operations on logarithms are quite similar to those of exponents
 
-$$\log_a(b)+\log_a(c)=\log_a(b\cdot c)$$
+$\log_a(b)+\log_a(c)=\log_a(b\cdot c)$
 
-$$\log_a(b)-\log_a(c)=\log_a(\dfrac{b}{c})$$
+$\log_a(b)-\log_a(c)=\log_a(\dfrac{b}{c})$
 
-$$\log_a(b^c)=c\cdot \log_a(b)$$
+$\log_a(b^c)=c\cdot \log_a(b)$
 
-$$\log_a(b)=\dfrac{\log_{c}(b)}{\log_{c}(a)}$$
+$\log_a(b)=\dfrac{\log_{c}(b)}{\log_{c}(a)}$

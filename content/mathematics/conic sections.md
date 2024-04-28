@@ -2,6 +2,7 @@
 aliases:
   - circles
 links: 
-tags: 
+tags:
+  - mathematics
 title: 
 ---
