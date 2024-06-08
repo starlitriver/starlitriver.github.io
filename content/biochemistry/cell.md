@@ -26,10 +26,6 @@ all cells consists of [[cytoplasm]] enclosed within a [[cell membrane]]
 and contains many [[macromolecule|macromolecules]] such as
 [[protein|proteins]] and [[nucleic acid|nucleic acids]]
 
-
-
-
 the two main types of cells are [[prokaryote|prokaryotes]] and [[eukaryote|eukaryotes]]
-
 
 the [[cell membrane]] is an effective barrier to separate the [[intracellular fluid]] and the [[extracellular fluid]]

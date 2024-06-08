@@ -1,6 +1,5 @@
 ---
-aliases:
-  - vascular tissues
+aliases: []
 links: 
 tags: 
 title: 

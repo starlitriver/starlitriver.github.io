@@ -12,3 +12,5 @@ also see [[biological system|biological systems]] which are the systems of entit
 
 [[metabolism]]
 [[homeostasis]]
+[[cell cycle]]
+[[morphogenesis]]

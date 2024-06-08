@@ -87,7 +87,7 @@ $\sqrt7 + \sqrt7 = 2 \sqrt7$
 unlike terms cannot be collected.
 $\sqrt2 + \sqrt7 = \sqrt2 + \sqrt7$
 
-when there are many different irrationals, make sure that you get the calcuations right
+when there are many different irrationals, make sure that you get the calculations right
 $\sqrt2 + \sqrt7 - \sqrt5 + \sqrt2 - 4 \sqrt7 = 2\sqrt2-\sqrt5-3\sqrt7$
 
 like terms may combine
