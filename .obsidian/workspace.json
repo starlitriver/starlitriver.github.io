@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "1a6d600f03baca1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c295cf85ee6cc049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcb32a5c116f5a46",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e748747124f7127a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a9096d60a94147c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29862abc3297195a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10aaecf58aeb3139",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3990488a058a664",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c93ddaed91762087",
+    "type": "split",
+    "children": [
+      {
+        "id": "f72b4e9723c370bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb47709ab14ffaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4ce926283988bcb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d30814210932143f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "727c4194f082dbf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "29862abc3297195a",
+  "lastOpenFiles": [
+    "temp/tsconfig.json",
+    "temp/quartz/plugins/transformers/toc.ts",
+    "temp/quartz/plugins/transformers/syntax.ts",
+    "temp/quartz/plugins/transformers/oxhugofm.ts",
+    "temp/quartz/plugins/transformers/ofm.ts",
+    "temp/quartz/plugins/transformers/links.ts",
+    "temp/quartz/plugins/transformers/linebreaks.ts",
+    "temp/quartz/plugins/transformers/latex.ts",
+    "temp/quartz/plugins/transformers/lastmod.ts",
+    "temp/quartz/plugins/transformers/index.ts",
+    "temp/quartz/plugins/transformers/gfm.ts",
+    "temp/quartz/static/og-image.png",
+    "temp/quartz/static/icon.png",
+    "temp/content/biochemistry/assets/loop of henle.jpg",
+    "temp/content/physics/resistance.md",
+    "temp/content/mathematics/unit circle.md",
+    "temp/content/mathematics/trigonometry.md",
+    "temp/content/mathematics/trigonometric identitiy.md",
+    "temp/content/mathematics/surface area to volume ratio.md",
+    "temp/content/mathematics/relation.md",
+    "temp/content/mathematics/regular polyhedron.md",
+    "temp/content/mathematics/quadratic formula.md",
+    "temp/content/mathematics/probability.md",
+    "temp/content/mathematics/power function.md",
+    "temp/content/mathematics/polynomial.md",
+    "temp/content/mathematics/platonic solid.md",
+    "temp/content/mathematics/logarithm.md",
+    "temp/content/mathematics/limit.md",
+    "temp/content/mathematics/inverse function.md",
+    "temp/content/mathematics/golden ratio.md",
+    "temp/content/mathematics/geometry.md",
+    "temp/content/mathematics/factorization.md",
+    "temp/content/mathematics/exponent.md",
+    "temp/content/mathematics/discriminant.md",
+    "temp/content/mathematics/determine polynomial using points.md",
+    "temp/content/mathematics/derivative.md",
+    "temp/content/mathematics/convex.md",
+    "temp/content/mathematics/conic section.md",
+    "temp/content/mathematics/calculus.md"
+  ]
+}
