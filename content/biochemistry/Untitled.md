@@ -1,6 +1,5 @@
 ---
-aliases:
-  - membranes
+aliases: 
 links: 
 tags: 
 title: 

@@ -7,5 +7,6 @@ tags:
 title: 
 ---
 
-
-[[protein|proteins]]
+list of macromolecules:
+- [[protein|proteins]]
+- [[nucleic acid|nucleic acids]] 

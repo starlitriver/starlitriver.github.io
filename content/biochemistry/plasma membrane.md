@@ -14,7 +14,7 @@ the currently accepted model for the structure of the plasma membrane is called 
 
 according to the fluid mosaic model, the plasma membrane is a mosaic of components that move freely and fluidly in the plane of the membrane
 
-![[fluid mosaic model.jpg]]
+![Image of the plasma membrane, showing the phospholipid bilayer with peripheral and integral membrane proteins, glycoproteins (proteins with a carbohydrate attached), glycolipids (lipids with a carbohydrate attached), and cholesterol molecules.](https://cdn.kastatic.org/ka-perseus-images/26ffb8e955fba1897b562cb0b93e8cadf621dfc5.png)
 
 this fluidity means that if you rupture any region of the plasma membrane, the membrane would flow like an ocean and return to its original shape
 

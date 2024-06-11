@@ -20,8 +20,5 @@ the stuff that got squeezed out is now called filtrate. it is made out of water,
 on the other hand, the red blood cells and the proteins do not get filtered.
 from the Bowman's capsule, it flows into the loop of Henle. it extracts most of the water that we need from the filtrate and other things that get reabsorbed back into the blood.
 
-![[loop of henle.jpg]]
-
-
 references
 https://www.khanacademy.org/science/biology/crash-course-bio-ecology/crash-course-biology-science/v/crash-course-biology-128
