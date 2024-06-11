@@ -6,12 +6,14 @@ tags: []
 title: 
 ---
 
-the cells are separated from the outside of the cells by the [[cell membrane]], which is a plasma membrane. this "encasing of salad oil" effectively serves as a barrier that allows some lipid-soluble molecules and some small molecules to permeate the membrane, but the it effectively repels the many large, water-soluble molecules and electrically charged ions that the cell must import or export in order to live.
+the things inside a cell are separated from the outside by the cell membrane, which is a plasma membrane.
+
+this "encasing of salad oil" effectively serves as a barrier that allows some lipid-soluble molecules and some small molecules to permeate the membrane, but the it effectively repels the many large, water-soluble molecules and electrically charged ions that the cell must import or export in order to live.
+
+the cell membrane not only defines the borders of the cell, but also allows the cell to interact with its environment in a controlled way, being selectively permeable.
 
 ## membrane composition
-
-the membrane consists of [[phospholipid]]
-
+see [[plasma membrane]]
 ## membrane transport
 
 ### passive diffusion
@@ -30,4 +32,4 @@ active transport is making molecules against their passive diffusion direction w
 
 ## bulk export
 
-the [[golgi body]] produces vesicles to wrap the contents in a plasma membrane, and merges with the cell membrane so that the contents can be released outside of the cell.
+the [[Golgi apparatus]] produces vesicles to wrap the contents in a plasma membrane, and merges with the cell membrane so that the contents can be released outside of the cell.

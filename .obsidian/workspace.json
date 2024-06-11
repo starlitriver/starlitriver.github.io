@@ -11,11 +11,30 @@
             "id": "e199c76ea59a899c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/biochemistry/cell.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e936a9d76f7143ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/biochemistry/organelle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/biochemistry/organelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/biochemistry/organelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/biochemistry/organelle.md"
+              }
             }
           },
           {
@@ -156,9 +179,16 @@
               "type": "BC-matrix",
               "state": {}
             }
+          },
+          {
+            "id": "ba6125dffdeb4f0f",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,11 +204,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e199c76ea59a899c",
+  "active": "e936a9d76f7143ae",
   "lastOpenFiles": [
+    "content/biochemistry/endoplasmic reticulum.md",
+    "content/biochemistry/Golgi apparatus.md",
+    "content/biochemistry/smooth endoplasmic reticulum.md",
+    "content/biochemistry/organelle.md",
+    "content/biochemistry/endomembrane system.md",
+    "content/biochemistry/differences between DNA and RNA.md",
+    "content/biochemistry/endocrine system.md",
+    "content/biochemistry/detoxification.md",
+    "content/biochemistry/rough endoplasmic reticulum.md",
+    "content/biochemistry/nucleolus.md",
+    "content/biochemistry/nucleus.md",
+    "content/mathematics/surface area to volume ratio.md",
+    "content/biochemistry/cell membrane.md",
+    "content/biochemistry/plasma membrane.md",
+    "content/biochemistry/phospholipid bilayer.md",
+    "content/biochemistry/assets/79c0737aea1eb6ba8ace95fa91d7d473_MD5.jpg",
+    "content/biochemistry/assets/phospholipid structures.jpg",
+    "content/biochemistry/assets/fluid mosaic model.jpg",
+    "content/biochemistry/membrane.md",
+    "content/biochemistry/membranes.md",
+    "content/biochemistry/lipid.md",
+    "content/biochemistry/cell.md",
     "biochemistry/gamete.md",
     "biochemistry/circulatory system.md",
     "mathematics/golden ratio.md",
@@ -186,25 +239,6 @@
     "logic/animal ethics.md",
     "mathematics/set.md",
     "mathematics/number.md",
-    "mathematics/sets.md",
-    "mathematics/natural number.md",
-    "mathematics/integer.md",
-    "mathematics/complex number.md",
-    "mathematics/rational number.md",
-    "mathematics/mathematical object.md",
-    "mathematics/expression.md",
-    "mathematics/constant.md",
-    "logic/free will.md",
-    "mathematics/polynomial.md",
-    "mathematics/2 degree polynomial.md",
-    "mathematics/exponent.md",
-    "logic/fallacies.md",
-    "logic/normative ethics.md",
-    "logic/ethics.md",
-    "mathematics/derivative.md",
-    "logic/intentions and consequences.md",
-    "logic/cardinal virtues.md",
-    "logic/justification.md",
     "biochemistry/assets/loop of henle.jpg",
     "biochemistry/assets",
     "biochemistry",

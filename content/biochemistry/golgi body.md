@@ -1,6 +1,0 @@
----
-aliases: 
-links: 
-tags: []
-title: 
----
