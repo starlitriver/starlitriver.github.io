@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "714232b19d4de082",
+        "id": "28183382bc87314f",
         "type": "tabs",
         "children": [
           {
-            "id": "ac1953312d6e2fa0",
+            "id": "5075e1bdae4242ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/biochemistry/kidney.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -34,16 +29,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa6aa5d71b964ac7",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "a9f8fba691362ee8",
             "type": "leaf",
             "state": {
@@ -59,6 +44,16 @@
             }
           },
           {
+            "id": "aa6aa5d71b964ac7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "2781bdd9d2304c28",
             "type": "leaf",
             "state": {
@@ -66,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,15 +82,22 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/biochemistry/kidney.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "92570731549a21fb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
@@ -103,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/biochemistry/kidney.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/biochemistry/kidney.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,38 +140,6 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
-            }
-          },
-          {
-            "id": "1c303ae53a8bb076",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "3c7bfc994391d075",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
-            }
-          },
-          {
-            "id": "d25d69bd81097899",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba6125dffdeb4f0f",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
             }
           }
         ]
@@ -194,47 +162,49 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ac1953312d6e2fa0",
+  "active": "5075e1bdae4242ee",
   "lastOpenFiles": [
-    "content/biochemistry/plasma membrane.md",
-    "content/biochemistry/cell membrane.md",
-    "content/biochemistry/cell.md",
-    "content/biochemistry/macromolecule.md",
-    "content/biochemistry/organelle.md",
-    "content/biochemistry/intracellular fluid.md",
-    "content/biochemistry/cytoplasm.md",
-    "content/biochemistry/Untitled.md",
-    "content/biochemistry/eukaryote.md",
-    "content/biochemistry/organism.md",
-    "content/biochemistry/vesicle.md",
-    "content/biochemistry/Golgi apparatus.md",
-    "content/biochemistry/cell size.md",
-    "content/biochemistry/endoplasmic reticulum.md",
-    "content/biochemistry/smooth endoplasmic reticulum.md",
-    "content/biochemistry/endomembrane system.md",
-    "content/biochemistry/differences between DNA and RNA.md",
-    "content/biochemistry/endocrine system.md",
-    "content/biochemistry/detoxification.md",
-    "content/biochemistry/rough endoplasmic reticulum.md",
-    "content/biochemistry/nucleolus.md",
-    "content/biochemistry/nucleus.md",
-    "content/mathematics/surface area to volume ratio.md",
-    "content/biochemistry/phospholipid bilayer.md",
+    "README.md",
+    "content/natural sciences/chemistry/organic chemistry/organic molecule.md",
+    "content/natural sciences/chemistry/organic chemistry/organic matter.md",
+    "content/natural sciences/chemistry/organic chemistry/organic compound.md",
+    "content/natural sciences/chemistry/misc/sugar.md",
+    "content/natural sciences/chemistry/misc/polymer.md",
+    "content/natural sciences/chemistry/misc/open?vault=starlitriver.github.io&file=content:.inetloc",
+    "content/natural sciences/chemistry/misc/monosaccharide.md",
+    "content/natural sciences/chemistry/misc/monomer.md",
+    "content/natural sciences/chemistry/misc/molecule.md",
+    "content/natural sciences/chemistry/misc/macromolecule.md",
+    "content/natural sciences/chemistry/misc/lipid.md",
+    "content/natural sciences/chemistry/misc/isotope.md",
+    "content/natural sciences/chemistry/misc/fatty acid.md",
+    "content/natural sciences/chemistry/misc/catalyst.md",
+    "content/natural sciences/chemistry/misc/carbohydrate.md",
+    "content/natural sciences/chemistry/misc/atom.md",
+    "content/natural sciences/chemistry/misc/acid.md",
+    "content/natural sciences/chemistry/biochemistry/ribonucleotide.md",
+    "content/natural sciences/chemistry/biochemistry/protein.md",
+    "content/natural sciences/chemistry/biochemistry/protein structure.md",
+    "content/natural sciences/chemistry/biochemistry/plasma membrane.md",
+    "content/natural sciences/chemistry/biochemistry/phospholipid.md",
+    "content/natural sciences/chemistry/biochemistry/phospholipid bilayer.md",
+    "content/natural sciences/chemistry/biochemistry/nucleotide.md",
+    "content/natural sciences/chemistry/biochemistry/nucleic acid.md",
+    "content/natural sciences/chemistry/biochemistry/molecular entity.md",
+    "content/natural sciences/chemistry/organic chemistry",
+    "content/natural sciences/chemistry/misc",
+    "content/natural sciences/chemistry/biochemistry",
+    "content/natural sciences/biology/misc",
+    "content/natural sciences/biology/cell biology",
+    "content/formal sciences/mathematics/pure mathematics",
+    "content/natural sciences/physics",
+    "content/natural sciences/chemistry",
+    "content/natural sciences/biology",
     "content/biochemistry/assets/79c0737aea1eb6ba8ace95fa91d7d473_MD5.jpg",
     "content/biochemistry/assets/phospholipid structures.jpg",
     "content/biochemistry/assets/fluid mosaic model.jpg",
-    "content/biochemistry/membrane.md",
-    "content/biochemistry/membranes.md",
     "biochemistry/assets/loop of henle.jpg",
-    "biochemistry/assets",
-    "biochemistry",
-    "mathematics/latex-symbols.pdf",
     "assets/loop of henle.jpg",
-    "assets",
-    "biology/assets/loop of henle.jpg",
-    "biology/assets",
-    "logic",
-    "physics",
-    "chemistry"
+    "biology/assets/loop of henle.jpg"
   ]
 }
