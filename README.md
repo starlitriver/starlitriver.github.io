@@ -7,9 +7,10 @@ title:
 
 this is a repository of my notes, all found in the "content" folder
 
-notes are edited with https://obsidian.md
-you can see that there is a ".obsidian" folder for my obsidian configurations but keep in mind that it's a little outdated but you can replace it easily
-if you download this repository you can do anything with these notes!
-obsidian makes them much easier to read offline :)
+these notes are published on the web with https://github.com/jackyzha0/quartz
 
-published with https://github.com/jackyzha0/quartz
+i recommend downloading this repository for easier access
+
+you should use this repository with https://obsidian.md to make it much easier to use...
+
+dream big dreams!

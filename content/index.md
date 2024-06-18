@@ -13,12 +13,14 @@ i aim to continuously add to this repository for the purpose of creating a wiki 
 
 ## usage
 
-visit the [github repository](https://github.com/starlitriver/starlitriver.github.io) for easier access!
+see the [github repository](https://github.com/starlitriver/starlitriver.github.io) to make reading these notes much easier!
 
-to find something quickly, always remember use the search bar with control + k
+to find something quickly use the search bar with control + k
+try it out and always remember that the search feature exists :)
 
 the pages are organized with links, following the flexible organization of wikipedia pages...
 hence it's useful to navigate using the graph views - you can find the local graph at the top right corner, and the global graph can be found pressing the icon in the corner of the local graph
 
-as an alternative, you can use [tags](/tags) to navigate the hierarchy - the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
-yes, i know that tags aren't supposed to be used to navigate folders... but this way there are not too many cooks in the soup bowl :)
+as an alternative, you can use the file explorer to navigate the hierarchy - the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
+
+i have also created some [tags](/tags) to highlight some points of interest

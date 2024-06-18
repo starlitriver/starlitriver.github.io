@@ -1,7 +1,9 @@
 ---
 aliases: 
 links: 
-tags: 
+tags:
+  - situation
+  - psychology
 title: 
 ---
 
