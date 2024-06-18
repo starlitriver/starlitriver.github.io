@@ -1,9 +1,3 @@
----
-aliases: 
-links: 
-tags: 
-title: 
----
 
 this is a repository of my notes, all found in the "content" folder
 

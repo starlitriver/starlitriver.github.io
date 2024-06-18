@@ -115,13 +115,12 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   const simulation: d3.Simulation<NodeData, LinkData> = d3
     .forceSimulation(graphData.nodes)
     .force("charge", d3.forceManyBody().strength(-100 * repelForce))
-    .force("gravity", d3.forceManyBody().strength(60.1))
     .force(
       "link",
       d3
         .forceLink(graphData.links)
         .id((d: any) => d.id)
-        .distance(linkDistance),
+        .distance(Math.sqrt(1+Math.random())*linkDistance),
     )
     .force("center", d3.forceCenter().strength(centerForce))
 
@@ -143,7 +142,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .join("line")
     .attr("class", "link")
     .attr("stroke", "var(--lightgray)")
-    .attr("stroke-width", 1)
+    .attr("stroke-width", 0.5)
 
   // svg groups
   const graphNode = svg.append("g").selectAll("g").data(graphData.nodes).enter().append("g")
@@ -217,19 +216,19 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
 
         d3.selectAll<HTMLElement, NodeData>(".link")
           .transition()
-          .duration(200)
-          .style("opacity", 0.2)
+          .duration(10)
+          .style("opacity", 0.3)
         d3.selectAll<HTMLElement, NodeData>(".node")
           .filter((d) => !connectedNodes.includes(d.id))
           .transition()
-          .duration(200)
-          .style("opacity", 0.2)
+          .duration(10)
+          .style("opacity", 0.3)
       }
 
       // highlight links
-      linkNodes.transition().duration(200).attr("stroke", "var(--gray)").attr("stroke-width", 1)
+      linkNodes.transition().duration(10).attr("stroke", "var(--gray)").attr("stroke-width", 0.9)
 
-      const bigFont = fontSize * 1.5
+      const bigFont = fontSize * 1.4
 
       // show text for self
       const parent = this.parentNode as HTMLElement
@@ -237,28 +236,28 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         .raise()
         .select("text")
         .transition()
-        .duration(200)
+        .duration(10)
         .attr("opacityOld", d3.select(parent).select("text").style("opacity"))
         .style("opacity", 1)
         .style("font-size", bigFont + "em")
     })
     .on("mouseleave", function (_, d) {
       if (focusOnHover) {
-        d3.selectAll<HTMLElement, NodeData>(".link").transition().duration(200).style("opacity", 1)
-        d3.selectAll<HTMLElement, NodeData>(".node").transition().duration(200).style("opacity", 1)
+        d3.selectAll<HTMLElement, NodeData>(".link").transition().duration(20).style("opacity", 1)
+        d3.selectAll<HTMLElement, NodeData>(".node").transition().duration(20).style("opacity", 1)
       }
       const currentId = d.id
       const linkNodes = d3
         .selectAll(".link")
         .filter((d: any) => d.source.id === currentId || d.target.id === currentId)
 
-      linkNodes.transition().duration(200).attr("stroke", "var(--lightgray)")
+      linkNodes.transition().duration(20).attr("stroke", "var(--lightgray)")
 
       const parent = this.parentNode as HTMLElement
       d3.select<HTMLElement, NodeData>(parent)
         .select("text")
         .transition()
-        .duration(200)
+        .duration(20)
         .style("opacity", d3.select(parent).select("text").attr("opacityOld"))
         .style("font-size", fontSize + "em")
     })
