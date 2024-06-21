@@ -2,9 +2,7 @@
 aliases:
   - trig identities
   - trigonometric identities
-links: 
 tags: 
-title: 
 ---
 
 here are a few equations concerning trig functions that would prove to be useful in simplifying or transforming functions

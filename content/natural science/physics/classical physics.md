@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 classical physics is a branch of [[physics]] consisting of physics theories 

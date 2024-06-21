@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 dualism means that some things can be physical while others can be virtual 

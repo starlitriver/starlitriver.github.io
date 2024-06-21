@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 to justify something is really hard.

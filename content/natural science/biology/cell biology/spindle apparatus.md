@@ -2,9 +2,7 @@
 aliases:
   - mitotic spindle
   - meiotic spindle
-links: 
 tags: 
-title: 
 ---
 
 in cell biology, the spindle apparatus is a structure in eukaryotes that forms during [[cell division]] to separate [[sister chromatids]] 

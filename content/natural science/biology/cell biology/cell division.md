@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 cell division is the final part of the [[cell cycle]]

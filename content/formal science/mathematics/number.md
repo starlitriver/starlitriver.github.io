@@ -3,9 +3,7 @@ aliases:
   - number
   - constant
   - constants
-links: 
 tags: 
-title: 
 ---
 
 a number is a [[mathematical object]] used to count, measure and label

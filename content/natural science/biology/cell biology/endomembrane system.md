@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the endomembrane system is a group of membranes and organelles in eukaryotic cells that works together to modify, package, and transport lipids and proteins.

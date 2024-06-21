@@ -1,9 +1,7 @@
 ---
 aliases:
   - polynomials
-links: 
 tags: 
-title: 
 ---
 
 a polynomial is a math [[expression]]

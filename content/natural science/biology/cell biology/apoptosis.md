@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 Apoptosis is the controlled cell death of eukaryotes, as part of the [[eukaryotic cell cycle]]

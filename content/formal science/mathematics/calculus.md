@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 calculus has two major branches, [differential calculus](https://en.wikipedia.org/wiki/Differential_calculus "Differential calculus") and [integral calculus](https://en.wikipedia.org/wiki/Integral_calculus "Integral calculus")

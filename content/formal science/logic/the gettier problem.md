@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the gettier problem is the weakness of the [[plato's theory of knowledge]]

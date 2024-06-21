@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 hemoglobin is a [[protein]] that facilitates the transport of oxygen in [[red blood cell|red blood cells]]

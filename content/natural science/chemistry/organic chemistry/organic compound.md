@@ -1,9 +1,7 @@
 ---
 aliases:
   - organic compounds
-links: 
 tags: 
-title: 
 ---
 
 in biochemistry, an organic compound is a [[chemical compound]] that contains a carbon-hydrogen or carbon-carbon bond

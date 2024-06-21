@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 in cell biology, prophase is the first stage of [[mitosis]]

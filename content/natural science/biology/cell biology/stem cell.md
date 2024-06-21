@@ -1,9 +1,7 @@
 ---
 aliases:
   - stem cells
-links: 
 tags: 
-title: 
 ---
 
 stem cells can undergo [[cellular differentiation]]

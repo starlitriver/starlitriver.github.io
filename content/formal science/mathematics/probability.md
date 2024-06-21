@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the probability of an even happening is depicted with a number from 0 to 1

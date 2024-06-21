@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 a vesicle is a biological structure consisting of liquid or [[cytoplasm]] enclosed by a [[phospholipid bilayer]]

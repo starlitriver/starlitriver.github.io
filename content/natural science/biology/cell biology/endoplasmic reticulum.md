@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the endoplasmic reticulum (ER) is part of the [[endomembrane system]] in eukaryotic cells

@@ -2,9 +2,7 @@
 aliases:
   - cellular biology
   - cytology
-links: 
 tags: 
-title: 
 ---
 
 cell biology is a branch of biology that studies the structure, function, and behavior of [[cell|cells]]

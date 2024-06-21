@@ -1,9 +1,8 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
+
 animal ethics is a heated moral debate
 
 speciesism is a form of prejudice

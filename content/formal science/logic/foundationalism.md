@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 foundationalism refers to the theory of justification in which we say that all knowledge or justified belief rest ultimately on self-evident or foundational beliefs that are taken to be true and don't require further justification or scrutiny.

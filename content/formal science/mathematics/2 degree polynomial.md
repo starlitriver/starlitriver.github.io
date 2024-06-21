@@ -3,9 +3,7 @@ aliases:
   - quadratics
   - quadratic
   - 2 degree polynomials
-links: 
 tags: 
-title: 
 ---
 
 a 2 degree polynomial is a [[polynomial]] that has an maximum [[exponent]] of 2

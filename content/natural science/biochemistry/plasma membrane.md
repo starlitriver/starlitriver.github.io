@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 a plasma membrane is a network of lipids and proteins based upon a [[phospholipid bilayer]]

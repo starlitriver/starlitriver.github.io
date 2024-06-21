@@ -1,9 +1,7 @@
 ---
 aliases:
   - 3 degree polynomials
-links: 
 tags: 
-title: 
 ---
 
 also called a cubic equation (the graph of which is called a cubic graph so there isn't another fancy word to haunt you)

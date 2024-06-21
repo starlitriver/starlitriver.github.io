@@ -1,9 +1,7 @@
 ---
 aliases:
   - centriole
-links: 
 tags: 
-title: 
 ---
 
 in cell biology, a centriole is a cylindrical [[organelle]] composed of mainly a protein called tubulin

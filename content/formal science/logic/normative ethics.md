@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 normative ethics is a study of [[ethics]] and asks: what are the practical and rational means to determine what is right?

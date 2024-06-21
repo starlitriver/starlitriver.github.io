@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 a regular polyhedron is a [[polyhedrons|polyhedron]] that is highly symmetrical

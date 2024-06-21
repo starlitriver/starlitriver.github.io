@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 [[acceleration]] in meters per second squared is equal to [[force]] in newtons divided by [[mass]] in kilograms

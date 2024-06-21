@@ -1,9 +1,7 @@
 ---
 aliases:
   - limits
-links: 
 tags: 
-title: 
 ---
 
 the limit is the fundamental concept in calculus.

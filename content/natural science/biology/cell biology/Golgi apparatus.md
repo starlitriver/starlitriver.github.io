@@ -2,9 +2,7 @@
 aliases:
   - Golgi body
   - Golgi complex
-links: 
 tags: 
-title: 
 ---
 
 the Golgi apparatus, also called the Golgi body, was one of the first organelles to be discovered

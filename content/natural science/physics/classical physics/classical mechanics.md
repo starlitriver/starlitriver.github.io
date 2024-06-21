@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 in physics, classical mechanics studies motion for macroscopic objects

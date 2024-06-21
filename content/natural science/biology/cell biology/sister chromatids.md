@@ -5,9 +5,7 @@ aliases:
   - chromatids
   - chromatid
   - daughter chromatids
-links: 
 tags: 
-title: 
 ---
 
 in cell biology, the sister chromatids are the identical copies, formed by the [[DNA replication]] of a [[chromosome]]

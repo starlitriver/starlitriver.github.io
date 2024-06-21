@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the surface area to volume ratio of a solid is depicted as the SA:V ratio

@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 in physics, electromagnetism is the study of electromagnetic force, one of the [[fundamental interaction|fundamental interactions]]

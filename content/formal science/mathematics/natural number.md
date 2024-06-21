@@ -1,9 +1,7 @@
 ---
 aliases:
   - natural numbers
-links: 
 tags: 
-title: 
 ---
 
 a natural number is an [[integer]] that is not negative

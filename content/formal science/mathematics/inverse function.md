@@ -1,9 +1,7 @@
 ---
 aliases:
   - inverse functions
-links: 
 tags: 
-title: 
 ---
 
 for function $f$, the function that makes the output be the input would be $f^{-1}$

@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 biochemistry is a branch of [[biology]] and [[chemistry]] that studies chemical processes within and relating to organisms

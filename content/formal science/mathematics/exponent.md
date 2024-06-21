@@ -3,9 +3,7 @@ aliases:
   - indicies
   - exponents
   - power
-links: 
 tags: 
-title: 
 ---
 
 exponents, also known as indicies, are the little numbers on the upper right corner.

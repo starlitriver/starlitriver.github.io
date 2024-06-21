@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the chromosomes start to line up at the equator of the cell and attach themselves to a spindle fiber

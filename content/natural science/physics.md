@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 physics is a [[natural science]] that studies matter, its fundamental constituents, its motion through either space and time or spacetime, and the related entities of energy and force

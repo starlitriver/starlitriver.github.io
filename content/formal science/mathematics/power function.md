@@ -1,9 +1,7 @@
 ---
 aliases:
   - power functions
-links: 
 tags: 
-title: 
 ---
 
 power functions are functions that follow the pattern $f(x)=x^n$ where n is a real number

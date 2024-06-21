@@ -1,10 +1,8 @@
 ---
 aliases: 
-links: 
 tags:
   - situation
   - psychology
-title: 
 ---
 
 a lemon market will be produced if

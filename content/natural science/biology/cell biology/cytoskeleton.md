@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the cytoskeleton of a cell gives the cell its shape and mechanical resistance to deformation

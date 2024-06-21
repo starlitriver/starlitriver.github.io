@@ -1,6 +1,4 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---

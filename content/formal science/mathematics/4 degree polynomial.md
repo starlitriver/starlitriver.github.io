@@ -1,9 +1,7 @@
 ---
 aliases:
   - 4 degree polynomials
-links: 
 tags: 
-title: 
 ---
 
 also called a quartic equation

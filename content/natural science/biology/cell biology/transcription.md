@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 transcription of [[nucleic acid]] means reading the [[amino acid]] on there to know how to program a protein

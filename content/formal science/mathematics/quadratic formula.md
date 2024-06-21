@@ -1,9 +1,7 @@
 ---
 aliases:
   - formula
-links: 
 tags: 
-title: 
 ---
 
 quadratic is a fancy word for 2 degree polynomial - but imagine calling it the 2 degree polynomial formula

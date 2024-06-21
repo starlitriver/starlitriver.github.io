@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 a reliabilist theory of justified belief can be stated as follows:

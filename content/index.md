@@ -1,6 +1,5 @@
 ---
 aliases: 
-links: 
 tags: 
 title: welcome to starlitriver
 ---

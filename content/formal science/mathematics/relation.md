@@ -2,9 +2,7 @@
 aliases:
   - functions
   - relations
-links: 
 tags: 
-title: 
 ---
 
 relations in mathematics is a broad concept; it is about how sets of numbers relate to each other, so often you will deal with equationsa and funcitons.

@@ -1,9 +1,7 @@
 ---
 aliases:
   - DNA
-links: 
 tags: 
-title: 
 ---
 
 deoxyribonucleic acid, DNA, bears the hereditary information that's passed on from parents to children

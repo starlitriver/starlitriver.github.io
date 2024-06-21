@@ -2,9 +2,7 @@
 aliases:
   - cells
   - cellular
-links: 
 tags: 
-title: 
 ---
 
 cells are the smallest structural and functional unit of an [[organism]]

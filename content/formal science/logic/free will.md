@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 free will: the power of acting without the constraint of necessity or fate; the ability to act at one's own discretion.

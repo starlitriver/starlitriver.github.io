@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the golden ratio is represented by the greek letter phi, $\phi$ 

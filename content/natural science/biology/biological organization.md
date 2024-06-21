@@ -1,9 +1,7 @@
 ---
 aliases:
   - hierarchy of life
-links: 
 tags: 
-title: 
 ---
 
 biological organization is the organization of complex biological structures and systems that define life

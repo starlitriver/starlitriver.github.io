@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 a logical fallacy is an argument that may sound convincing or true but is actually flawed.

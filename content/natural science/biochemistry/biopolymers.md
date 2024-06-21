@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 biopolymers are natural [[polymer|polymers]] produced by cells of living organisms

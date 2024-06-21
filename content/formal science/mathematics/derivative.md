@@ -1,9 +1,7 @@
 ---
 aliases:
   - derivatives
-links: 
 tags: 
-title: 
 ---
 
 ## intro

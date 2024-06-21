@@ -1,9 +1,6 @@
 ---
 aliases: 
-links:
-  - cell membranes
 tags: 
-title: 
 ---
 
 the things inside a cell are separated from the outside by the cell membrane, which is a plasma membrane.

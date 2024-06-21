@@ -1,9 +1,7 @@
 ---
 aliases:
   - organelles
-links: 
 tags: 
-title: 
 ---
 
 an organelle is a specialized [[cell|cellular]] part that has a specific function and is considered analogous to an organ, therefore called organelles.

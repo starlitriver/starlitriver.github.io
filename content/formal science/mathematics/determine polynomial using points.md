@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 a polynomial of degree $n$ can be determined using $n+1$ points on the polynomial, because by substituting the coordinates in the polynomial you can create simultaneous equations and solve them.

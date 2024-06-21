@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 mitosis is a part of the [[eukaryotic cell cycle]] in which the replicated chromosomes are separated into two new nuclei

@@ -1,9 +1,7 @@
 ---
 aliases:
   - catalysts
-links: 
 tags: 
-title: 
 ---
 
 a catalyst is a substance that can be added to a reaction to increase the reaction rate without getting consumed in the process.

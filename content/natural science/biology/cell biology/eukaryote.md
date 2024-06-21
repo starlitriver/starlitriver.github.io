@@ -1,9 +1,7 @@
 ---
 aliases:
   - eukaryotes
-links: 
 tags: 
-title: 
 ---
 
 for comparisons between prokaryotes see the [[prokaryotes and eukaryotes comparison table]]

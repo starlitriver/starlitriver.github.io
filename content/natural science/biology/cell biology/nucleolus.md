@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 the nucleolus is the largest structure in the nucleus of eukaryotic cells

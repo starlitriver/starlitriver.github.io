@@ -1,9 +1,7 @@
 ---
 aliases:
   - proteins
-links: 
 tags: 
-title: 
 ---
 
 like [[nucleic acid|nucleic acids]], proteins are also [[polymer|polymers]]

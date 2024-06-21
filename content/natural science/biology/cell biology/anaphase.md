@@ -1,8 +1,6 @@
 ---
 aliases: 
-links: 
 tags: 
-title: 
 ---
 
 in cell biology, anaphase is the third stage of [[mitosis]] when replicated chromosomes are split and the newly-copied chromosomes, [[sister chromatids]], are moved to opposite poles of the cell

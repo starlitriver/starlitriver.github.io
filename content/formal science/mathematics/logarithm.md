@@ -1,9 +1,7 @@
 ---
 aliases:
   - logarithms
-links: 
 tags: 
-title: 
 ---
 
 logarithms are a way of expressing "to what [[exponent|exponent]] do you raise the input to get the output"?
