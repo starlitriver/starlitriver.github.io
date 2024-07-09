@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: {},
     locale: "en-US",
     baseUrl: "starlitriver.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["assets/*.md", ".obsidian"],
     defaultDateType: "modified", // created or modified
     theme: {
       fontOrigin: "googleFonts",
