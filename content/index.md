@@ -10,20 +10,23 @@ this is a website presenting my academic notes
 
 i aim to continuously add to this repository for the purpose of creating a wiki of academic knowledge - if one day i forget about all these, i would have an accessible, clear and concise wiki to help me.
 
+all knowledge is good knowledge
+
 ## usage
 
 i'm honored that you'll use these notes!
 this network of notes is best accessed offline for easier navigation and appearance - see the [github repository](https://github.com/starlitriver/starlitriver.github.io) to make reading much easier!
 
-to find something quickly use the search bar with control + k
-try it out and always remember that the search feature exists :)
+always press the `/` key to search for something
 
-the pages are organized with links
-hence it's useful to navigate using the graph views - you can find the local graph at the top right corner, and the global graph can be found pressing the icon in the corner of the local graph
+these pages are mostly organized with links though some pages have [tags](/tags)
+so it's useful to navigate using the graph views
+you can find the local graph at the top right corner
+you can find the global graph by pressing the icon in the corner of the local graph
+
+
 
 as an alternative, you can use the file explorer to navigate the hierarchy - the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
-
-some interesting pages have [tags](/tags)
 
 ## ted talk
 
