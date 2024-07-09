@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-biochemistry is a branch of [[biology]] and [[chemistry]] that studies chemical processes within and relating to organisms
+biochemistry is a branch of [[content/natural/biology/index]] and [[content/natural/chemistry/index]] that studies chemical processes within and relating to organisms
 
 it is also a subset of [[organic chemistry]] since organisms are a subset of organic matter
 
