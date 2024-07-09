@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "quartz fork",
+    pageTitle: "starlitriver",
     enableSPA: true,
     enablePopovers: true,
     analytics: {},
     locale: "en-US",
-    baseUrl: "somewherer.github.io/quartz",
+    baseUrl: "starlitriver.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified", // created or modified
     theme: {

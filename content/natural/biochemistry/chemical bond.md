@@ -1,0 +1,5 @@
+---
+aliases:
+  - chemical bonds
+tags: 
+---

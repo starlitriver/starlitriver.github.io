@@ -1,5 +1,7 @@
 
-fork of https://github.com/jackyzha0/quartz
+starlitriver is a repository of my notes
+i recommend cloning this repository and using obsidian to view and edit everything here
 
-this quartz fork is created for some minor changes upon the original project.\
-feel free to inspect branches and commits!
+alternatively, view starlitriver at https://starlitriver.github.io
+
+all knowledge is good knowledge

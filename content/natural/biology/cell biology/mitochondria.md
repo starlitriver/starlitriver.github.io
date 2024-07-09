@@ -1,0 +1,5 @@
+---
+aliases:
+  - mitochondriae
+tags: 
+---
