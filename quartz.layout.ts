@@ -100,7 +100,5 @@ export const defaultListPageLayout: PageLayout = {
         showTags: true, // whether to show tags in the graph
       },
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
