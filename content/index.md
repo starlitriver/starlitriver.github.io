@@ -38,7 +38,7 @@ science is thinking.
 it is the art of asking the questions of curiosity
 it is the quest for 
 
-no matter if you're good at [[natural]] or [[formal]], you are a part of our understanding of the world
+no matter if you're good at [[natural science]] or [[formal science]], you are a part of our understanding of the world
 
 every teacher is a science teacher
 and you, too, can be a science teacher.
