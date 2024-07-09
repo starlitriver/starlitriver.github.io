@@ -1,0 +1,12 @@
+---
+aliases: 
+tags: 
+---
+
+formal science is a branch of science that studies disciplines with abstract structures described by formal systems
+
+knowledge in formal science cannot be justified or tested with empirical evidence so formal science relies on axioms from which theorems are made
+
+formal sciences include
+- [[logic]]
+- [[mathematics]]

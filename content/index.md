@@ -1,50 +1,41 @@
 ---
-title: quartz fork
+aliases: 
+tags: 
+title: welcome to starlitriver
 ---
 
-this project is a fork of https://github.com/jackyzha0/quartz
-you can view changes made in this fork at https://github.com/somewherer/quartz
+## about
 
+this is a website presenting my academic notes
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, websites, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+i aim to continuously add to this repository for the purpose of creating a wiki of academic knowledge - if one day i forget about all these, i would have an accessible, clear and concise wiki to help me.
 
-## 🪴 Get Started
+## usage
 
-Quartz requires **at least [Node](https://nodejs.org/) v18.14** and `npm` v9.3.1 to function correctly. Ensure you have this installed on your machine before continuing.
+i'm honored that you'll use these notes!
+this network of notes is best accessed offline for easier navigation and appearance - see the [github repository](https://github.com/starlitriver/starlitriver.github.io) to make reading much easier!
 
-Then, in your terminal of choice, enter the following commands line by line:
+to find something quickly use the search bar with control + k
+try it out and always remember that the search feature exists :)
 
-```shell
-git clone https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz create
-```
+the pages are organized with links
+hence it's useful to navigate using the graph views - you can find the local graph at the top right corner, and the global graph can be found pressing the icon in the corner of the local graph
 
-This will guide you through initializing your Quartz with content. Once you've done so, see how to:
+as an alternative, you can use the file explorer to navigate the hierarchy - the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
 
-1. [[authoring content|Writing content]] in Quartz
-2. [[configuration|Configure]] Quartz's behaviour
-3. Change Quartz's [[layout]]
-4. [[build|Build and preview]] Quartz
-5. Sync your changes with [[setting up your GitHub repository|GitHub]]
-6. [[hosting|Host]] Quartz online
+some interesting pages have [tags](/tags)
 
-If you prefer instructions in a video format you can try following Nicole van der Hoeven's
-[video guide on how to set up Quartz!](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=227s)
+## ted talk
 
-## 🔧 Features
+since you're already here, welcome to my ted talk on science!
 
-- [[Obsidian compatibility]], [[full-text search]], [[graph view]], note transclusion, [[wikilinks]], [[backlinks]], [[features/Latex|Latex]], [[syntax highlighting]], [[popover previews]], [[Docker Support]], [[i18n|internationalization]] and [many more](./features) right out of the box
-- Hot-reload for both configuration and content
-- Simple JSX layouts and [[creating components|page components]]
-- [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes
-- Fully-customizable parsing, filtering, and page generation through [[making plugins|plugins]]
+\[ted opening music\]
 
-For a comprehensive list of features, visit the [features page](/features). You can read more about the _why_ behind these features on the [[philosophy]] page and a technical overview on the [[architecture]] page.
+science is thinking.
+it is the art of asking the questions of curiosity
+it is the quest for 
 
-### 🚧 Troubleshooting + Updating
+no matter if you're good at [[natural science]] or [[formal science]], you are a part of our understanding of the world
 
-Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
-
-If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
+every teacher is a science teacher
+and you, too, can be a science teacher.
