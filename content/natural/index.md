@@ -1,6 +1,9 @@
 ---
-aliases: 
+aliases:
+  - natural sciences
+  - natural science
 tags: 
+title: natural sciences
 ---
 
 natural science is a branch of science that studies the description, understanding and prediction of natural phenomena

@@ -1,6 +1,8 @@
 ---
-aliases: 
+aliases:
+  - logic
 tags: 
+title: logic
 ---
 
-logic is the study of reasoning. it includes both formal logic and informal logic
+logic is the study of reasoning

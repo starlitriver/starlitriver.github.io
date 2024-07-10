@@ -3,10 +3,8 @@ aliases:
 tags: 
 ---
 
-
-
 # protein structure levels
-protein structure can be classified using the 4 protein structure levels=
+protein structure can be classified using the 4 protein structure levels
 
 protein structure levels help us determine the overall structure of a protein
 ## primary structure

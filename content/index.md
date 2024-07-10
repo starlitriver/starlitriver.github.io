@@ -19,14 +19,19 @@ this network of notes is best accessed offline for easier navigation and appeara
 
 always press the `/` key to search for something
 
-these pages are mostly organized with links though some pages have [tags](/tags)
+these pages are mostly organized with links 
 so it's useful to navigate using the graph views
 you can find the local graph at the top right corner
 you can find the global graph by pressing the icon in the corner of the local graph
 
 
 
-as an alternative, you can use the file explorer to navigate the hierarchy - the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
+
+you can also navigate the hierarchy with the explorer, breadcrumbs 
+
+the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
+
+also some pages have [tags](/tags)
 
 ## ted talk
 
@@ -35,10 +40,10 @@ since you're already here, welcome to my ted talk on science!
 \[ted opening music\]
 
 science is thinking.
-it is the art of asking the questions of curiosity
+it is the art of asking the questions
 it is the quest for 
 
-no matter if you're good at [[natural science]] or [[formal science]], you are a part of our understanding of the world
+you are a part of our understanding of the world
 
 every teacher is a science teacher
 and you, too, can be a science teacher.
