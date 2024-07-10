@@ -5,10 +5,11 @@ aliases:
 tags:
 ---
 
+in mathematics, the multiplicative inverse is an operation of arity 1 
+
+also known as reciprocal, for a number $x$ is the number that when multiplied by $x$ gives the number $1$
+
 not to be confused with [[inverse function]]
-
-in mathematics, a multiplicative inverse, also known as reciprocal, for a number $x$ is the number that when multiplied by $x$ gives the number $1$
-
 
 ## notation
 the reciprocal of $x$ is depicted as $\dfrac{1}{x}$

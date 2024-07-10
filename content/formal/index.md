@@ -1,6 +1,9 @@
 ---
-aliases: 
+aliases:
+  - formal sciences
+  - formal science
 tags: 
+title: formal sciences
 ---
 
 formal science is a branch of science that studies disciplines with abstract structures described by formal systems

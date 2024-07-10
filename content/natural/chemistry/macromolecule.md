@@ -10,5 +10,4 @@ even though [[polymer|polymers]] are made from macromolecules, some large macrom
 
 
 list of macromolecules:
-- [[biopolymers]]
-> proteins, carbohydrates and nucleic acids are biopolymers
+- [[biopolymers]], including proteins, carbohydrates and nucleic acids
