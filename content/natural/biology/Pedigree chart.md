@@ -17,5 +17,4 @@ Pedigree charts are typically formatted
 - a half shaded shape means the individual is a heterozygous carrier of the trait
 
 
-example of a Pedigree chart
-![[content/assets/Wiki_Drawing_-_Autosomal_Dominant.svg|291]]
+Pedigree charts can be seen in the page about [[genetic disorder|genetic disorders]]

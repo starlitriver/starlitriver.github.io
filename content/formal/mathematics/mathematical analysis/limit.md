@@ -45,12 +45,19 @@ if the values from left hand side and right hand side are both infinity or both 
 
 when dealing with limits we have these laws for $a$, $b$, and $c$ are constants
 
+$\lim \limits_{x \to c}x=0$
+
 $\lim \limits_{x \to c} \left[ f(x)+g(x) \right] = \lim \limits_{x \to c} f(x) + \lim \limits_{x \to c} g(x)$
 $\lim \limits_{x \to c} \left[ f(x)-g(x) \right] = \lim \limits_{x \to c} f(x) - \lim \limits_{x \to c} g(x)$
 $\lim \limits_{x \to c} \left[ f(x)\cdot g(x) \right] = \lim \limits_{x \to c} f(x) \cdot \lim \limits_{x \to c} g(x)$
+
 $\lim \limits_{x \to c} \left[ \dfrac{f(x)}{g(x)} \right] = \dfrac{ \lim \limits_{x \to c} f(x) }{ \lim \limits_{x \to c} g(x) }$
-$\lim \limits_{x \to c} \left[ f(x)^a \right]= \left[\lim\limits_{x\to c}f(x)\right]^a$
-$\lim \limits_{x \to c} \left[ c\cdot f(x)^a \right]=c\cdot\left[\lim\limits_{x\to c}f(x)\right]$
+
+$\lim \limits_{x \to a} \left[ a\cdot f(x) \right]=a\cdot\lim\limits_{x\to c}f(x)$
+
+$\lim \limits_{x \to c} \left[ f(x) \right]= \left[\lim\limits_{x\to c}f(x)\right]^a$
+
+$\lim \limits_{x \to c} \left[a^{f(x)} \right]=a^{\lim\limits_{x\to c}f(x)}$
 
 if $f(x)=g(x)$ for every $x$ in an interval except for when $x=c$ then $\lim\limits_{x\to c}[f(x)]=\lim\limits_{x\to c}[g(x)]$
 
@@ -60,13 +67,14 @@ if the above rule cannot be used you should follow this [video](https://www.khan
 
 even though the limits do not exist individually they might exist for combinations of functions
 for the following rules, if the left hand and right hand combined limits exist then the combined limit exists
-$\lim \limits_{x \to c^-} \left[ f(x)+g(x) \right] = \lim \limits_{x \to c^-} [f(x)] + \lim \limits_{x \to c^-} [g(x)]$
-$\lim \limits_{x \to c^+} \left[ f(x)+g(x) \right] = \lim \limits_{x \to c^+} [f(x)] + \lim \limits_{x \to c^+} [g(x)]$
-$\lim \limits_{x \to c^-} \left[ f(x)-g(x) \right] = \lim \limits_{x \to c^-} [f(x)] - \lim \limits_{x \to c^-} [g(x)]$
-$\lim \limits_{x \to c^+} \left[ f(x)-g(x) \right] = \lim \limits_{x \to c^+} [f(x)] - \lim \limits_{x \to c^+} [g(x)]$
-$\lim \limits_{x \to c^-} \left[ f(x)\cdot g(x) \right] = \lim \limits_{x \to c^-} [f(x)] \cdot \lim \limits_{x \to c^-} [g(x)]$
-$\lim \limits_{x \to c^+} \left[ f(x)\cdot g(x) \right] = \lim \limits_{x \to c^+} [f(x)] \cdot \lim \limits_{x \to c^+} [g(x)]$
-
+$\lim \limits_{x \to c^-} f(x)+g(x) = \lim \limits_{x \to c^-} f(x) + \lim \limits_{x \to c^-} g(x)$
+$\lim \limits_{x \to c^+} f(x)+g(x) = \lim \limits_{x \to c^+} f(x) + \lim \limits_{x \to c^+} g(x)$
+$\lim \limits_{x \to c^-} f(x)-g(x) = \lim \limits_{x \to c^-} f(x) - \lim \limits_{x \to c^-} g(x)$
+$\lim \limits_{x \to c^+} f(x)-g(x) = \lim \limits_{x \to c^+} f(x) - \lim \limits_{x \to c^+} g(x)$
+$\lim \limits_{x \to c^-} f(x)\cdot g(x) = \lim \limits_{x \to c^-} f(x) \cdot \lim \limits_{x \to c^-} g(x)$
+$\lim \limits_{x \to c^+} f(x)\cdot g(x) = \lim \limits_{x \to c^+} f(x) \cdot \lim \limits_{x \to c^+} g(x)$
+$\lim \limits_{x \to c^-} g(f(x)) = \lim \limits_{(x \to \lim \limits_{x \to c^-} f(x))} g(x)$
+$\lim \limits_{x \to c^+} g(f(x)) = \lim \limits_{x \to (\lim \limits_{x \to c^+} f(x))} g(x)$
 
 ## limits by substitution
 
@@ -77,28 +85,14 @@ see this [video](https://www.khanacademy.org/math/differential-calculus/dc-limit
 
 ### intermediate limits
 when calculating limits by substitution and we get $\dfrac{0}{0}$
+this is intermediate form and you can use methods to calculate the limit
 
-
-well, for harder functions like this, with more manipulation, we could actually find the answer
-exercises linked below
-https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-6/e/two-sided-limits-using-algebra
-https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-6/e/limits_2
-https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-6/e/find-limits-using-trig-identities
-
-you could open up those exercises, and start learning how to do complicated limits calculations with factoring, conjugates, and trig identities!
-
-
-see this [video](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-6/v/limits-by-rationalizing)
-
-
+see [[finding limits strategy]]
 
 ## squeeze theorem
 let's say we have three functions, and $f(x) \leq g(x) \leq h(x)$
 
 if $\lim \limits_{x \to c} f(x) = L$ and $\lim \limits_{x \to c} h(x) = L$, we can conclude that $\lim \limits_{x \to c} g(x) = L$
-
-
-
 
 for review, do this [exercise](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-7/a/limit-strategies-flow-chart)
 

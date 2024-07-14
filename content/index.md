@@ -10,28 +10,18 @@ this is a website presenting my academic notes
 
 i aim to continuously add to this repository for the purpose of creating a wiki of academic knowledge - if one day i forget about all these, i would have an accessible, clear and concise wiki to help me.
 
-all knowledge is good knowledge
-
 ## usage
 
-i'm honored that you'll use these notes!
 this network of notes is best accessed offline for easier navigation and appearance - see the [github repository](https://github.com/starlitriver/starlitriver.github.io) to make reading much easier!
 
 always press the `/` key to search for something
 
-these pages are mostly organized with links 
-so it's useful to navigate using the graph views
-you can find the local graph at the top right corner
-you can find the global graph by pressing the icon in the corner of the local graph
+the small graph view shows all within 1 degree of separation - at the top right corner
+the large graph view shows all within 4 degrees of separation - press the icon in the small graph view
 
+you can also navigate with the explorer and the breadcrumbs
 
-
-
-you can also navigate the hierarchy with the explorer, breadcrumbs 
-
-the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
-
-also some pages have [tags](/tags)
+starting with [[formal/index|formal]] and [[natural/index|natural]] sciences, the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
 
 ## ted talk
 
@@ -41,9 +31,12 @@ since you're already here, welcome to my ted talk on science!
 
 science is thinking.
 it is the art of asking the questions
-it is the quest for 
+it is the quest for truth and knowledge
 
-you are a part of our understanding of the world
+we all like to understand things
+keep a collection of stuff in the back of our mind
+whether heartwarming or scary...
+all knowledge is good knowledge.
 
 every teacher is a science teacher
 and you, too, can be a science teacher.

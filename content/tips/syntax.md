@@ -3,8 +3,11 @@ aliases:
 tags:
 ---
 
-this page is to document formats
-you know, how things are expressed via UTF-8
+how are things expressed with characters?
+
+how do you show stuff like math symbols, chemical equations and git diffs?
+
+well, it's not that hard. i'm just grateful that humanity can agree on some typesetting methods instead of just displaying png files all the time :|
 
 ## latex
 
