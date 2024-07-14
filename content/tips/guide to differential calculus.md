@@ -3,13 +3,14 @@ aliases:
 tags: 
 ---
 
-this page is a introduction thing for calculus that should be very easy
+this page is a guide to differential calculus, supplementary to the [[calculus|differential calculus]] page
 
-calculus is just another branch of mathematics, daunting but surely understandable.
+references
+- https://calculusmadeeasy.org
 
-the two principal symbols used in calculus are
-- $d$ when prepended to a variable means "a little bit of" the variable
-- $\int$ , the integral symbol, was meant to be a long s, meaning "the sum of"
+
+in differential calculus, the letter $d$ when prepended to a variable means "a little bit of" the variable
+
 
 so $dx$ just means a infinitely small bit of $x$, in other words an element of $x$ or the differential of $x$
 
@@ -108,31 +109,3 @@ now you are ready to learn the power rule
 if $f(x) = x^n$ and $n\neq0$, then $f'(x)=n\cdot x^{n-1}$
 
 so if $f(x)=x^7$, $f'(x)=7x^6$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## quotient rule example
-solve $\sqrt[n]{\dfrac{1}{x^m}}$
-
-solve $\dfrac{d}{dx}\left[\sqrt[n]{\dfrac{1}{x^m}}\right]$
-rearrange exponents
-$\dfrac{d}{dx}\left[\left(\dfrac{1}{x^m}\right)^{\dfrac{1}{n}}\right]$
-$\dfrac{d}{dx}\left[\dfrac{1}{x^\dfrac{m}{n}}\right]$
-quotient rule
-$-\dfrac{m}{n}x^{-\dfrac{m+n}{n}}$
-
-
-
-references
-https://calculusmadeeasy.org

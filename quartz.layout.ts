@@ -7,7 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "repository on github": "https://github.com/starlitriver",
+      "♡somewherer♡": "https://github.com/somewherer",
+      "github repostory": "https://github.com/starlitriver",
     },
   }),
 }
@@ -33,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: 1, // how many hops of notes to display
-        scale: 1.3, // default view scale
+        scale: 1.5, // default view scale
         repelForce: 2, // how much nodes should repel each other
         centerForce: 0.3, // how much force to use when trying to center the nodes
         linkDistance: 20, // how long should the links be by default?
@@ -45,13 +46,13 @@ export const defaultContentPageLayout: PageLayout = {
       globalGraph: {
         drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
-        depth: -1, // how many hops of notes to display
-        scale: 0.9, // default view scale
+        depth: 4, // how many hops of notes to display
+        scale: 1.6, // default view scale
         repelForce: 2, // how much nodes should repel each other
         centerForce: 0.8, // how much force to use when trying to center the nodes
         linkDistance: 40, // how long should the links be by default?
         fontSize: 0.45, // what size should the node labels be?
-        opacityScale: 3, // how quickly do we fade out the labels when zooming out?
+        opacityScale: 5, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },

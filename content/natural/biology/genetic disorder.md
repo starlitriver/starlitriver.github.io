@@ -47,7 +47,7 @@ phenotypic ratio is 1 affected : 1 unaffected
 | a   | Aa  | aa  |
 | a   | Aa  | aa  |
 
-here is a Pedigree chart for visualization
+
 ![[Wiki_Drawing_-_Autosomal_Dominant.svg|299]]
 
 
@@ -78,7 +78,7 @@ phenotypic ratio is 1 unaffected : 0 affected
 | A   | AA  | AA  |
 | a   | Aa  | Aa  |
 
-here is a Pedigree chart for visualization
+
 ![[Wiki_Drawing_-_Autosomal_Recessive.svg|326]]
 
 
@@ -123,7 +123,7 @@ phenotypic ratio is 1 affected female : 1 unaffected male
 
 
 
-here is a Pedigree chart for visualization
+
 ![[Wiki_Drawing_-_X-Linked_Dominant.svg|330]]
 
 
@@ -160,7 +160,7 @@ phenotypic ratio is 1 unaffected female : 1 affected male
 | X^A | X^AX^a | X^AX^a |
 | Y   | X^aY   | X^aY   |
 
-here is a Pedigree chart for visualization
+
 ![[Wiki_Drawing_-_X-Linked_Recessive.svg|338]]
 
 
@@ -179,7 +179,7 @@ phenotypic ratio is 1 unaffected female : 1 affected male
 | Y^A | XY^A | XY^A |
 
 
-here is a Pedigree chart for visualization
+
 ![[Wiki_Drawing_-_Y-Linked.svg|320]]
 
 
@@ -188,5 +188,5 @@ here is a Pedigree chart for visualization
 
 in mitochondrial disorders it is only passed on if the mother is affected. If the mother is affected, all offspring will be affected. If the father is affected, he does not pass it on to his offspring.
 
-here is a Pedigree chart for visualization
+
 ![[Wiki_Drawing_-_Mitochondrial.svg|269]]

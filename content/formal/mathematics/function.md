@@ -4,9 +4,7 @@ aliases:
 tags:
 ---
 
-in mathematics, a function 
-
-here is the definition of a function - you deserve this
+in mathematics, a function is a [[relation]] that is either a one-to-one relation or a many-to-one relation
 
 glossary
 - [[relation]]
@@ -15,12 +13,11 @@ glossary
 ## definition
 
 a function is a relation with one input set $X$ and one output set $Y$
-
-a function is a one-to-one relation or a many-to-one relation
+set $X$ is called the domain and set $Y$ is called the codomain
 
 in other words, a function from a set $X$ to a set $Y$ assigns to each element of $X$ 
 
-how functions can combine is explained in [[function composition]]
+
 
 let two sets $X$ and $Y$ be given. let $x\in X$ and $y\in Y$
 
@@ -38,23 +35,30 @@ however i suggest referring to the function as just $f$ because $f(x)$ is the ou
 
 we're always too lazy to now the relation $f$ can be represented as $f:f(x)=x$ 
 
-or just be like a normal person and say $f(x)=x$
+or just be like everyone else and say $f(x)=x$
+
+when we graph a function $f(x)$, we label the vertical axis as $f(x)$ or we can label it $y$ where $y=f(x)$ because we are just too lazy
 
 
-sometimes the output is special enough that it deserves its own letter and we just use the letter to express the output
-$f(x)=x$ becomes $y=x$ where $y=f(x)$
+## complications
 
-and if you're too lazy to define a relation properly you can represent it implicitly like $f:$
+### composite functions
+multiple functions can be combined in [[function composition]]
 
+### multivariate functions
+a multivariate function, also called a multivariable function,
+is a [[relation]] that inputs or outputs more than one variable - it is not a function despite the name
 
-the [[inverse function|inverse]] of a function is represented as $f^{-1}$
+### inverse functions
+all functions have an [[inverse function]] who can map the subdomain onto the domain
 
-when a [[derivative]] is applied to a function, $\dfrac{d}{dx}[f]$ can be represented as $f'$
-this means easier writing, as $\dfrac{d}{dx}\left[\dfrac{d}{dx}[f]\right]$ can be represented as $f''$
+### derivatives
+the [[derivative]] of a function $f(x)$ is a function $g(x)$ such that for any constant $c$ , $g(c)$ is equal to the [[slope]] of the tangent line at $f(c)$
 
+## classification
 
+### power function
+a [[power function]]
 
-
-types of functions
-- [[power function|power functions]]
-- [[polynomial|polynomials]]
+### polynomials
+a [[polynomial]]

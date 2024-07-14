@@ -39,7 +39,8 @@ tangent
 $\tan(\theta)=\dfrac{o}{a}$
 
 sine, cosine and tangent can be memorized as "soh cah toa"
-sine, cosine and tangent trig functions have their [[multiplicative inverse|reciprocals¨]]
+
+sine, cosine and tangent trig functions have their [[multiplicative inverse|reciprocals]]
 
 cosecant
 $\csc(\theta)=\dfrac{h}{o}$

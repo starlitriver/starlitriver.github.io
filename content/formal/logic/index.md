@@ -5,4 +5,4 @@ tags:
 title: logic
 ---
 
-logic is the study of reasoning
+logic is a [[formal/index|formal science]] that is the study of reasoning
