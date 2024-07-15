@@ -1,0 +1,22 @@
+{
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "showRibbon": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "autoPairBrackets": true,
+  "tabSize": 2,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "public/",
+    "quartz/"
+  ],
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
