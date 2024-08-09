@@ -13,7 +13,9 @@ all animals, plants, fungi and many unicellular organisms are eukaryotes
 
 eukaryotes represent a small minority of the number of organisms, but given their generally much larger size, their collective global [[biomass]] is much larger than that of prokaryotes
 
-eukaryotes have diameters between 10μm and 100μm (micrometers)
+for the organelles that eukaryotes have, see [[organelle|organelles]]
+
+eukaryotes have diameters between 10μm and 100μm
 
 [[eukaryotic cell cycle]]
 

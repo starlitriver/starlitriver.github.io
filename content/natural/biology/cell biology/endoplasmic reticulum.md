@@ -3,7 +3,9 @@ aliases:
 tags: 
 ---
 
-the endoplasmic reticulum (ER) is part of the [[endomembrane system]] in eukaryotic cells
-it has important functions like [[protein folding]]
+in cell biology, the endoplasmic reticulum (ER) is an [[organelle]] made up of two subunits, the [[rough endoplasmic reticulum]] and the [[smooth endoplasmic reticulum]]
 
-it is made up of two subunits, the [[rough endoplasmic reticulum]] and the [[smooth endoplasmic reticulum]]
+rough ER for translation and folding of new proteins, smooth ER for expression of lipids
+
+the ER is part of the [[endomembrane system]] in eukaryotic cells
+it has important functions like [[protein folding]]
