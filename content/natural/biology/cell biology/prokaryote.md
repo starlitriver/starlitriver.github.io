@@ -12,4 +12,4 @@ prokaryotes are divided into two domains
 - [[bacteria]]
 - [[archaea]]
 
-Prokaryotes evolved before [[eukaryote]], and lack [[nucleus|nuclei]], [[mitochondria]] and most of the other distinct [[organelle]] that characterize the eukaryotic cell
+Prokaryotes evolved before [[eukaryote]], and lack [[nucleus|nuclei]], [[mitochondrion]] and most of the other distinct [[organelle]] that characterize the eukaryotic cell

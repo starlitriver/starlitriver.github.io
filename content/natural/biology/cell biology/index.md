@@ -1,5 +1,6 @@
 ---
 aliases:
+  - cell biology
   - cellular biology
   - cytology
 tags: 

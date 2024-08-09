@@ -1,0 +1,5 @@
+---
+aliases:
+  - animal cells
+tags:
+---
