@@ -4,16 +4,16 @@ aliases:
 tags: 
 ---
 
-deoxyribonucleic acid, DNA, bears the hereditary information that's passed on from parents to children
-it provides instructions for how and when to make the many proteins needed to build and maintain functioning cells, tissues and organisms
-it is similar to RNA - see the [[biopolymers comparison table]]
+deoxyribonucleic acid (DNA) is a [[polymer]] that bears the hereditary information of an organism
 
-in [[eukaryote]], DNA is found in the [[nucleus]]
+DNA provides instructions for how and when to make the many proteins needed to build and maintain functioning cells and tissues
 
-DNA is typically broken up into a number of very long, linear pieces called [[chromosome]]
 
-not only do the DNA strands run opposite to each other, they are also antiparallel
-this means the one strand points up while the other strand points down
-this is indicated by the 3 prime and 5 prime ends of the DNA
 
-DNA undergoes [[transcription]]
+in [[eukaryote|eukaryotes]], DNA is found in the [[nucleus]]
+
+DNA is typically broken up into a number of very long, linear pieces called [[chromosome|chromosomes]]
+
+DNA strands are antiparallel, meaning that one strand goes from the 3' (three prime) end to 5' (five prime) end, and vice versa for the other strand
+
+for comparisons to RNA, see [[biopolymers comparison table]]

@@ -3,10 +3,12 @@ aliases:
 tags: 
 ---
 
-# protein structure levels
-protein structure can be classified using the 4 protein structure levels
+protein structure is the 3D arrangement of atoms in proteins
 
-protein structure levels help us determine the overall structure of a protein
+protein structures range in size from tens to thousands of amino acids
+
+protein structure levels help us determine the overall structure of a protein, with the  of primary, secondary, tertiary and quaternary structure levels
+
 ## primary structure
 primary structure is the most basic level  and it describes the sequence of amino acids that make up the protein
 

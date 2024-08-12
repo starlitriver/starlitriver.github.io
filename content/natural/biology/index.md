@@ -10,4 +10,4 @@ biology is a [[natural/index|natural science]] that studies everything related t
 
 biology includes
 - [[natural/biochemistry/index|biochemistry]]
-- [[content/natural/biology/cell biology/index|cell biology]]
+- [[natural/biology/cell biology/index|cell biology]]

@@ -8,8 +8,7 @@ tags:
 in biology, a cell is the smallest structural and functional unit of an [[organism]]
 cells are between organelles and tissues in [[biological organization]]
 
-[[organelle|organelles]], the "organs" of the cells, are essential for cell functions
-by the definition of what an organelle is, let's just say that out of all the parts that make up a cell, some are considered organelles and some are not
+[[organelle|organelles]] are specialized cellular parts that has specific functions analogous to organs
 
 everything inside a cell except the [[nucleus]] is called the [[cytoplasm]], enclosed within the [[cell membrane]] and held together by the [[cytoskeleton]]
 

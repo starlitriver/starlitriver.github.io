@@ -5,15 +5,9 @@ tags:
 
 biopolymers are natural [[polymer|polymers]] produced by cells of living organisms
 
-> polymers are made of monomeric units that are covalently bonded in chains to form larger molecules\
-
 three main classes of biopolymers are
-- [[polynucleotides]]
-- [[polypeptides]]
-- [[polysaccharides]]
+- [[polynucleotide|polynucleotides]]
+- [[polypeptide|polypeptides]]
+- [[polysaccharide|polysaccharides]]
 
-some examples of biopolymers are
-see [[biopolymers comparison table]]
-- [[protein]]
-- [[nucleic acid]]
-- [[carbohydrate]]
+for a list of biopolymers and their functions, see [[biopolymers comparison table]]

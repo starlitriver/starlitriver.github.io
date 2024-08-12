@@ -5,7 +5,7 @@ tags:
 
 in biology, the human digestive system is an [[organ system]] that does [[digestion]]
 
-it consists of the gastrointestinal tract and the accessory organs of digestion including the tongue, salivary glands, pancreas, liver and gallbladder\
+it consists of the gastrointestinal tract and the accessory organs of digestion including the tongue, salivary glands, pancreas, liver and gallbladder
 
 ## outline of how the digestive system works
 first we have the mechanical chewing that breaks the food up into pieces to be swallowed
