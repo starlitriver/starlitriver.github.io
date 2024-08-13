@@ -6,8 +6,8 @@ aliases:
 tags: 
 ---
 
-a 2 degree polynomial is a [[polynomial]] that has an maximum [[exponentiation]] of 2
-it is also called a quadratic equation
+a 2 degree [[polynomial]] is also know as a quadratic equation
+
 the graph of a 2 degree polynomial is called a parabola
 
 a 2 degree polynomial has a turning point - it is a point where the gradient is zero, and it is either the maximum or minimum point of the graph
@@ -22,10 +22,10 @@ find the x intercepts by substituting y as 0
 
 ## vertex form
 $f(x)=a(x-h)^2+k$
-where a h k are constants
-(h,k) is the turning point of the equation
+where $a$, $h$ and $k$ are constants
+$(h,k)$ is the turning point of the equation
 the y intercept is at  $(0,ah^2+k)$
-find the x intercepts by substituting y as 0
+find the x-intercepts by substituting $y=0$
 
 ## product form
 $𝑓(𝑥) = 𝑎(𝑥 − 𝑥_1)(𝑥 − 𝑥_2)$

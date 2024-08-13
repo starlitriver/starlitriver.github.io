@@ -89,5 +89,14 @@
       ],
       "key": "2"
     }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
   ]
 }

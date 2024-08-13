@@ -4,44 +4,43 @@ aliases:
 tags: 
 ---
 
-in mathematics, a power function is a function that follows the pattern $f(x)=cx^n$
+in mathematics, a power function is a function that takes the form $f(x)=a[k(x-d)]^n+c$
 
-not to be confused with [[exponential function]]
+by the definition of a [[polynomial]], a power function where $n\in\mathbb{Z},n\geq0$ is also a polynomial
 
+not to be confused with [[exponential function|exponential functions]]
 
-although simple, power functions can be transformed to 
+in this form
+- $a$ will make the graph reflect vertically if sign change
+- the absolute value of $a$ is proportional to the graph's vertical stretch (any $|a|$ below 1 will vertically compress the graph; any $|a|$ above 1 will vertically expand the graph)
+- $k$ will make the graph reflect horizontally if sign change
+- the absolute value of $k$ is inversely proportional to the graph's horizontal stretch (any $|k|$ below 1 will vertically expand the graph; any $|k|$ above 1 will vertically compress the graph)
+- $d$ is the x coordinate of the point of inflection
+- $c$ is the x coordinate of the point of inflection
 
+$a$ and $c$ cause vertical transformation and therefore affect the y-coordinates of the function
+$k$ and $d$ cause vertical transformation and therefore affect the x-coordinates of the function
 
-memorize simple power functions of $f(x)=x^n$ for $n \in \{-2,-1,\frac{1}{3},\frac{1}{2},1,2,3,4\}$
-this allows you to understand simple examples in the back of your mind
+## negative exponents
 
+when the exponent of a power function is negative we can use algebra to express the function differently
 
+for example, $f(x)=(2(x-1))^{-3}$ can be expressed as $f(x)=\dfrac{1}{[2(x-1)]^3}$
 
-transformations of power functions are expressed in the form $f(x)=a(b(x+c))^n+d$
+## fraction exponents
 
-the variable a is able to do a vertical reflection by changing the sign, and the a value is called the amplifier of the function, allowing for vertical stretch / compression
+when the exponent of a power function is a fraction we can use algebra to express the function differently
+for example, $f(x)=(2(x-1))^\dfrac{1}{3}$ can be expressed as $f(x)=\sqrt[3]{2(x-1)}$
 
+picture $f(a)=a^\dfrac{1}{n}=\dfrac{1}{a^n}$ where $a$ and $n$ are constants
+if $n$ is even, $a^\dfrac{1}{n}$ must be positive
 
-consider the functions $f(x)=-1(x)^3$ and $f(x)=-2(x)^3$ and decide which one reaches -10 before the other does.
-\the second function has an absolute amplitude of 2 while the first equation has an absolute amplitude of 1. this means that the second equation is vertically stretched therefore it would reach -10 faster than the first function.
+if $n$ is odd, $a^\dfrac{1}{n}$ must have the same sign as $a$
 
+## comments
 
-similar to the variable a, the variable b is able to do a horizontal reflection by changing the sign,  and is able to do horizontal stretch / compression
+for convenience you should memorize graphs of simple power functions of $f(x)=x^n$ for $n \in \{-2,-1,\frac{1}{3},\frac{1}{2},1,2,3,4\}$
 
-
-consider the functions $f(x)=(0.5x)^2$ and $f(x)=(2x)^2$ and decide which one grows faster
-the second function has a higher b value than the first one which means that it is compressed more
-
-the variable c is able to do horizontal translations. i call it the input offset because it is applied directly to the input.
-a negative value moves the graph to the left and a positive value moves the graph to the right.
-
-
-consider the function $f(x)=x^2$ and write the function that is the same as f(x) translated 5 units to the left.
-to translate 5 units to the left, we increase the c value from $y=(x+0)^2$ to $y=(x+5)^2$
-
-the variable d is able to do vertical translations. it represents the y value of the turning point of the power function.
-like the y intercept value in a typical $y=ax+b$ equation, an increase in variable d translates the function up and a decrease translates the function down.
-
-
-references
+## references
+https://www.youtube.com/watch?v=Kr_Z61NVW-w
 https://www.youtube.com/watch?v=GUzxZUzqJJ8
