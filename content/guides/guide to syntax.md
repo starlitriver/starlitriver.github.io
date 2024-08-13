@@ -3,11 +3,17 @@ aliases:
 tags:
 ---
 
-how are things expressed with characters?
+in information technology, syntax refers to the rules governing the composition of expressions
 
-how do you show stuff like math symbols, chemical equations and git diffs?
+everything are expressions, so syntax is very important to many things in life
 
-well, it's not that hard. i'm just grateful that humanity can agree on some typesetting methods instead of just displaying png files all the time :|
+some examples of syntax include languages, grammar, and conventions
+
+ultimately, syntax explores the question: how do we express things through using the keys on the keyboard?
+
+how do you show stuff like math symbols, chemical equations and tons of other stuff in our heads?
+
+well, i'm just grateful that humanity can agree on some typesetting methods
 
 ## latex
 

@@ -22,3 +22,5 @@ when the RNA polymerase reaches the end of the gene, it releases the mRNA
 the generated proteins is a sequence of amino acids, coded by the sequence of nucleotides in the RNA
 
 in translation, mRNA is transported out of the nucleus and decoded in a [[ribosome]]
+ribosomes have binding sites
+at the binding sites, each triplet of nucleotides on the mRNA (called a codon) attract a transfer RNA (tRNA) molecule loaded with a matching triplet of nucleotides (called an anticodon) that is attached to a corresponding amino acid (following the RNA codon table)
