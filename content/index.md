@@ -23,7 +23,7 @@ you can also navigate with the explorer and the breadcrumbs
 
 the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
 
-to start off, see [[guide to natural sciences]]
+to start off, see [[guide to science]]
 
 ## ted talk
 
@@ -42,36 +42,3 @@ all knowledge is good knowledge.
 
 every teacher is a science teacher
 and you, too, can be a science teacher.
-
-
-
-humanitas means human nature, civilization and kindness
-
-humanitas is used as an umbrella term for humanities and social sciences
-
-humanities study human society, culture and philosophy
-social sciences study societies and the relationships 
-
-list of humanities
-- philosophy
-- religion
-- arts
-- [[humanitas/sociology/index|sociology]]
-
-list of social sciences
-- [[humanitas/sociology/index|sociology]]
-- [[humanitas/economics/index|economics]]
-- psychology
-- history
-- linguistics
-
-
-
-
-formal science is a branch of science that studies disciplines with abstract structures described by formal systems
-
-knowledge in formal science cannot be justified or tested with empirical evidence so formal science relies on axioms from which theorems are made
-
-list of formal sciences
-- [[mathematics/index|mathematics]]
-- [[logic/index|logic]]
