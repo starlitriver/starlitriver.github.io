@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-natural science is a branch of science that studies the description, understanding and prediction of natural phenomena
+natural sciences study the knowledge from observing the physical world
 
 knowledge in natural science are based on and are verified with empirical evidence from observation and experimentation
 
