@@ -6,6 +6,9 @@ tags:
 
 in mathematics, a relation is how sets of numbers relate to each other
 
+a relation consists of a relation name, typically a letter, and an [[equation]]
+for example: $f:f(a,b)=a^2-b^3$
+
 ## types of relations
 
 set $X$ is the input set of the relation and set $Y$ is the output set of the relation
@@ -34,7 +37,5 @@ for example, $f(x,y):x^2+y^2=1$
 
 
 ## functions
-
-okay, well here comes the elephant in the room
 
 a [[function]] is a relation in which each input has exactly one output - a one-to-one relation or a many-to-one relation

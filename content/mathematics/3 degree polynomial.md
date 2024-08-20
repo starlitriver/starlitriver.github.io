@@ -12,7 +12,7 @@ a cubic equation has an inflection point, which is the point at which the gradie
 #### standard form
 $f(x)=ax^3+bx^2+cx+d$
 where a b c d are constants
-#### vertex form
+#### turning point form
 $f(x)=a(x-h)^3+k$
 where $a$, $h$, and $k$ are constants and $(h,k)$ is the inflection point of the equation
 #### product form

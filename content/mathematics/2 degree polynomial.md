@@ -18,9 +18,9 @@ a 2 degree polynomial has a turning point - it is a point where the gradient is 
 $f(x)=ax^2+bx+c$
 where a b c are constants
 the x coordinate of the vertex is $\dfrac{-b}{2a}$
-find the x intercepts by substituting y as 0
+find the x-intercepts by substituting y as 0
 
-## vertex form
+## turning point form
 $f(x)=a(x-h)^2+k$
 where $a$, $h$ and $k$ are constants
 $(h,k)$ is the turning point of the equation

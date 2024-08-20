@@ -9,7 +9,7 @@ also called a quartic equation
 #### standard form
 $f(x)=ax^4+bx^3+cx^2+dx+e$
 
-#### vertex form
+#### turning point form
 $f(x)=a(x-h)^4+k$
 
 #### product form
