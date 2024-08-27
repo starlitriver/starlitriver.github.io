@@ -1,8 +1,7 @@
 ---
 aliases:
   - physics
-tags:
-  - natural-sciences
+tags: []
 title: physics
 ---
 

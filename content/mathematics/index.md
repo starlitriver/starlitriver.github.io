@@ -1,8 +1,7 @@
 ---
 aliases:
   - mathematics
-tags:
-  - formal-sciences
+tags: []
 title: mathematics
 ---
 

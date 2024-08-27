@@ -6,8 +6,8 @@ tags:
 title: biology
 ---
 
-biology is a [[natural/index|natural science]] that studies everything related to life, across all levels of [[biological organization]]
+biology is a natural science that studies everything related to life, across all levels of [[biological organization]]
 
 biology includes
-- [[natural/biochemistry/index|biochemistry]]
-- [[natural/biology/cell biology/index|cell biology]]
+- [[biochemistry/index|biochemistry]]
+- [[biology/cell biology/index|cell biology]]

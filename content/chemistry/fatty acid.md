@@ -10,4 +10,4 @@ a fatty acid consists of a straight chain of an even number of carbon atoms, wit
 
 saturated fatty acids have no C=C double bonds
 
-unsaturated fatty acids have one or more C-C double bonds
+unsaturated fatty acids have one or more C=C double bonds

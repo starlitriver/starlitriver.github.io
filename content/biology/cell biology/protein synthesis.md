@@ -14,7 +14,7 @@ transcription is the process of copying a segment of DNA into RNA
 
 during transcription, a section of DNA encoding a protein, called a gene, is converted into a mRNA
 
-translation begins when an enzyme called RNA polymerase binds to the DNA at a specific region call the promoter
+transcription begins when an enzyme called RNA polymerase binds to the DNA at a specific region call the promoter
 the DNA double helix is unwound and the RNA polymerase moves along, reading the amino acid sequence and adds corresponding nucleotides to a new mRNA chain
 when the RNA polymerase reaches the end of the gene, it releases the mRNA
 
