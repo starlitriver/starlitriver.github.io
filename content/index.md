@@ -21,7 +21,9 @@ the large graph view shows all within 4 degrees of separation - press the icon i
 
 you can also navigate with the explorer and the breadcrumbs
 
-starting with [[formal/index|formal]] and [[natural/index|natural]] sciences, the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
+the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
+
+to start off, see [[guide to science]]
 
 ## ted talk
 
