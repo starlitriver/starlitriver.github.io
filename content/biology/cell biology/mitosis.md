@@ -5,7 +5,7 @@ tags:
 
 mitosis is part of the [[cell cycle]], and aims to produce two identical daughter cells from one cell
 
-mitosis is preceded by [[interphase]], during which the cells goes DNA replication
+mitosis is preceded by interphase, during which the cells goes DNA replication
 
 stages of mitosis are prophase, metaphase, anaphase, telophase, and cytokinesis
 
@@ -13,15 +13,16 @@ stages of mitosis are prophase, metaphase, anaphase, telophase, and cytokinesis
 
 condensation of chromosomes
 
-during prophase, the [[DNA replication|DNA that was replicated]] during [[interphase]] is condensed from strands with lengths reaching 0.7 μm down to 0.2-0.3 μm
+during prophase, the [[DNA replication|DNA that was replicated]] during interphase is condensed from strands with lengths reaching 0.7 μm down to 0.2-0.3 μm
 this way, the loose and string like DNA become clumped together
 
 movement of centrosomes
 
-Replicated [[centrosome]] from interphase move apart towards opposite poles of the cell, powered by centrosome associated [[motor proteins]]
+Replicated [[centrosome]] from interphase move apart towards opposite poles of the cell, powered by centrosome associated motor proteins
 interdigitated [[microtubule|microtubules]] from each [[centrosome]] interact with each other, helping to move the [centrosomes](https://en.wikipedia.org/wiki/Centrosome "Centrosome") to opposite poles
 
-chromatin begins to condense and centrioles move to the opposite sides of the cell, creating spindle fibres between them. As sister chromatids become visible, the nucleus disappears in prophase.
+chromatin begins to condense and centrioles move to the opposite sides of the cell, creating spindle fibers between them
+as sister chromatids become visible, the nucleus disappears in prophase
 
 ## metaphase
 
@@ -47,4 +48,3 @@ new nuclear membranes starts to form around the chromosomes
 ## cytokinesis
 
 in [[cytokinesis]] the cell divides into two daughter cells, completing division
-

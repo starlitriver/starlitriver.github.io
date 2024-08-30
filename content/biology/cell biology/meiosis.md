@@ -40,7 +40,7 @@ spindle fibers attach to the centromeres of the chromosomes
 
 ## anaphase I
 disjunction of homologous chromosomes occurs when the spindle contracts, so one member of each homologous pair moves opposite poles of the cell
-˚
+
 ## telophase I
 chromosome become less condensed
 two new nuclear membranes form
