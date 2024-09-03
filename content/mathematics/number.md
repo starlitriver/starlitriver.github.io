@@ -1,6 +1,6 @@
 ---
 aliases:
-  - number
+  - numbers
   - constant
   - constants
 tags: 
@@ -8,9 +8,9 @@ tags:
 
 a number is a [[mathematical object]] used to count, measure and label
 
-the most basic examples are [[natural number|natural numbers]], as in 1, 2, 3...
+non-negative numbers used in [[natural number|natural numbers]]
 
-in mathematics, the definition of a number has extended to include zero, negative numbers, [[rational numbers]] and [[complex numbers]]
+zero, negative numbers, [[rational numbers]] and [[complex numbers]]
 
 to differentiate between different types of numbers, they can be classified into [[sets]] called number systems
 

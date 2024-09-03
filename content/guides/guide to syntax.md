@@ -5,7 +5,7 @@ tags:
 
 in information technology, syntax refers to the rules governing the composition of expressions
 
-everything are expressions, so syntax is very important to many things in life
+everything are expressions, so syntax is very important
 
 some examples of syntax include languages, grammar, and conventions
 
@@ -14,6 +14,9 @@ ultimately, syntax explores the question: how do we express things through using
 how do you show stuff like math symbols, chemical equations and tons of other stuff in our heads?
 
 well, i'm just grateful that humanity can agree on some typesetting methods
+
+## headings
+
 
 ## latex
 

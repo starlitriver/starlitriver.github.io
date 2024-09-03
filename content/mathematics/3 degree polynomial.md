@@ -1,12 +1,12 @@
 ---
 aliases:
   - 3 degree polynomials
-  - trinomial
-  - trinomials
 tags:
 ---
 
-a 3 degree [[polynomial]] is also known as a trinomial or a cubic equation
+a 3 degree [[polynomial]] is also known as a cubic equation
+
+not to be confused with [[trinomial]]
 
 a cubic equation has an inflection point, which is the point at which the gradient changes sign (negative or positive)
 #### standard form

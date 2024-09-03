@@ -7,7 +7,7 @@ social sciences study societies and the relationships among individuals within s
 
 list of social sciences
 - sociology
-- [[economics/index|economics]]
+- economics
 - psychology
 - history
 - linguistics

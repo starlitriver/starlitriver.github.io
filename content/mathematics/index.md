@@ -14,4 +14,4 @@ mathematics includes
 - number theory
 - algebra
 - geometry
-- [[mathematics/mathematical analysis/index|mathematical analysis]]
+- mathematical analysis

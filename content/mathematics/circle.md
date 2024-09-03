@@ -2,6 +2,7 @@
 aliases: 
 tags: 
 ---
+
 a circle is a shape consisting of all points on a plane that are at a given distance from a given point
 the given distance the radius and the given point is the center
 

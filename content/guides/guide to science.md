@@ -11,7 +11,7 @@ science is classified into branches, but as you can predict, sorting all knowled
 
 ## formal sciences
 formal sciences study abstract logical things described by formal systems
-for example, logic, mathematics, and game theory
+for example, logic, mathematics, computer science, and game theory
 see [[guide to formal sciences]]
 
 ## natural sciences
