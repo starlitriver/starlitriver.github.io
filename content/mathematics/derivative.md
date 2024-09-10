@@ -31,7 +31,7 @@ if differentiable, then it must be continuous.
 ## derivative rules
 
 ### constant rule
-$\dfrac{d}{dx}\left[c\right]=0\text{, c is a constant}$
+$\dfrac{d}{dx}\left[c\right]=0$ where c is a constant
 
 ### variable rule
 $\dfrac{d}{dx}\left[a\right] = 1$
@@ -45,7 +45,22 @@ $\dfrac{d}{dx}\left[f(x)+g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] +\dfrac{d}
 
 ### difference rule
 
+it's exactly equal to the sum rule, no problem here
+
 $\dfrac{d}{dx}\left[f(x)-g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] -\dfrac{d}{dx}\left[g(x)\right] = f'(x) - g'(x)$
+
+
+
+### power rule
+if $f(x) = x^n$ and $n\neq0$, then $f'(x)=n\cdot x^{n-1}$
+
+this means that to get $\dfrac{d}{dx}\left[ \sqrt[3]{x^2} \right]$ at $x=8$
+
+we could evaluate $\dfrac{d}{dx}\left( x^{\dfrac{2}{3}} \right)$, which is equal to $\dfrac{2}{3}*x^{\left(\dfrac{2}{3}-1\right)}$, which is equal to $\dfrac{2}{3}*x^{-\dfrac{1}{3}}$
+
+substitute $x=8$, we get $\dfrac{2}{3}*8^{-\dfrac{1}{3}}$, which is equal to $\dfrac{1}{3}$
+
+this means that if $y=x^13$, then $\dfrac{d}{dx}\left[ y \right] = 13x^{12}$
 
 ### product rule
 
@@ -65,17 +80,6 @@ $\dfrac{d}{dx}\left[f(g(x))\right] = f'(g(x))\cdot g'(x)$
 here is an example of the chain rule
 
 $\dfrac{d}{dx}\left[\ln(\sin(x))\right] = \dfrac{1}{\sin(x)}\cdot\cos(x)$
-
-### power rule
-if $f(x) = x^n$ and $n\neq0$, then $f'(x)=n*x^{n-1}$
-
-this means that to get $\dfrac{d}{dx}\left[ \sqrt[3]{x^2} \right]$ at $x=8$
-
-we could evaluate $\dfrac{d}{dx}\left( x^{\dfrac{2}{3}} \right)$, which is equal to $\dfrac{2}{3}*x^{\left(\dfrac{2}{3}-1\right)}$, which is equal to $\dfrac{2}{3}*x^{-\dfrac{1}{3}}$
-
-substitute $x=8$, we get $\dfrac{2}{3}*8^{-\dfrac{1}{3}}$, which is equal to $\dfrac{1}{3}$
-
-this means that if $y=x^13$, then $\dfrac{d}{dx}\left[ y \right] = 13x^{12}$
 
 ### other
 

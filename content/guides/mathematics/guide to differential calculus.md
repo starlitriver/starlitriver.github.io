@@ -106,6 +106,13 @@ in other words, the following statements represent the exact same thing
 
 
 now you are ready to learn the power rule
-if $f(x) = x^n$ and $n\neq0$, then $f'(x)=n\cdot x^{n-1}$
+if $f(x) = x^n$ and $n$ is a positive integer, then $f'(x)=n\cdot x^{n-1}$
 
-so if $f(x)=x^7$, $f'(x)=7x^6$
+for example, if $f(x)=x^7$, $f'(x)=7x^6$
+
+worked example: $f(x)=5x^3-10x^2+7$
+$f'(x)=5(3x^2)-10(2x)+0$
+$f'(x)=15x^2-20x$
+
+
+if $f(x)=g(x)−h(x)$ then $f′(x)=g′(x)−h′(x)$
