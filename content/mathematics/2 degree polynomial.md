@@ -6,7 +6,9 @@ aliases:
 tags: 
 ---
 
-a 2 degree [[polynomial]] is also know as a quadratic equation
+a 2 degree [[polynomial]] is also known as a quadratic equation
+
+not to be confused with [[binomial]]
 
 the graph of a 2 degree polynomial is called a parabola
 

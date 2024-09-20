@@ -1,6 +1,7 @@
 ---
-aliases: 
-tags: 
+aliases:
+  - combinations
+tags:
 ---
 
 in mathematics, a combination is a selection of items from a set that has distinct members, such that the order of selection does not matter (unlike [[permutation|permutations]])
@@ -12,4 +13,6 @@ k-combinations can be represented with one of these: $C(n,k)={}^{n}C_{k}=C_{k}^{
 
 $C(n,k)=\dfrac{n!}{k!(n-k)!}$
 
-coincidentally, the number of k-combinations, $C(n,k)$, is equal to the column $k$ of row $n$ of the [[Pascal's triangle]]
+we also have the equation $C(n,k)=C(n,n-k)$
+
+combinations can be seen in [[Pascal's triangle]]

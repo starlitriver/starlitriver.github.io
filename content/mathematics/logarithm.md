@@ -28,3 +28,5 @@ $\log_a(b)-\log_a(c)=\log_a(\dfrac{b}{c})$
 $\log_a(b^c)=c\cdot \log_a(b)$
 
 $\log_a(b)=\dfrac{\log_{c}(b)}{\log_{c}(a)}$
+
+$\log_a(b)=\dfrac{1}{\log_b(a)}$

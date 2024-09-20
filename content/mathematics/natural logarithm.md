@@ -3,11 +3,6 @@ aliases:
 tags: 
 ---
 
-in mathematics, the natural logarithm is a function depicted as $\ln(x)$
+in mathematics, the natural logarithm is a function depicted as $\ln(x)$, defined as $\ln(x)=\log_e(x)$
 
-the natural logarithm of a number is equal to its logarithm to the base of [[e (mathematical constant)|e]]
-$\ln(x)=\log_e(x)$
-
-see? nothing to worry about
-
-the inverse of the natural logarithm function is the [[exponential function]]
+we can see that the inverse function of $\ln(x)$ is $e^x$

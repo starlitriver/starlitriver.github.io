@@ -4,4 +4,4 @@ aliases:
 tags: 
 ---
 
-a gamete is a haploid cell that can fuse with another haploid cell during [[fertilization]]
+a gamete is a haploid cell that can fuse with another gamete of the opposite sex during fertilization

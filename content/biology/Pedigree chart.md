@@ -13,7 +13,8 @@ Pedigree charts are typically formatted
 - each row is a generation and labelled with roman numerals on the left
 - males are represented with squares
 - females are represented with circles
-- a shaded shape means the individual has the trait
+- a shaded shape means the individual demonstrates the trait
+- a not shaded shape means the individual does not demonstrate the trait
 - a half shaded shape means the individual is a heterozygous carrier of the trait
 
 

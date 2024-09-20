@@ -11,6 +11,8 @@ in mathematics, exponentiation is an operation involving two numbers - the base 
 
 if you see something as a superscript on the upper right corner, it's probably an exponent.
 
+for some reason, exponents are also called indicies
+
 compare to [[logarithm|logarithms]]
 
 you see, $2\div 7=2\cdot7^{-1}$

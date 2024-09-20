@@ -3,15 +3,8 @@ aliases: []
 tags: 
 ---
 
-a mathematical object is anything that has been or could be formally defined
+a mathematical object is anything that can be formally defined
 
-there are many branches of mathematical objects
-
-## [[number theory]]
-### [[number]]
-### [[operation]]
-## [[combinatorics]]
-
-## [[set theory]]
-
-## [[geometry]]
+examples of mathematical objects
+- [[number|numbers]]
+- [[operation|operations]]

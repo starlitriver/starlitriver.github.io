@@ -5,6 +5,8 @@ tags:
 
 trigonometry is based on the [[unit circle]]
 
+[[guide to trigonometry]]
+
 [[trigonometric functions]]
 
 
