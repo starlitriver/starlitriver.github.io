@@ -13,6 +13,7 @@ subsets of genetic information ordered by size: [[nucleotide]], codon, [[gene]],
 an organism has the same number of [[chromosome|chromosomes]] in each of its cells
 
 this number is called the diploid number and is sometimes shown as $2n$
+if the number of chromosomes in an individual is abnormal, it is called [[aneuploidy]], meaning chromosomal disorders
 
 for sexual reproduction, an organism has to produce [[gamete|gametes]]. a gamete has a haploid number of chromosomes, half of the diploid number, and sometimes shown as $n$
 

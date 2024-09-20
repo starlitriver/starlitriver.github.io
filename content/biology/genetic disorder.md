@@ -15,6 +15,8 @@ if caused by mutations in multiple genes, it is a polygenic disorder
 glossary
 - [[genotype]]
 - [[phenotype]]
+- [[sex chromosome|allosome]]
+- [[autosome]]
 - homologous - two homologous chromosomes are the same
 - homozygous - a cell that is homozygous for a trait has two same alleles for the trait
 - heterozygous - a cell that is heterozygous for a trait has two different alleles for the trait
