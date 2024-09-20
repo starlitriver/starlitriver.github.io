@@ -12,8 +12,6 @@ figure: the unit circle graphed
 
 the unit circle is useful in trigonometry because it visualizes the outputs of the [[trigonometric functions|trig functions]] given an angle $\theta$
 
-
-
 when we measure angles, we use either degrees or radians.
 
 

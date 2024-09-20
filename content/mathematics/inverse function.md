@@ -5,7 +5,7 @@ aliases:
 tags:
 ---
 
-not to be confused with [[multiplicative inverse]]
+in mathematics, inverse refers to either the [[multiplicative inverse]], also known as reciprocal, or an inverse function
 
 for function $f$, the function that makes the output be the input would be $f^{-1}$
 for example, if $f=a^{\frac{b}{c}}$ then $f^{-1}=a^{\frac{c}{b}}$

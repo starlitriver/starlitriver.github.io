@@ -10,7 +10,7 @@ glossary
 - [[relation]]
 - [[set]]
 
-## definition
+## introduction
 
 a function is a relation with one input set $X$ and one output set $Y$
 set $X$ is called the domain and set $Y$ is called the codomain or range
@@ -19,8 +19,7 @@ in other words, a function from a set $X$ to a set $Y$ assigns to each element o
 let two sets $X$ and $Y$ be given. let $x\in X$ and $y\in Y$
 a function $f$ is given on $X$ and the variable $y$ is a function of the variable $x$, therefore can be shown as $f(x)$
 
-
-## syntax
+a function $f(x)$ is defined with the use of [[equation|equations]] and cannot be defined with 
 
 for example, if a function $f$ inputs $x$ and outputs $x^2$, the formal representation is $f:\mathbb{R}\to[0,\infty),x\rightarrow f(x),f(x)=x^2$
 $f$ is the name of the function
@@ -47,10 +46,11 @@ a function $f$ has an [[inverse function]] $f^{-1}$ that can map the codomain on
 ## derivatives
 the [[derivative]] of a function $f(x)$ is a function $g(x)$ such that for any constant $c$ , $g(c)$ is equal to the [[slope]] of the tangent line at $f(c)$
 
-## classification
+## exponential function
+by definition, a [[exponential function]] aa
 
-### power function
+## power function
 a [[power function]]
 
-### polynomials
+## polynomials
 a [[polynomial]]

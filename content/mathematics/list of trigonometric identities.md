@@ -91,3 +91,5 @@ $\cos(2a) = \cos^2(a)-\sin^2(a)$
 $\cos(2a) = 2\cdot\cos^2(a)-1$
 
 $\cos(2a) = 1-2\cdot\sin^2(a)$
+
+$\tan(\theta+\dfrac{\pi}{2})=\dfrac{1}{\tan(\theta)}$

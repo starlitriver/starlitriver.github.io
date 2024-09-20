@@ -16,11 +16,8 @@ note: questions that require you to find the derivative of an expression uses on
 - find the equation of the tangent line to the graph of $f(x)$
 
 
-find derivative of each of these expressions
+worked example: find derivative of each of these expressions
 
 $\dfrac{d}{dx}x^2+4x=2x+4$
-
-
 $\dfrac{d}{dx}-x^3+2x^2=-3x^2+4x$
-
 $\dfrac{d}{dx}-10x^3-2x^2+2=-30x^2-4x$

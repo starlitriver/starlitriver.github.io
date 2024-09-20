@@ -6,69 +6,94 @@ aliases:
 tags:
 ---
 
-in mathematics, the trigonometric functions are functions which relate an angle of a right-angled triangle to ratios of two side lengths
+in mathematics, the trigonometric functions are functions which relate an angle of a right-angled triangle to ratios of two side lengths. the [[unit circle]] is used to visualize the outputs of the trig functions
 
-below shows a few right triangles with angle $\theta$
+## introduction
 
-![[trigonometric functions 2024-07-09 12.59.25.excalidraw.svg|324]]
-%%[[trigonometric functions 2024-07-09 12.59.25.excalidraw.md|🖋 Edit in Excalidraw]]%%
+related: some easy applications of basic trigonometry is in [[introduction to trigonometry]]
 
-![[trigonometric functions 2024-07-09 12.56.02.excalidraw.svg|492]]
-%%[[trigonometric functions 2024-07-09 12.56.02.excalidraw.md|🖋 Edit in Excalidraw]]%%
-
-![[trigonometric functions 2024-07-09 12.38.35.excalidraw.svg|396]]
+figure: we should be familiar with triangle stuff
+![[trigonometric functions 2024-07-09 12.38.35.excalidraw.svg|316]]
 %%[[trigonometric functions 2024-07-09 12.38.35.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-
-
-let's name each side
-
-![[trigonometric functions 2024-07-09 12.45.51.excalidraw.svg|350]]
-%%[[trigonometric functions 2024-07-09 12.45.51.excalidraw.md|🖋 Edit in Excalidraw]]%%
-
-the definitions of the trigonometric functions...
-
+we probably know soh cah toa already
 
 sine
-$\sin(\theta)=\dfrac{o}{h}$
+$\sin(\theta)=\dfrac{\text{opposite}}{\text{hypotenuse}}$
 
 cosine
-$\cos(\theta)=\dfrac{a}{h}$
+$\cos(\theta)=\dfrac{\text{adjacent}}{\text{hypotenuse}}$
 
 tangent
-$\tan(\theta)=\dfrac{o}{a}$
-
-sine, cosine and tangent can be memorized as "soh cah toa"
-
-sine, cosine and tangent trig functions have their [[multiplicative inverse|reciprocals]]
-
-cosecant
-$\csc(\theta)=\dfrac{h}{o}$
-
-secant
-$\sec(\theta)=\dfrac{h}{a}$
-
-cotangent
-$\cot(\theta)=\dfrac{a}{o}$
-
-
-from the above definitions of the trig functions we can express all trig functions with just sine and cosine
-
-$\tan(\theta)=\dfrac{sin(\theta)}{\cos(\theta)}$
-
-$\csc(\theta)=\dfrac{1}{\sin(\theta)}$
-
-$\sec(\theta)=\dfrac{1}{\cos(\theta)}$
-
-$\cot(\theta)=\dfrac{\cos(\theta)}{\sin(\theta)}$
-
-
-## visualization
-
-the [[unit circle]] is used to visualize the outputs of the trig functions
+$\tan(\theta)=\dfrac{\text{opposite}}{\text{adjacent}}$
+$\tan(\theta)=\dfrac{\sin(\theta)}{\cos(\theta)}$
 
 ## notation
 trig functions can leave out the brackets where appropriate, like depicting $\sin(x)$ as $\sin x$
 
 a superscript right after the name of a trig function denotes exponentiation, for example, $\sin^2(x)=(\sin(x))^2$
 this is different to [[function composition]] where $f^2(x)=(f\circ f)(x)=f(f(x))$
+
+## reciprocal trig functions
+sine, cosine and tangent trig functions have their [[multiplicative inverse|reciprocals]]
+
+related
+- [[how to evaluate reciprocal trig functions]]
+- [[how to graph reciprocal trig functions]]
+
+
+cosecant
+$\csc(\theta)=\dfrac{1}{\sin(\theta)}$
+
+secant
+$\sec(\theta)=\dfrac{1}{\cos(\theta)}$
+
+cotangent
+$\cot(\theta)=\dfrac{1}{\tan(\theta)}$
+$\cot(\theta)=\dfrac{\cos(\theta)}{\sin(\theta)}$
+
+
+## inverse trig functions
+
+related
+- [[how to evaluate inverse trig functions]]
+- [[how to graph inverse trig functions]]
+
+the inverse trig functions are not the same as trig functions
+
+whereas in trig function you input an angle and get a ratio, with inverse trig functions you input a ratio and get an angle
+
+since the trig functions are not one-to-one (see [[relation]]), the inverse trig functions have to restrict their domain
+
+inverse sine is only a segment of the sine function, the $[-\dfrac{\pi}{2},\dfrac{\pi}{2}]$ segment, and it's the inverse function of this segment
+remember the range and how the output of inverse tan always has the same sign as the input
+
+$\sin(x)$
+domain: $\mathbb{R}$
+range: $[-1,1]$
+
+$\sin^{-1}(x)$
+domain: $[-1,1]$
+range: $[-\dfrac{\pi}{2},\dfrac{\pi}{2}]$
+
+the inverse cosine is similar
+remember the range and how the output of inverse cosine is always non-negative
+
+$\cos(x)$
+domain: $\mathbb{R}$
+range: $[-1,1]$
+
+$\cos^{-1}(x)$
+domain: $[-1,1]$
+range: $[0,\pi]$
+
+the inverse tan has the same range as inverse sine
+remember the range and how the output of inverse tan always has the same sign as the input
+
+$\tan(x)$
+domain: $\mathbb{R}$
+range: $\mathbb{R}$
+
+$\tan^{-1}(x)$
+domain: $\mathbb{R}$
+range: $[-\dfrac{\pi}{2},\dfrac{\pi}{2}]$

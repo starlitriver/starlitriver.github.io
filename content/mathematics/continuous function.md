@@ -7,7 +7,7 @@ aliases:
 tags:
 ---
 
-in mathematics, a continuous function is a function that have no abrupt changes in value called discontinuities, see below
+in mathematics, a continuous function is a function that have no abrupt changes in value called discontinuities
 
 defined using [[limit|limits]], a function $f$ is continuous at the point $x=c$ if $\lim\limits_{x\to c}f(x)$ exists and $f(c)=\lim\limits_{x\to c}f(x)$
 
