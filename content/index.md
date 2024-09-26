@@ -23,7 +23,7 @@ you can also navigate with the explorer and the breadcrumbs
 
 the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
 
-to start off, see [[guide to science]]
+to navigate the pages and learn stuff, see the [[guides/index|guides]] for 
 
 ## ted talk
 

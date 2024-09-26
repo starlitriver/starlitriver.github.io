@@ -41,7 +41,7 @@ $f(x)=3x^3+10x^2+4x-8$
 since the leading term of the polynomial is $3x^3$, 
 
 ## other
-you can [[determine polynomial using points|determine the equation of a polynomial with known points]]
+you can [[how to use points to find polynomial|determine the equation of a polynomial with known points]]
 
 ## references
 https://en.wikipedia.org/wiki/Polynomial

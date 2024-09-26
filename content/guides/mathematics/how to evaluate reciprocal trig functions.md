@@ -47,7 +47,7 @@ sec is secant, which is the inverse of cosine, $\sec(a)=\dfrac{1}{\cos(a)}$
 
 evaluating these other trig functions isn't hard, for you also find the absolute value of the output, and then you apply the correct sign
 
-we can also reference the common values table
+we can also reference the common angles table
 
 | $\theta$       | $0$ | $\dfrac{\pi}{6}$      | $\dfrac{\pi}{4}$      | $\dfrac{\pi}{3}$      | $\dfrac{\pi}{2}$ |
 | -------------- | --- | --------------------- | --------------------- | --------------------- | ---------------- |
@@ -66,7 +66,7 @@ $\csc(\dfrac{\pi}{4})=\dfrac{1}{\sin(\dfrac{\pi}{4})}$
 
 $\csc(\dfrac{3\pi}{4})$
 
-looking at the common values table, $\dfrac{3\pi}{4}$ matches with the $\dfrac{\pi}{4}$ column
+looking at the common angles table, $\dfrac{3\pi}{4}$ matches with the $\dfrac{\pi}{4}$ column
 
 
 $\sin(\dfrac{\pi}{4})=\dfrac{\sqrt{2}}{2}$ 
@@ -86,11 +86,11 @@ secant corresponds to cosine
 applying identities
 $\dfrac{5\pi}{6}$ is in the second quadrant, having the same aboslute
 
-looking at the common values table, $\dfrac{5\pi}{6}$ matches with the $\dfrac{\pi}{6}$ column
+looking at the common angles table, $\dfrac{5\pi}{6}$ matches with the $\dfrac{\pi}{6}$ column
 $\cos(\dfrac{\pi}{6})=\dfrac{\sqrt{3}}{2}$
 so 
 
 worked example: evaluate $\cot(-\dfrac{\pi}{3})$
 cotagent corresponds to tangent
-looking at the common values table at the  $\dfrac{\pi}{3}$ column
+looking at the common angles table at the  $\dfrac{\pi}{3}$ column
 $\tan(\dfrac{\pi}{3})=\sqrt{3}$
