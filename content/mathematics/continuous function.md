@@ -32,4 +32,4 @@ there is a jump discontinuity at $x=c$ of $f(x)$ if $\lim\limits_{x\to c^-}f(x)\
 
 ### essential discontinuity
 
-there is an essential discontinuity at $x=c$ of $f(x)$ if $\lim\limits_{x\to c^-}f(x)$ or $\lim\limits_{x\to c^+}f(x)$ does not exist
+there is an essential discontinuity at $x=c$ of $f(x)$ if $\lim\limits_{x\to c^-}f(x)\lor \lim\limits_{x\to c^+}f(x)$ does not exist

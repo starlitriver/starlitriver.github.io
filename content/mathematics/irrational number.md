@@ -13,7 +13,7 @@ the irrational number that use the root operator can actually be expressed as ex
 irrational numbers can be treated as variables in their own right, for example $\pi$ and $e$ - we treat them as variables
 but in real world applications it is possible to treat them as decimals for rough estimations
 
-one might prefer to see a number such as $\sqrt2$ as $(2)^{0.5}$ or $2^\dfrac{1}{2}$ to make the calculation steps clearer
+one might prefer to see a number such as $\sqrt2$ as $(2)^{0.5}\lor 2^\dfrac{1}{2}$ to make the calculation steps clearer
 
 like variables, irrational numbers can have coefficients. $\sqrt2$ is an irrational number, and when you double it to get $2\sqrt2$ it is still an irrational number.
 

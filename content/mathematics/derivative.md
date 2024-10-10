@@ -7,7 +7,7 @@ tags:
 
 in mathematics, a derivative is tool that quantifies the sensitivity of change of a function's output as its input changes
 
-the derivative of a function $f(x)$ are point $x=c$ is the [[slope]] of tangent line at that point, represented as $\dfrac{d}{dx}f(x)$ or $f'(x)$
+the derivative of a function $f(x)$ are point $x=c$ is the [[slope]] of tangent line at that point, represented as $\dfrac{d}{dx}f(x)\lor f'(x)$
 
 finding the derivative is called differentiation\
 this is how you 

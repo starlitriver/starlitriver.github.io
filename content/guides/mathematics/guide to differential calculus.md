@@ -72,7 +72,7 @@ for example, $y^2+x^2=1$ is implicit whereas $y=\sqrt{1-x^2}$ is explicit
 whenever we use differentials $dx$, $dy$, etc, the existence of a correlation between the variables is shown, expressed with functions
 
 when the exact function between several quantities x, y, z is unknown or is not convenient to state it, it is assumed that there is some sort of function between these variables and one cannot alter any of them without affecting the other ones
-this function is expressed implicitly with $F(x,y,z)$ or explicitly with $x=F(y,z)$ or $y=F(x,z)$ or $z=F(x,y)$
+this function is expressed implicitly with $F(x,y,z)$ or explicitly with $x=F(y,z)\lor y=F(x,z)\lor z=F(x,y)$
 
 suppose we have the equation $y=x^2$
 let us change x so that it becomes $x+dx$

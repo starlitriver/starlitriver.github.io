@@ -12,31 +12,13 @@ figure: the unit circle graphed
 
 the unit circle is useful in trigonometry because it visualizes the outputs of the [[trigonometric functions|trig functions]] given an angle $\theta$
 
-when we measure angles, we use either degrees or radians.
+by the way when we measure angles, we use either degrees or radians. if an angle has no units, it's in radians
+
+for how to evaluate the sine and cosine, see [[how to evaluate trig functions]]
 
 
-it is important to memorize the output of the sin and cos functions for the common input values, so here is a table that you will need to remember. this table has some most common values you need to remember, and other multiples of these values can be calculated easily.
 
-| radians           | degrees | cos - x value       | sin - y value       |
-| ----------------- | ------- | ------------------- | ------------------- |
-| 0                 | 0       | 1                   | 0                   |
-| $\dfrac{1}{6}\pi$ | 30      | $\dfrac{\sqrt3}{2}$ | $\dfrac{1}{2}$      |
-| $\dfrac{1}{4}\pi$ | 45      | $\dfrac{\sqrt2}{2}$ | $\dfrac{\sqrt2}{2}$ |
-| $\dfrac{1}{3}\pi$ | 60      | $\dfrac{1}{2}$      | $\dfrac{\sqrt3}{2}$ |
-| $\dfrac{1}{2}\pi$ | 90      | 0                   | 1                   |
-
-so, the table above is probably all you need to calculate some common trig functions in your head.
-because you know, you can just know the angles for one quadrant and therefore know the other quadrants as well.
-
-
-what's sine of 120 degrees? well, the sine value is the y coordinate, and it is the same in the first and second quadrants. a sine of 120 degrees, therefore, is equivalent to the sine of 60 dgrees which is $\dfrac{\sqrt3}{2}$
-
-what's the cosine of 270 degrees? 270 degrees is on the negative part of the y axis and the cosine value is the x coordinate so the answer is 0
-
-what's the sine of 300 degrees? 300 degrees is in the fourth quadrant, sine value is the y coordinate, so the sine of 290 degrees is the same as negative one times the sine of 60 degrees which is negative one times $\frac{\sqrt2}{2}$ which is $\frac{-\sqrt2}{2}$
-
-
-here are just some more values for your reference.
+here are just some more values you should ignore
 
 | radians           | degrees | cos - x value        | sin - y value        |
 | ----------------- | ------- | -------------------- | -------------------- |

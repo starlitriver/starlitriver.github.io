@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-science is a rigorous, systematic goal to build and organize [[knowledge]]
+science is a rigorous, systematic goal to build and organize knowledge
 
 ultimately, the purpose of science is to understand things
 

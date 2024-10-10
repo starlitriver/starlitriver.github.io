@@ -8,6 +8,8 @@ tags:
 
 in mathematics, the trigonometric functions are functions which relate an angle of a right-angled triangle to ratios of two side lengths. the [[unit circle]] is used to visualize the outputs of the trig functions
 
+in case you are wondering why trig functions are important, we use them a lot in geometric problems and calculus.
+
 ## introduction
 
 related: some easy applications of basic trigonometry is in [[introduction to trigonometry]]
@@ -27,6 +29,10 @@ $\cos(\theta)=\dfrac{\text{adjacent}}{\text{hypotenuse}}$
 tangent
 $\tan(\theta)=\dfrac{\text{opposite}}{\text{adjacent}}$
 $\tan(\theta)=\dfrac{\sin(\theta)}{\cos(\theta)}$
+
+
+[[how to evaluate trig functions]]
+[[how to graph trig functions]]
 
 ## notation
 trig functions can leave out the brackets where appropriate, like depicting $\sin(x)$ as $\sin x$

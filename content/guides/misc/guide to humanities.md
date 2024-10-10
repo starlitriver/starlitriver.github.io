@@ -7,7 +7,7 @@ tags:
 humanities study human society, culture and philosophy
 
 list of humanities
-- philosophy
-- religion
+- [[philosophy/index|philosophy]]
+- [[religion/index|religion]]
 - fine art
-- sociology
+- [[sociology/index|sociology]]

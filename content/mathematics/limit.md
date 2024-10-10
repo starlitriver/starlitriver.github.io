@@ -87,7 +87,7 @@ see this [video](https://www.khanacademy.org/math/differential-calculus/dc-limit
 when calculating limits by substitution and we get $\dfrac{0}{0}$
 this is intermediate form and you can use methods to calculate the limit
 
-see [[finding limits strategy]]
+see [[how to find the limit of an experession]]
 
 ## squeeze theorem
 let's say we have three functions, and $f(x) \leq g(x) \leq h(x)$

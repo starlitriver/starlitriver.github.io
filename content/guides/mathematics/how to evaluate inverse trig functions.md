@@ -30,7 +30,7 @@ domain: $\mathbb{R}$
 range: $[-\dfrac{\pi}{2},\dfrac{\pi}{2}]$
 
 
-we evaluate inverse trig functions by looking at the common values table
+we evaluate inverse trig functions by looking at the common angles table
 
 | $\theta$       | $0$ | $\dfrac{\pi}{6}$      | $\dfrac{\pi}{4}$      | $\dfrac{\pi}{3}$      | $\dfrac{\pi}{2}$ |
 | -------------- | --- | --------------------- | --------------------- | --------------------- | ---------------- |

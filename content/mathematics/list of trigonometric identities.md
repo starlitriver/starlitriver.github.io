@@ -18,7 +18,7 @@ for a better explanation of these identities, see [here](https://www.khanacademy
 
 from the definitions of the trig functions we can express all trig functions with just sine and cosine
 
-$\tan(a)=\dfrac{sin(a)}{\cos(a)}$
+$\tan(a)=\dfrac{\sin(a)}{\cos(a)}$
 
 $\csc(a)=\dfrac{1}{\sin(a)}$
 
@@ -40,13 +40,16 @@ Pythagorean identities are able to be rearranged to suit many simplifying purpos
 
 ## angle sum and difference identities
 
-$\sin(a+b) = \sin(a)\cdot\cos(b)+\sin(b)\cdot\cos(a)$
+$\sin(a+b) = \sin(a)\cdot\cos(b)+\cos(a)\cdot\sin(b)$
 
-$\sin(a-b) = \sin(a)\cdot\cos(b)-\sin(b)\cdot\cos(a)$
+$\sin(a-b) = \sin(a)\cdot\cos(b)-\cos(a)\cdot\sin(b)$
 
-$\cos(a+b) = \cos(a)\cdot\cos(b)-\sin(b)\cdot\sin(a)$
+$\cos(a+b) = \cos(a)\cdot\cos(b)-\sin(a)\cdot\sin(b)$
 
-$\cos(a-b) = \cos(a)\cdot\cos(b)+\sin(b)\cdot\sin(a)$
+$\cos(a-b) = \cos(a)\cdot\cos(b)+\sin(a)\cdot\sin(b)$
+
+$\tan(a+b)=\dfrac{\tan(a)+\tan(b)}{1-\tan(a)\tan(b)}$
+$\tan(a-b)=\dfrac{\tan(a)-\tan(b)}{1+\tan(a)\tan(b)}$
 
 ## double angle identities
 
