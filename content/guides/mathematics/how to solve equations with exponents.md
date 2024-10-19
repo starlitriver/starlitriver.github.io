@@ -3,6 +3,7 @@ aliases:
 tags: 
 ---
 
+
 when we solve an equation with exponents for a variable $x$, we see if the exponents of the variable are of the same exponent.
 if same, make each side of the equation have the same base
 we can also have 
@@ -138,3 +139,61 @@ $27k-1=0\lor k-1=0$
 $k=\dfrac{1}{27}\lor k=1$
 $3^x=\dfrac{1}{27}\lor3^x=1$
 $x=-3\lor x=0$
+
+worked example: solve $25^x-\dfrac{1}{5^{1-2x}}=48$
+$25^x-(5^{2x-1})=48$
+$5^{2x}-(\dfrac{1}{5}\cdot5^{2x})=48$
+$(5^{x})^2-(\dfrac{1}{5}\cdot(5^{x})^2=48$
+let $A=5^{x}$
+$A^2-\dfrac{1}{5}A^2=48$
+$\dfrac{4}{5}A^2=48$
+$A^2=60$
+$A=\pm\sqrt{60}$
+$5^x=\pm\sqrt{60}$
+$x=\pm\log_5(\sqrt{60})$
+
+
+worked example: solve $\dfrac{5}{\log_e(x)+2}=\log_e(x)-2$
+let $A=\log_e(x)+2$
+$\dfrac{5}{A+2}=A-2$
+$5=A^2-4$
+$A^2=9$
+$A=\pm3$
+
+
+worked example: solve $4^x+200\cdot25^x=30\cdot10^x$
+try to make the exponent bases the same
+this can be difficult but try to make the bases contain a small variety of numbers
+$(2^x)^2+200\cdot(5^x)^2=30\cdot(2\cdot5)^x$
+$(2^x)^2+200\cdot(5^x)^2=30\cdot2^x\cdot5^x$
+try to combine bases and exponents
+think of a few ways... the easiest way to make this equation simpler is to divide both sides by $(5^x)^2$
+$\dfrac{(2^x)^2}{(5^x)^2}+200=30\cdot2^x\cdot\dfrac{5^x}{(5^x)^2}$
+$\dfrac{(2^x)^2}{(5^x)^2}+200=30\cdot\dfrac{2^x}{5^x}$
+now we can finally make all bases the same
+$\left(\left(\dfrac{2}{5}\right)^x\right)^2+200=30\cdot\left(\dfrac{2}{5}\right)^x$
+let $A=\left(\dfrac{2}{5}\right)^x$
+$A^2-30A+200=0$
+$(A-20)(A-10)=0$
+$A=20\lor A=10$
+$\left(\dfrac{2}{5}\right)^x=20\lor \left(\dfrac{2}{5}\right)^x=10$
+$x=\log_\frac{2}{5}(20)\lor x=\log_\frac{2}{5}(10)$
+
+worked example: solve $25^{4x+2}=125$
+$5^{8x+4}=5^3$
+$8x+4=3$
+$x=-\dfrac{1}{8}$
+
+
+solve $2^x=8-4\cdot 2^{-x+2}$
+
+$2^x=8-4\cdot4\cdot 2^{-x}$
+$2^x=8-16\cdot\dfrac{1}{2^x}$
+let $A=2^x$
+$(2^{x})^2=8\cdot2^x-16$
+$A^2=8A-16$
+$A^2-8A+16=0$
+$(A-4)(A-4)=0$
+$A=4$
+$2^x=4$
+$x=2$

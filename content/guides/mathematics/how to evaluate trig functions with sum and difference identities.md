@@ -72,7 +72,26 @@ $\dfrac{-\sqrt{3}-3-1-\sqrt{3}}{1-3}$
 $\dfrac{-2\sqrt{3}-4}{-2}$
 $\sqrt{3}+2$
 
-worked example: give angles $a$ and $b$ in quadrant 1, $\sin(a)=0.7$ and $\cos(b)=0.8$, find $\cos(x-y)$
+worked example: given angles $a$ and $b$ in quadrant 1, $\sin(a)=0.7$ and $\cos(b)=0.8$, find $\cos(a-b)$
+$\cos(a)\cdot\cos(b)+\sin(a)\cdot\sin(b)$
+make a triangle to use $\sin(a)=0.7$ to find $\cos(a)$
+![[how to evaluate trig functions with sum and difference identities 2024-09-27 09.43.48.excalidraw.svg|211]]
+%%[[how to evaluate trig functions with sum and difference identities 2024-09-27 09.43.48.excalidraw.md|🖋 Edit in Excalidraw]]%%
+$\cos(a)=\dfrac{\sqrt{51}}{10}$
+make a triangle to use $\cos(b)=0.8$ to find $\sin(b)$
+![[how to evaluate trig functions with sum and difference identities 2024-09-27 09.47.08.excalidraw.svg|195]]
+%%[[how to evaluate trig functions with sum and difference identities 2024-09-27 09.47.08.excalidraw.md|🖋 Edit in Excalidraw]]%%
+$\sin(b)=\dfrac{6}{10}$
+$\dfrac{\sqrt{51}}{10}\cdot0.8+0.7*\dfrac{6}{10}$
+$\dfrac{8\sqrt{51}+42}{100}$
+$\dfrac{4\sqrt{51}+21}{50}$
 
+worked example: given angles $a$ and $b$ in quadrant 1, $\sin(a)=0.7$ and $\cos(b)=0.8$, find $\tan(a+b)$
+$\dfrac{\tan(a)+\tan(b)}{1-\tan(a)\cdot\tan(b)}$
+make a triangle to use $\sin(a)=0.7$ to find $\tan(a)$
+make a triangle to use $\cos(b)=0.8$ to find $\tan(b)$
 
-worked example: give angles $a$ and $b$ in quadrant 1, $\sin(a)=0.7$ and $\cos(b)=0.8$, find $\tan(x+y)$
+$\tan(a)=\dfrac{7}{\sqrt{51}}$
+$\tan(b)=\dfrac{3}{4}$
+$\dfrac{\dfrac{7}{\sqrt{51}}+\dfrac{3}{4}}{1-\dfrac{7}{\sqrt{51}}\cdot\dfrac{3}{4}}$
+i have no idea how to simplify this further :/

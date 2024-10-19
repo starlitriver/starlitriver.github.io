@@ -2,8 +2,8 @@
 aliases:
   - indicies
   - exponents
-  - power
   - exponent
+  - exponential
 tags:
 ---
 
@@ -32,7 +32,7 @@ $(a \cdot b)^{c}=a^{c} \cdot b^{c}$
 
 $a^{b}\cdot a^{c} = a^{(b+c)}$
 
-$a^{b}\div a^{c} = \dfrac{a^{b}}{a^{c}} = a^{(b-c)}$
+$\dfrac{a^{b}}{a^{c}} = a^{(b-c)}$
 
 $a^{-b}=\dfrac{1}{a^{b}}$
 
