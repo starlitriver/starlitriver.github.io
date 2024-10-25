@@ -5,18 +5,9 @@ tags:
 
 a [[logarithmic function]] in the form $f(x)=a\cdot\log_c(b(x-h))+k$ can be graphed
 
-compared to exponential functions logarithmic functions have a way more restricted domain because the [[logarithm]] function has restraints
-for $\log_a(b)$, the base $a$ is restricted to be $0<a<1\lor a>1$ 
-the input to the log function, $b$, is restricted to be $b>0$
-if the restrictions are not met, a math error happens
+they have a way more restricted domain compared to exponential functions because the [[logarithm]] function has restraints - for $\log_a(b)$, the base $a$ is restricted to be $0<a<1\lor a>1$ and the input, $b$, is restricted to be $b>0$
 
-
-since the definition of the log function requires its input to be greater than 0, $b(x-h)>0$. through this, we know that as soon as $b(c-h)=0$, the function breaks
-
-
-one thing about all logarithmic functions, they all have a vertical asymptote at the line $b(x-h)=0$
-
-asymptote is $x=m$ where $b(m-h)=0$
+because of the restraints on the log function, we know that $b(x-h)>0$ is the restraint on the domain. as soon as $b(c-h)=0$, the function breaks. therefore, the asymptote line is $x=m$ where $b(m-h)=0$
 
 assume that $a$ and $b$ are positive and $c>1$, remember how a general logarithmic function looks like
 yes, since a log is the [[inverse function|inverse]] of an exponent, it's a flip across the line $y=x$
