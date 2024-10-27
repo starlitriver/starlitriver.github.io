@@ -40,8 +40,10 @@ Pythagorean identities are able to be rearranged to suit many simplifying purpos
 
 $\sin^2(a) = \dfrac{1-\cos(2a)}{2}$
 
-$\cos^2(a)=1-\sin^2(a)$
 $\cos^2(a) = \dfrac{1+\cos(2a)}{2}$
+
+$\cos^2(a)=1-\sin^2(a)$
+
 
 
 ## angle sum and difference identities
