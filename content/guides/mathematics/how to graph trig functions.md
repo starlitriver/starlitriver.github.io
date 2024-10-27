@@ -3,37 +3,65 @@ aliases:
 tags: 
 ---
 
-the period is $\frac{2\pi}{n}$ for inverse sine and inverse cosine, and $\dfrac{\pi}{n}$ for inverse tangent
+let's graph trig functions!
 
-trig function follows the form $y=A\cdot\sin(n(x-b))+c$
+## sine, cosine and tangent
+
+a function in the form $f(x)=A\cdot\sin(n(x-b))+c$ or $f(x)=A\cdot\cos(n(x-b))+c$ can be graphed
+
 $A$ is the amplitude of the graph
 $c$ is the vertical translation of the graph and the midline is $y=c$
 the period of the graph is $\dfrac{2\pi}{n}$
 the dilation factor from the x-axis is $\dfrac{1}{n}$
 $b$ is the amount of horizontal translation to the right
 
-when graphing, always remember to label the coordinates of all local maxima, minima and all intercepts
+
+what do we do?
+read your question.
+it usually restricts your function domain, for example by defining the function for a domain interval
+if there are no restrictions on the domain, just draw everything that should be in the graph and 
+
+things we need
+
+- the domain for which we sketch
+- midline
+- amplitude
+- period
+- one x-intercept. this can be used to find all x intercepts.
+- y-intercept
+
+the period is $\frac{2\pi}{n}$ 
 
 to find the coordinates of the y-intercept, set $x=0$
 to find the coordinates of the x-intercepts, if any, set $y=0$
 
 
-worked example: graph $y=2\sin(\dfrac{x}{2})$
 
-the amplitude is 2, and the period is $\dfrac{2\pi}{0.5}=4\pi$
+amplitude is always shown as capital A[^amplitude]
 
-![[guide to trigonometry 2024-09-06 17.12.13.excalidraw.svg|408]]
+[^amplitude]:: amplitude is often shown as capital A in physics https://en.wikipedia.org/wiki/Amplitude
+
+
+
+worked example: graph $y=2\sin(\dfrac{x}{2})$ for $x\in(0,4\pi)$
+
+amplitude is 2
+period is $\dfrac{2\pi}{0.5}=4\pi$
+
+![[guide to trigonometry 2024-09-06 17.12.13.excalidraw.svg|508]]
 %%[[guide to trigonometry 2024-09-06 17.12.13.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-worked example: graph $y=3\sin(2x)$
-the amplitude is 3, and the period is $\dfrac{2\pi}{2}=\pi$
-![[guide to trigonometry 2024-09-06 17.51.15.excalidraw.svg|508]]
+worked example: graph $y=3\sin(2x)$ for $x\in(-\pi,\pi)$
+
+amplitude is 3
+period is $\dfrac{2\pi}{2}=\pi$
+![[guide to trigonometry 2024-09-06 17.51.15.excalidraw.svg|690]]
 %%[[guide to trigonometry 2024-09-06 17.51.15.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-worked example: graph $y=\sin(2(x-\dfrac{\pi}{4}))$
+worked example: graph $y=\sin(2(x-\dfrac{\pi}{4}))$ for $x\in[-\dfrac{3\pi}{4},\dfrac{\pi}{2}]$
 amplitude is is 1, period is $\dfrac{2\pi}{2}=\pi$, translated $\dfrac{\pi}{4}$ to the right
 
-![[guide to trigonometry 2024-09-06 18.01.14.excalidraw.svg|424]]
+![[guide to trigonometry 2024-09-06 18.01.14.excalidraw.svg|624]]
 %%[[guide to trigonometry 2024-09-06 18.01.14.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 worked example graph $y=2\sin(3(x+\dfrac{\pi}{4}))$
@@ -63,12 +91,9 @@ $\sin(0)=0$
 $3(x+\dfrac{\pi}{4})=0$
 $x=\dfrac{\pi}{4}$
 
-![[guide to trigonometry 2024-09-06 18.07.20.excalidraw.svg|492]]
-%%[[guide to trigonometry 2024-09-06 18.07.20.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 
-
-worked example: graph $y=\sqrt{2}\sin(2x\dfrac{\pi}{6})+1$
+worked example: graph $y=\sqrt{2}\sin(2(x+\dfrac{\pi}{6}))+2$
 
 
 

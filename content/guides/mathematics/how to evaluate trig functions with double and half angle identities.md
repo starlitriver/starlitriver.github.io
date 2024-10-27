@@ -24,3 +24,11 @@ $\sin(\dfrac{a}{2})=\pm\sqrt{\dfrac{1-\cos(a)}{2}}$
 $\cos(\dfrac{a}{2})=\pm\sqrt{\dfrac{1+\cos(a)}{2}}$
 
 $\tan(\dfrac{a}{2})=\dfrac{\sin(a)}{1+\cos(a)}$
+
+
+
+worked example: given $\cos(a)=\dfrac{1}{6}$, find $\sin(2a)$
+$\sin(2a) = 2\cdot\sin(a)\cdot\cos(a)$
+use a triangle to use $\cos(a)=\dfrac{1}{6}$ to find $\sin(a)$
+![[how to evaluate trig functions with double and half angle identities 2024-09-27 10.07.54.excalidraw.svg]]
+%%[[how to evaluate trig functions with double and half angle identities 2024-09-27 10.07.54.excalidraw.md|🖋 Edit in Excalidraw]]%%

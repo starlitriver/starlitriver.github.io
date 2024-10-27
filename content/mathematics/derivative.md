@@ -7,14 +7,22 @@ tags:
 
 in mathematics, a derivative is tool that quantifies the sensitivity of change of a function's output as its input changes
 
-the derivative of a function $f(x)$ are point $x=c$ is the [[slope]] of tangent line at that point, represented as $\dfrac{d}{dx}f(x)\lor f'(x)$
+there are a few ways derivatives are presented.
 
-finding the derivative is called differentiation\
-this is how you 
+if we have an expression $x^3$, its derivative is shown as $\dfrac{d}{dx}[x^3]$
+if we have a function $f(x)=x^3$, the derivative of the function is $f'(x)=\dfrac{d}{dx}[x^3]$
+if we have an equation $y=x^3$, the derivative of the equation is $\dfrac{dy}{dx}=\dfrac{d}{dx}[x^3]$
+notice how differentiation is an operation so it can be done to both sides of the equation
 
-$\dfrac{d}{dx}f(x)=\lim \limits_{x \to c} \dfrac{f(x)-f(c)}{x-c}$
 
-see explanation in this [video](https://www.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-derivative-intro/v/alternate-form-of-the-derivative)
+
+the derivative of a function $f(x)$ are point $x=c$ is the [[slope]] of tangent line at that point
+
+finding the derivative is called differentiation. for a function $f(x)$ we can find its derivative with:
+
+$f'(x)=\lim \limits_{x \to c} \dfrac{f(x)-f(c)}{x-c}$
+
+this definition is explained in [[proof of finding derivative]]
 
 
 

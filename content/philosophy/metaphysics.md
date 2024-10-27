@@ -16,6 +16,19 @@ what exists?
 
 what is observable?
 
-thinking that everything is either all physical or virtual and there is nothing in between is called [[monism]]
 
-thinking that some things can be physical while others can be virtual is called [[dualism]]
+## existence type
+
+[[materialism]] argues that everything is completely physical
+[[idealism]] argues that everything is completely virtual
+materialism and idealism are also called monism
+
+
+[[dualism]] argues that some things can be physical while others can be virtual
+
+
+
+## existence how
+
+[[panpsychism]] argues that 
+[[emergentism]] argues that
