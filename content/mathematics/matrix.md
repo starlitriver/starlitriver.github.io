@@ -21,6 +21,10 @@ $\mathbf{A}=\begin{bmatrix}a_{11}&a_{12}&\cdots &a_{1n}\\a_{21}&a_{22}&\cdots &a
 
 ## matrix addition
 
-matrix addition is the operation of adding two matrices by adding the corresponding entries together
+matrix addition is the operation of adding two matrices of the same order
+
+we add the corresponding entries together
 
 ## matrix multiplication
+
+matrix multiplication is the operation of multiplying two matrices with a column size matching with a row size, and a row size matching with a column size
