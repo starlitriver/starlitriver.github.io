@@ -9,7 +9,6 @@ tags:
 [[complete graph]]
 [[bipartite graph]]
 [[planar graph]]
-
 [[Euler's formula]]
 
 [[graph theory paths]]

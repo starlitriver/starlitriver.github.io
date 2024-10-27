@@ -13,6 +13,6 @@ by the definition of chromatic number, a graph is $n$ chromatic
 
 ## complete bipartite graph
 
-a complete bipartite graph is actually not a 
+a complete bipartite graph is actually not a [[complete graph]]
 
 a complete bipartite graph with the vertices of sets $A$ and $B$ is depicted as $K_{A,B}$ 
