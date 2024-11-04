@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "9324af545479da89",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c88d93047284a5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f58a8b325e2267",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "558bec83d93cc8a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cfe23f871ef71a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4257e9237473309",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b4bf0c2524e83393",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fe909100e0b415bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "622c133fbaee5eec",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5c772eb9c58d8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242ac3a9932b9013",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b3330bb9e8aa2101",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/mathematics/graph theory paths.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from graph theory paths"
+            }
+          },
+          {
+            "id": "98340349dc81e421",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d04715bf4c8bc1c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/mathematics/graph theory paths.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of graph theory paths"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "63f58a8b325e2267",
+  "lastOpenFiles": [
+    "mathematics/Pascal's triangle.md",
+    "mathematics/Pascal's rule.md",
+    "index.md",
+    "CODE_OF_CONDUCT.md",
+    "Dockerfile",
+    "LICENSE.txt",
+    "tsconfig.json",
+    "quartz.layout.ts",
+    "quartz.config.ts",
+    "package.json",
+    "package-lock.json",
+    "index.d.ts",
+    "globals.d.ts",
+    "content/mathematics/combination.md",
+    "content/mathematics/permutation.md",
+    "content/index.md",
+    "content/assets/bivariate data 2024-09-17 14.18.46.excalidraw.svg",
+    "content/guides/guide to graph theory.md",
+    "content/mathematics/graph theory paths.md",
+    "content/guides/biology/guide to genetics.md",
+    "content/biology/genetic variation.md",
+    "content/biology/natural selection.md",
+    "content/mathematics/addition and multiplication rules of probability.md",
+    "content/assets/aaa.excalidraw.svg",
+    "content/assets/aaa.excalidraw.md",
+    "content/biology/Untitled.md",
+    "content/guides/mathematics/how to evaluate trig functions with sum and difference identities.md",
+    "content/mathematics/bipartite graph.md",
+    "content/mathematics/planar graph.md",
+    "content/mathematics/graph.md",
+    "content/philosophy/you could have been each other.md",
+    "content/philosophy/wish.md",
+    "content/philosophy/vacation.md",
+    "content/philosophy/travel.md",
+    "content/philosophy/task.md",
+    "content/philosophy/routine.md",
+    "content/philosophy/reductionism.md",
+    "content/assets/how to graph logarithmic functions 2024-10-01 19.12.02.excalidraw.svg",
+    "content/assets/how to graph exponential functions 2024-10-02 11.45.34.excalidraw.svg",
+    "content/assets/how to graph exponential functions 2024-09-28 10.14.40.excalidraw.svg",
+    "content/assets/how to evaluate trig functions with sum and difference identities 2024-09-27 09.47.08.excalidraw.svg",
+    "content/assets/how to evaluate trig functions with sum and difference identities 2024-09-27 09.43.48.excalidraw.svg",
+    "content/assets/how to evaluate trig functions with double and half angle identities 2024-09-27 10.07.54.excalidraw.svg",
+    "content/assets/guide to trigonometry 2024-09-06 17.51.15.excalidraw.svg",
+    "content/guides/misc",
+    "content/assets/guide to trigonometry 2024-09-06 18.07.20.excalidraw.svg"
+  ]
+}

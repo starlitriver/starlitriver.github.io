@@ -3,14 +3,6 @@ aliases:
 tags: 
 title: welcome to starlitriver
 ---
-
-mathem,a
-## about
-
-this is a website presenting my academic notes
-
-i aim to continuously add to this repository for the purpose of creating a wiki of academic knowledge - if one day i forget about all these, i would have an accessible, clear and concise wiki to help me.
-
 ## usage
 
 this network of notes is best accessed offline for easier navigation and appearance - see the [github repository](https://github.com/starlitriver/starlitriver.github.io) to make reading much easier!
@@ -24,7 +16,7 @@ you can also navigate with the explorer and the breadcrumbs
 
 the folder structure follows wikipedia's classifications of [academic fields](https://en.wikipedia.org/wiki/List_of_academic_fields)
 
-to navigate the pages and learn stuff, see the [[guides/index|guides]] for 
+to navigate the pages and learn stuff, see the [[guides/index|guides]] which brings them all together
 
 ## ted talk
 
