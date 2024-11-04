@@ -11,3 +11,5 @@ for example, the 6 permutations (orderings) of the set {1, 2, 3} are (1, 2, 3), 
 for a set with $n$ distinct elements, the number of permutations possible if we pick $k$ elements from the set and ordered them is called a k-permutation, represented as $P(n,k)$
 
 $P(n,k)=\dfrac{n!}{(n-k)!}$
+
+[[guide to permutations]]
