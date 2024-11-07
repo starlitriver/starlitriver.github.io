@@ -2,7 +2,6 @@
 aliases: 
 tags: 
 ---
-Ω
 
 when we solve an equation with exponents for a variable $x$, we see if the exponents of the variable are of the same exponent.
 if same, make each side of the equation have the same base

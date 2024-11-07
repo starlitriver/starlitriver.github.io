@@ -102,3 +102,73 @@ worked example: as shown below, there are two points, A and B. you start at A an
 notice that no matter what path you take, you will need to go down 5 times and go right 4 times.
 therefore, you need exactly 9 moves, 5 of them down and 4 of them right.
 $\dfrac{9!}{(5!)(4!)}=126$
+
+
+worked example: 5 boys and 3 girls are randomly seated in a row. what is the probability that the first and last positions are occupied by girls?
+
+fill in requirements
+$(3)()()()()()()(2)$
+fill in others
+$(3)(6)(5)(4)(3)(2)(1)(2)=4320$
+so there are 4320 possible wanted permutations
+without requirements, there is $8!$ accepted permutations
+$\dfrac{4320}{8!}=\dfrac{3}{28}$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pretend everything below does not exist
+
+
+worked example: three letters are randomly chosen from the word "coffee" and then arranged in a row. let E be there is at least one "e" and O be there is at least one "o". find
+- $\text{Pr}(E)$
+so we have the word "coffee" and we take three letters from it.
+$\text{Pr}(E')=\dfrac{4}{6}\cdot \dfrac{3}{5}\cdot \dfrac{2}{4}=\dfrac{1}{5}$
+so $\text{Pr}(E)=1-\dfrac{1}{5}=\dfrac{4}{5}$
+
+- $\text{Pr}(O)$
+$\text{Pr}(O')=\dfrac{5}{6}\cdot \dfrac{4}{5}\cdot \dfrac{3}{4}=\dfrac{1}{2}$
+so $\text{Pr}(O)=1-\dfrac{1}{2}=\dfrac{1}{2}$
+
+- $\text{Pr}(E'\cap O')$
+$\text{Pr}(E' \cap O')$ is $\dfrac{3}{6}\cdot \dfrac{2}{5}\cdot \dfrac{1}{4}=\dfrac{1}{20}$
+so $\text{Pr}(E\cup O)$ is $\dfrac{19}{20}$
+
+- $\text{Pr}(E\cap O)$
+$\text{Pr}(E\cup O)=\text{Pr}(E)+\text{Pr}(O)-\text{Pr}(E\cap O)$
+
+
+- the last letter is "e" and the first letter is "f"
+find possible wanted permutations
+$(2)()(2)$
+$(2)(4)(2)=16$
+$\dfrac{16}{6!}=\dfrac{1}{45}$
+
+
+$\dfrac{19}{20}=\dfrac{1}{5}+\dfrac{1}{2}-\text{Pr}(E\cap O)$
+
+
+- make a table
+
+|     | E   | E'   |     |
+| --- | --- | ---- | --- |
+| O   |     | 3/4  | 1/2 |
+| O'  |     | 1/20 | 1/2 |
+|     | 4/5 | 1/5  | 1   |

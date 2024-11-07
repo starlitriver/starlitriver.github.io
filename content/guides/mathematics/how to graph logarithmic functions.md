@@ -3,6 +3,8 @@ aliases:
 tags: 
 ---
 
+![[how to graph logarithmic functions 2024-10-28 16.45.23.excalidraw.svg]]
+%%[[how to graph logarithmic functions 2024-10-28 16.45.23.excalidraw.md|🖋 Edit in Excalidraw]]%%
 a [[logarithmic function]] in the form $f(x)=a\cdot\log_c(b(x-h))+k$ can be graphed
 
 they have a way more restricted domain compared to exponential functions because the [[logarithm]] function has restraints - for $\log_a(b)$, the base $a$ is restricted to be $0<a<1\lor a>1$ and the input, $b$, is restricted to be $b>0$
