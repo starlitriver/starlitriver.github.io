@@ -10,4 +10,3 @@ knowledge in formal science cannot be justified or tested with empirical evidenc
 list of formal sciences
 - [[mathematics/index|mathematics]]
 - [[logic/index|logic]]
-- [[content/computer science/index|computer science]]

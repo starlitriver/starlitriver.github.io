@@ -7,11 +7,12 @@ let's graph trig functions!
 
 ## sine, cosine and tangent
 
-a function in the form $f(x)=A\cdot\sin(n(x-b))+c$ or $f(x)=A\cdot\cos(n(x-b))+c$ can be graphed
+we will graph a function in the form $f(x)=A\cdot\sin(n(x-b))+c$,
+and $f(x)=A\cdot\cos(n(x-b))+c$, and $f(x)=A\cdot\tan(n(x-b))+c$
 
 $A$ is the amplitude of the graph
 $c$ is the vertical translation of the graph and the midline is $y=c$
-the period of the graph is $\dfrac{2\pi}{n}$
+the period of the graph is $\dfrac{2\pi}{n}$ for sine and cosine, and is $\dfrac{\pi}{n}$ for tangent
 the dilation factor from the x-axis is $\dfrac{1}{n}$
 $b$ is the amount of horizontal translation to the right
 
@@ -93,6 +94,19 @@ $x=\dfrac{\pi}{4}$
 
 
 
+worked example: graph $f(x)=2\cos(2x)-1$
+
+amplitude is 2, period is $\pi$ and translated 1 down
+
+find x-intercepts
+$0=2\cos(2x)-1$
+$0=\cos(2x)-\dfrac{1}{2}$
+$\dfrac{1}{2}=\cos(2x)$
+$\dfrac{1}{2}=\cos(\dfrac{\pi}{3})$
+$2x=\dfrac{\pi}{3}$
+$x=\dfrac{\pi}{6}$
+
+
 worked example: graph $y=\sqrt{2}\sin(2(x+\dfrac{\pi}{6}))+2$
 
 
@@ -105,3 +119,66 @@ amplitude is 2
 period is $\dfrac{2\pi}{2}=\pi$
 translation is $\dfrac{\pi}{2}$ to the left
 midline is $y=1$
+
+
+
+
+worked example: graph $y=3\tan(2x)$ where $x\in[-\pi,\pi]$
+period is $\dfrac{\pi}{2}$
+
+find x-intercepts
+$0=3\tan(2x)$
+$0=\tan(2x)$
+$0=\tan(0)$
+$2x=0$
+$x=0$
+
+
+find asymptotes
+$\cos(2x)=0$
+$\cos(\dfrac{\pi}{2})=0$
+$2x=\dfrac{\pi}{2}$
+$x=\dfrac{\pi}{4}$
+
+
+
+
+worked example: graph $y=2\tan(\dfrac{x}{2})-2$ where $x\in(\dfrac{-\pi}{2},\pi)$
+
+period is $2\pi$
+
+find x-intercepts
+$0=2\tan(\dfrac{x}{2})-2$
+$y=\tan(\dfrac{x}{2})-1$
+$1=\tan(\dfrac{x}{2})$
+$1=\tan(\dfrac{\pi}{4})$
+$\dfrac{x}{2}=\dfrac{\pi}{4}$
+$x=\dfrac{\pi}{2}$
+
+
+find asymptotes
+$\cos(\dfrac{x}{2})=0$
+$\cos(\dfrac{\pi}{2})=0$
+$x=\pi$
+
+
+
+worked example: graph $y=-\tan(x-\dfrac{\pi}{4})$ where $x\in(-\pi,\pi)$
+
+period is $\pi$
+
+find x-intercepts
+
+$0=-\tan(x-\dfrac{\pi}{4})$
+$0=\tan(x-\dfrac{\pi}{4})$
+$0=\tan(0)$
+$x-\dfrac{\pi}{4}=0$
+$x=\dfrac{\pi}{4}$
+
+
+find asymptotes
+
+$\cos(x-\dfrac{\pi}{4})=0$
+$\cos(\dfrac{\pi}{2})=0$
+$x-\dfrac{\pi}{4}=\dfrac{\pi}{2}$
+$x=\dfrac{3\pi}{4}$

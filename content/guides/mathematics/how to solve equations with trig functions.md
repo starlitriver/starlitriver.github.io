@@ -2,6 +2,7 @@
 aliases: 
 tags: 
 ---
+
 worked example: solve $\sin(3x)=\dfrac{-1}{\sqrt{3}}\cos(3x)$ for $x\in[-\pi,\pi]$
 
 
@@ -29,6 +30,19 @@ the elevator will first reach the max height at $\pi$ seconds
 
 worked example: $h(t)=3\cos(\dfrac{\pi}{6}\cdot t)$ represents the water height, $h(t)$, meters above sea level, at $t$ hours after midnight. during what time intervals is the water level at least 1.5 meters above sea level?
 
-this question is best solved by **graphing** first
+to answer this question, we want to solve the inequality $3\cos(\dfrac{\pi}{6}\cdot t)>1.5$
+
+
+this question is best solved by **graphing**
 
 amplitude is 3, period is 12
+
+![[how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw.svg|404]]
+%%[[how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+
+
+
+worked example: the equation $3\sin(x)-1=b$ has 1 solution in the interval $x\in(0,2\pi)$. what values can $b$ be?
+a solution means a point where $x=0$
+as $b$ changes, the value of $x$ changes from the formula $3\sin(x)-1=b$

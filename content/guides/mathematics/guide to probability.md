@@ -50,3 +50,6 @@ a [[permutation]] is a sequence of objects that are presented in a specific orde
 ## combinations
 [[combination]] means that we do not care about specific order of the elements
 that is, the tuples $(1,2,3)$ and $(3,2,1)$ are the same combination. for example, if we have 10 books on a shelf and we need to pick 3 of them to bring to a trip, there are $C(10,3)$ ways to do that
+
+
+[[how to do probability questions]]

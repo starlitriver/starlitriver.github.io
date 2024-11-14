@@ -4,20 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "5c88d93047284a5d",
+        "id": "396195206b3af0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "63f58a8b325e2267",
+            "id": "54583141127a2b8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "english/Macbeth thinking.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Macbeth thinking"
+            }
+          },
+          {
+            "id": "40b1ee4e9e46260a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english/Macbeth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Macbeth"
+            }
+          },
+          {
+            "id": "a427eab2a90e4ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english/Macbeth themes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Macbeth themes"
+            }
+          },
+          {
+            "id": "1ff61a3fbba70ff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english/words in your repertoire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "words in your repertoire"
+            }
+          },
+          {
+            "id": "06a49a72cf3a1a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "english/Macbeth themes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Macbeth themes"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,13 +200,23 @@
               "icon": "lucide-list",
               "title": "Outline of graph theory paths"
             }
+          },
+          {
+            "id": "1a1f83521168948d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,12 +232,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "63f58a8b325e2267",
+  "active": "06a49a72cf3a1a85",
   "lastOpenFiles": [
-    "mathematics/Pascal's triangle.md",
-    "mathematics/Pascal's rule.md",
-    "index.md",
-    "CODE_OF_CONDUCT.md",
+    "english/words in your repertoire.md",
+    "english/Macbeth themes.md",
+    "english/Macbeth.md",
+    "english/Macbeth thinking.md",
+    "guides/misc/guide to formal sciences.md",
+    "computer science/programming language.md",
+    "computer science/index.md",
+    "computer science/computer program.md",
+    "guides/mathematics/how to solve equations with trig functions.md",
+    "english",
+    "assets/how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw.md",
+    "mathematics/identities about two-events probability.md",
+    "mathematics/permutation.md",
+    "biology/cell biology/mitosis.md",
+    "assets/mitosis 2024-11-12 17.10.06.excalidraw.md",
+    "assets/mitosis 2024-11-12 17.00.59.excalidraw.md",
+    "assets/mitosis 2024-11-12 17.10.06.excalidraw.svg",
+    "assets/mitosis 2024-11-12 17.00.59.excalidraw.svg",
+    "philosophy/epistemology.md",
+    "biology/genetic variation.md",
+    "biology/gene expression.md",
+    "guides/mathematics/guide to permutations and combinations.md",
+    "mathematics/combination.md",
+    "guides/mathematics/guide to combinations.md",
+    "guides/mathematics/test - trig things.md",
+    "guides/mathematics/how to do probability questions.md",
+    "guides/mathematics/how to do probability questions make table edition.md",
+    "assets/how to do probability application questions 2024-11-06 16.39.48.excalidraw.md",
+    "assets/how to do probability application questions 2024-11-06 16.39.48.excalidraw.svg",
+    "assets/how to do probability application questions 2024-11-06 16.22.56.excalidraw.md",
+    "assets/how to do probability application questions 2024-11-06 16.22.56.excalidraw.svg",
+    "assets/how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw.svg",
     "Dockerfile",
     "LICENSE.txt",
     "tsconfig.json",
@@ -176,38 +275,10 @@
     "package-lock.json",
     "index.d.ts",
     "globals.d.ts",
-    "content/mathematics/combination.md",
-    "content/mathematics/permutation.md",
-    "content/index.md",
     "content/assets/bivariate data 2024-09-17 14.18.46.excalidraw.svg",
-    "content/guides/guide to graph theory.md",
-    "content/mathematics/graph theory paths.md",
-    "content/guides/biology/guide to genetics.md",
-    "content/biology/genetic variation.md",
-    "content/biology/natural selection.md",
-    "content/mathematics/addition and multiplication rules of probability.md",
     "content/assets/aaa.excalidraw.svg",
-    "content/assets/aaa.excalidraw.md",
-    "content/biology/Untitled.md",
-    "content/guides/mathematics/how to evaluate trig functions with sum and difference identities.md",
-    "content/mathematics/bipartite graph.md",
-    "content/mathematics/planar graph.md",
-    "content/mathematics/graph.md",
-    "content/philosophy/you could have been each other.md",
-    "content/philosophy/wish.md",
-    "content/philosophy/vacation.md",
-    "content/philosophy/travel.md",
-    "content/philosophy/task.md",
-    "content/philosophy/routine.md",
-    "content/philosophy/reductionism.md",
     "content/assets/how to graph logarithmic functions 2024-10-01 19.12.02.excalidraw.svg",
     "content/assets/how to graph exponential functions 2024-10-02 11.45.34.excalidraw.svg",
-    "content/assets/how to graph exponential functions 2024-09-28 10.14.40.excalidraw.svg",
-    "content/assets/how to evaluate trig functions with sum and difference identities 2024-09-27 09.47.08.excalidraw.svg",
-    "content/assets/how to evaluate trig functions with sum and difference identities 2024-09-27 09.43.48.excalidraw.svg",
-    "content/assets/how to evaluate trig functions with double and half angle identities 2024-09-27 10.07.54.excalidraw.svg",
-    "content/assets/guide to trigonometry 2024-09-06 17.51.15.excalidraw.svg",
-    "content/guides/misc",
-    "content/assets/guide to trigonometry 2024-09-06 18.07.20.excalidraw.svg"
+    "content/assets/how to graph exponential functions 2024-09-28 10.14.40.excalidraw.svg"
   ]
 }

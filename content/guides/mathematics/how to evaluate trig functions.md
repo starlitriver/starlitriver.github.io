@@ -40,6 +40,11 @@ we can make a shorter table that we need to remember. just remember the letters 
 
 this is important, because this is the easiest way to find out the sign of an angle. no matter what angle you have, if you know which quadrant the angle is, you know the sign of the sine, cosine and tan outputs
 
+## symmetry properties
+
+[[how to evaluate trig functions with symmetry properties]]
+
+
 ## supplementary identities
 
 [[how to evaluate trig functions with supplementary identities]]
