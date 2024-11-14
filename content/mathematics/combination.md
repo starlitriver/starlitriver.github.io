@@ -12,10 +12,10 @@ in other words, if a set has $n$ elements and we need to select $k$ of them and 
 k-combinations can be represented with one of these: $C(n,k)={}^{n}C_{k}=C_{k}^{n}=\displaystyle\binom{n}{k}$
 and is sometimes read as "n choose k"
 
-$C(n,k)=\dfrac{n!}{(k)!(n-k)!}$
+$C(n,k)=\dfrac{n!}{(n-k)!(k!)}$
 
 we also have the equation $C(n,k)=C(n,n-k)$, representing the symmetry seen in Pascal's triangle
 
 a special case of the combination function where $k=2$ can use the formula $C(n,2)=\dfrac{n(n-1)}{2}$
 
-[[guide to combinations]]
+[[guide to permutations and combinations]]

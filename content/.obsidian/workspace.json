@@ -4,107 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "5c88d93047284a5d",
+        "id": "396195206b3af0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "347f1f3cf4e5aa39",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "assets/how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw"
-            }
-          },
-          {
-            "id": "63f58a8b325e2267",
+            "id": "54583141127a2b8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guides/mathematics/how to solve equations with trig functions.md",
+                "file": "english/Macbeth thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how to solve equations with trig functions"
+              "title": "Macbeth thinking"
             }
           },
           {
-            "id": "dd6f0162450371be",
+            "id": "40b1ee4e9e46260a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guides/mathematics/how to do probability questions.md",
+                "file": "english/Macbeth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how to do probability questions"
+              "title": "Macbeth"
             }
           },
           {
-            "id": "8ec9db77810e1b7a",
+            "id": "a427eab2a90e4ae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guides/mathematics/test - trig things.md",
+                "file": "english/Macbeth themes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test - trig things"
+              "title": "Macbeth themes"
             }
           },
           {
-            "id": "38b789cb30943cfe",
+            "id": "1ff61a3fbba70ff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics/identities about two-events probability.md",
+                "file": "english/words in your repertoire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "identities about two-events probability"
+              "title": "words in your repertoire"
             }
           },
           {
-            "id": "2bf9de4c9b726165",
+            "id": "06a49a72cf3a1a85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics/permutation.md",
+                "file": "english/Macbeth themes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "permutation"
-            }
-          },
-          {
-            "id": "d4aeb1735c4b63a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guides/mathematics/guide to permutations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "guide to permutations"
+              "title": "Macbeth themes"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,9 +200,19 @@
               "icon": "lucide-list",
               "title": "Outline of graph theory paths"
             }
+          },
+          {
+            "id": "1a1f83521168948d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -248,28 +232,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98340349dc81e421",
+  "active": "06a49a72cf3a1a85",
   "lastOpenFiles": [
-    "guides/mathematics/test - trig things.md",
-    "guides/mathematics/how to do probability questions.md",
+    "english/words in your repertoire.md",
+    "english/Macbeth themes.md",
+    "english/Macbeth.md",
+    "english/Macbeth thinking.md",
+    "guides/misc/guide to formal sciences.md",
+    "computer science/programming language.md",
+    "computer science/index.md",
+    "computer science/computer program.md",
+    "guides/mathematics/how to solve equations with trig functions.md",
+    "english",
+    "assets/how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw.md",
     "mathematics/identities about two-events probability.md",
     "mathematics/permutation.md",
-    "guides/mathematics/guide to permutations.md",
+    "biology/cell biology/mitosis.md",
+    "assets/mitosis 2024-11-12 17.10.06.excalidraw.md",
+    "assets/mitosis 2024-11-12 17.00.59.excalidraw.md",
+    "assets/mitosis 2024-11-12 17.10.06.excalidraw.svg",
+    "assets/mitosis 2024-11-12 17.00.59.excalidraw.svg",
+    "philosophy/epistemology.md",
+    "biology/genetic variation.md",
+    "biology/gene expression.md",
+    "guides/mathematics/guide to permutations and combinations.md",
+    "mathematics/combination.md",
+    "guides/mathematics/guide to combinations.md",
+    "guides/mathematics/test - trig things.md",
+    "guides/mathematics/how to do probability questions.md",
     "guides/mathematics/how to do probability questions make table edition.md",
-    "guides/mathematics/how to solve equations with trig functions.md",
     "assets/how to do probability application questions 2024-11-06 16.39.48.excalidraw.md",
     "assets/how to do probability application questions 2024-11-06 16.39.48.excalidraw.svg",
     "assets/how to do probability application questions 2024-11-06 16.22.56.excalidraw.md",
     "assets/how to do probability application questions 2024-11-06 16.22.56.excalidraw.svg",
-    "guides/mathematics/guide to probability.md",
-    "assets/aaa.excalidraw.md",
-    "assets/how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw.md",
     "assets/how to solve equations with trig functions 2024-11-05 10.32.23.excalidraw.svg",
-    "assets/template.excalidraw.md",
-    "mathematics/Pascal's triangle.md",
-    "mathematics/Pascal's rule.md",
-    "index.md",
-    "CODE_OF_CONDUCT.md",
     "Dockerfile",
     "LICENSE.txt",
     "tsconfig.json",
@@ -279,22 +275,10 @@
     "package-lock.json",
     "index.d.ts",
     "globals.d.ts",
-    "content/mathematics/combination.md",
-    "content/mathematics/permutation.md",
-    "content/index.md",
     "content/assets/bivariate data 2024-09-17 14.18.46.excalidraw.svg",
-    "content/guides/guide to graph theory.md",
-    "content/mathematics/graph theory paths.md",
-    "content/guides/biology/guide to genetics.md",
-    "content/biology/genetic variation.md",
-    "content/biology/natural selection.md",
-    "content/mathematics/addition and multiplication rules of probability.md",
     "content/assets/aaa.excalidraw.svg",
     "content/assets/how to graph logarithmic functions 2024-10-01 19.12.02.excalidraw.svg",
     "content/assets/how to graph exponential functions 2024-10-02 11.45.34.excalidraw.svg",
-    "content/assets/how to graph exponential functions 2024-09-28 10.14.40.excalidraw.svg",
-    "content/assets/how to evaluate trig functions with sum and difference identities 2024-09-27 09.47.08.excalidraw.svg",
-    "content/assets/how to evaluate trig functions with sum and difference identities 2024-09-27 09.43.48.excalidraw.svg",
-    "content/guides/misc"
+    "content/assets/how to graph exponential functions 2024-09-28 10.14.40.excalidraw.svg"
   ]
 }

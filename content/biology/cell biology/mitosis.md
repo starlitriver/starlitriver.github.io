@@ -18,17 +18,25 @@ this way, the loose and string like DNA become clumped together
 
 movement of centrosomes
 
-Replicated [[centrosome]] from interphase move apart towards opposite poles of the cell, powered by centrosome associated motor proteins
+Replicated [[centrosome|centrosomes]] from interphase move apart towards opposite poles of the cell, powered by centrosome associated motor proteins
 interdigitated [[microtubule|microtubules]] from each [[centrosome]] interact with each other, helping to move the [centrosomes](https://en.wikipedia.org/wiki/Centrosome "Centrosome") to opposite poles
 
 chromatin begins to condense and centrioles move to the opposite sides of the cell, creating spindle fibers between them
 as sister chromatids become visible, the nucleus disappears in prophase
+
+
+![[mitosis 2024-11-12 17.00.59.excalidraw.svg|300]]
+%%[[mitosis 2024-11-12 17.00.59.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
 
 ## metaphase
 
 the chromosomes start to line up at the equator of the cell and attach themselves to a spindle fiber
 
 spindle fibers from the [[spindle apparatus]] attach to the chromosomes and line them up along the middle of the cell
+
+![[mitosis 2024-11-12 17.10.06.excalidraw.svg]]
+%%[[mitosis 2024-11-12 17.10.06.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 ## anaphase
 

@@ -12,4 +12,4 @@ for a set with $n$ distinct elements, the number of permutations possible if we 
 
 $P(n,k)=\dfrac{n!}{(n-k)!}$
 
-[[guide to permutations]]
+[[guide to permutations and combinations]]

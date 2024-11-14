@@ -44,3 +44,5 @@ amplitude is 3, period is 12
 
 
 worked example: the equation $3\sin(x)-1=b$ has 1 solution in the interval $x\in(0,2\pi)$. what values can $b$ be?
+a solution means a point where $x=0$
+as $b$ changes, the value of $x$ changes from the formula $3\sin(x)-1=b$
