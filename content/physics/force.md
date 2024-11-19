@@ -1,7 +1,9 @@
 ---
-aliases:
-  - forces
-tags: 
+title: 
+description: 
+aliases: [forces]
+tags: []
+permalink:
 ---
 
 a force is an influence that causes [[matter]] to accelerate

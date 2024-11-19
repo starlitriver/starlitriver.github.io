@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in Buddhism, anatta is the doctrine that no unchanging, permanent self or essence can be found in any phenomenon

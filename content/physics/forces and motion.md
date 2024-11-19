@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 [[acceleration]] in meters per second squared is equal to [[force]] in newtons divided by [[mass]] in kilograms
@@ -13,6 +16,6 @@ $F \cdot s^{-2}=F \cdot N \cdot m^{-1} \cdot kg^{-1}$
 $1=N \cdot m^{-1} \cdot kg^{-1} \cdot s^2$
 
 
-[[momentum]] in kilograms times meters per second is equal to [[mass]] in kilograms times [[velocity]] in meters per second
+[[momentum]] in kilograms times meters per second is equal to [[mass]] in kilograms times [[position , velocity , acceleration , jerk]] in meters per second
 $p\cdot kg \cdot \dfrac{m}{s}=m\cdot kg \cdot v \cdot \dfrac{m}{s}$
 $p=mv$

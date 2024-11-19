@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in mathematics, the absolute value of a real number $x$ is the non-negative value of $x$ without regard to its sign, shown as "abs(x)", or more commonly shown as $|x|$

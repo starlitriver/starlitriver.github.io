@@ -1,7 +1,9 @@
 ---
-aliases:
-  - fatty acids
-tags: 
+title: 
+description: 
+aliases: [fatty acids]
+tags: []
+permalink:
 ---
 
 in chemistry, a fatty acid is a carboxylic acid with an aliphatic chain which is either saturated or unsaturated

@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in biology, the polymerase chain reaction (PCR) is a method widely used to make millions copies of a specific DNA sample rapidly

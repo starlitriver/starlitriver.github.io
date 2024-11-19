@@ -1,8 +1,9 @@
 ---
-aliases:
-  - viruses
-  - viral
-tags:
+title: 
+description: 
+aliases: [viral, viruses]
+tags: []
+permalink:
 ---
 
 a virus is a submicroscopic infectious agent that only replicates inside the cells of an organism

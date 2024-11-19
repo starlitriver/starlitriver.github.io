@@ -1,8 +1,9 @@
 ---
-aliases:
-  - reciprocal
-  - reciprocals
-tags:
+title: 
+description: 
+aliases: [reciprocal, reciprocals]
+tags: []
+permalink:
 ---
 
 in mathematics, the multiplicative inverse is an operation of arity 1 

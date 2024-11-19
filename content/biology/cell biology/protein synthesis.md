@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in cell biology, protein synthesis is a core biological process balancing the loss of cellular proteins though the production of new proteins

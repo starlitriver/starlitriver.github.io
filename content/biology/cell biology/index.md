@@ -1,9 +1,9 @@
 ---
-aliases:
-  - cell biology
-  - cellular biology
-  - cytology
-tags: 
+title: 
+description: 
+aliases: [cell biology, cellular biology, cytology]
+tags: []
+permalink:
 ---
 
 cell biology is a branch of biology that studies the structure, function, and behavior of [[cell|cells]]

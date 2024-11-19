@@ -1,7 +1,9 @@
 ---
-aliases:
-  - triangular numbers
-tags:
+title: 
+description: 
+aliases: [triangular numbers]
+tags: []
+permalink:
 ---
 
 in mathematics, triangular numbers are used to count objects arranged in an equilateral triangle.

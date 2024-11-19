@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 the rough endoplasmic reticulum is a convoluted network of membranes that are studded with ribosomes

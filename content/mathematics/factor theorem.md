@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in algebra, the factor theorem is a special case of the [[polynomial remainder theorem]] that is used to determine if an expression is a factor of a polynomial

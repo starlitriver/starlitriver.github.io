@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 by definition, justice is the concept that individuals are to be treated in a manner that is equitable and fair

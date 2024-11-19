@@ -1,7 +1,9 @@
 ---
-aliases:
-  - operations
-tags:
+title: 
+description: 
+aliases: [operations]
+tags: []
+permalink:
 ---
 
 in mathematics, an operation is a [[function]] which takes zero or more input values, called operands or arguments, to a defined output value

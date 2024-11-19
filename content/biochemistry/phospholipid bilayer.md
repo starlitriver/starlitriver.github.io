@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 a phospholipid bilayer is a structure in biology known for constituting permeable and semi-permeable membranes

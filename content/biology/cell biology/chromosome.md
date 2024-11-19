@@ -1,7 +1,9 @@
 ---
-aliases:
-  - chromosomes
-tags: 
+title: 
+description: 
+aliases: [chromosomes]
+tags: []
+permalink:
 ---
 
 a chromosome is a package of [[deoxyribonucleic acid|DNA]] with a portion of the genetic material of an organism

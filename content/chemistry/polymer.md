@@ -1,7 +1,9 @@
 ---
-aliases:
-  - polymers
-tags: 
+title: 
+description: 
+aliases: [polymers]
+tags: []
+permalink:
 ---
 
 in chemistry, a polymer is a substance or material consisting of [[macromolecule|macromolecules]] linked together into chains of repeating subunits

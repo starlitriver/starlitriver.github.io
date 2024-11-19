@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 the smooth endoplasmic reticulum lacks ribosomes so it looks smooth compared to the [[rough endoplasmic reticulum]]

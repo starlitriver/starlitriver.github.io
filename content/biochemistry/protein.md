@@ -1,7 +1,9 @@
 ---
-aliases:
-  - proteins
-tags: 
+title: 
+description: 
+aliases: [proteins]
+tags: []
+permalink:
 ---
 
 in biochemistry, a protein is a macromolecule that is a [[polymer]] of [[amino acid|amino acids]]

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - ribosomes
-tags:
+title: 
+description: 
+aliases: [ribosomes]
+tags: []
+permalink:
 ---
 
 in cell biology, ribosomes are macromolecular machines used for the translation phase of [[protein synthesis]]

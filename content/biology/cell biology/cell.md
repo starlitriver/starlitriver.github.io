@@ -1,8 +1,9 @@
 ---
-aliases:
-  - cells
-  - cellular
-tags: 
+title: 
+description: 
+aliases: [cells, cellular]
+tags: []
+permalink:
 ---
 
 in biology, a cell is the smallest structural and functional unit of an [[organism]]

@@ -1,7 +1,11 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
+
 in mathematics, a factorial of a number $n$ is $n!$ and is defined for a positive integer $n$ as $n!=n(n-1)(n-2)\dots(2)(1)$
 for example, $4!=4·3·2·1=24$
 

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - genes
-tags:
+title: 
+description: 
+aliases: [genes]
+tags: []
+permalink:
 ---
 
 in biology, a gene could refer to

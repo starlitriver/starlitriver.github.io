@@ -1,7 +1,9 @@
 ---
-aliases:
-  - macromolecules
-tags: 
+title: 
+description: 
+aliases: [macromolecules]
+tags: []
+permalink:
 ---
 
 a macromolecule is a very large [[molecule]] 

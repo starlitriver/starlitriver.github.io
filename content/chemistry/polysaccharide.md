@@ -1,9 +1,9 @@
 ---
-aliases:
-  - polysaccharides
-  - polycarbohydrate
-  - polycarbohydrates
-tags:
+title: 
+description: 
+aliases: [polycarbohydrate, polycarbohydrates, polysaccharides]
+tags: []
+permalink:
 ---
 
 polysaccharides are the most abundant [[carbohydrate|carbohydrates]] found in food

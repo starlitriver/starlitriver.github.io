@@ -1,8 +1,9 @@
 ---
-aliases:
-  - vectors
-  - scalar
-tags:
+title: 
+description: 
+aliases: [scalar, vectors]
+tags: []
+permalink:
 ---
 
 in mathematics, a vector is a quantity that cannot be expressed by a single number (called a scalar)

@@ -1,10 +1,9 @@
 ---
-aliases:
-  - continuous
-  - continuity
-  - discontinuity
-  - discontinuities
-tags:
+title: 
+description: 
+aliases: [continuity, continuous, discontinuities, discontinuity]
+tags: []
+permalink:
 ---
 
 in mathematics, a continuous function is a function that have no abrupt changes in value called discontinuities

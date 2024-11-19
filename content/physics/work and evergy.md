@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 net work done by force in newtons times meters is equal to the displacement in meters times force in newtons

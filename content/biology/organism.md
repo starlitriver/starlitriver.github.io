@@ -1,7 +1,9 @@
 ---
-aliases:
-  - organisms
-tags:
+title: 
+description: 
+aliases: [organisms]
+tags: []
+permalink:
 ---
 
 an organism is any living thing that functions as an individual... such a definition is not very clear

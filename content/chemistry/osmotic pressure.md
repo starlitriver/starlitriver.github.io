@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in chemistry, osmotic pressure is the minimum pressure which needs to be applied to a solution to precent the inward flow of its pure solved across a semipermeable membrane

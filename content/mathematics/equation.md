@@ -1,7 +1,9 @@
 ---
-aliases:
-  - equations
-tags:
+title: 
+description: 
+aliases: [equations]
+tags: []
+permalink:
 ---
 
 in algebra, an equation is a mathematical formula that expresses the equality of two expressions

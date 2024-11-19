@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 $\text{Pr}(A\cup B)=\text{Pr}(A)+\text{Pr}(B)-\text{Pr}(A\cap B)$

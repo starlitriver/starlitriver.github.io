@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 natural selection can cause a population to change over time. for natural selection to happen, these conditions must be met

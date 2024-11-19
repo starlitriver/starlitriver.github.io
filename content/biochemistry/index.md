@@ -1,8 +1,9 @@
 ---
-aliases:
-  - biochemistry
-tags: 
 title: biochemistry
+description: 
+aliases: [biochemistry]
+tags: []
+permalink:
 ---
 
 biochemistry is a branch of [[natural/biology/index|biology]] and [[natural/chemistry/index|chemistry]] that studies chemical processes within and relating to organisms

@@ -1,10 +1,9 @@
 ---
-aliases:
-  - indicies
-  - exponents
-  - exponent
-  - exponential
-tags:
+title: 
+description: 
+aliases: [exponent, exponential, exponents, indicies]
+tags: []
+permalink:
 ---
 
 in mathematics, exponentiation is an operation involving two numbers - the base and the exponent

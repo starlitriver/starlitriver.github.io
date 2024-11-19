@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 mitosis is part of the [[cell cycle]], and aims to produce two identical daughter cells from one cell

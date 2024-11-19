@@ -1,7 +1,9 @@
 ---
-aliases:
-  - genetic disorders
-tags:
+title: 
+description: 
+aliases: [genetic disorders]
+tags: []
+permalink:
 ---
 
 in genetics, a genetic disorder is a health problem cause by abnormalities in the genome

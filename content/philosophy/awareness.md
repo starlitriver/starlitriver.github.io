@@ -1,7 +1,9 @@
 ---
-aliases:
-  - aware
-tags:
+title: 
+description: 
+aliases: [aware]
+tags: []
+permalink:
 ---
 
 awareness is a [[perception]] or [[knowledge]]

@@ -1,5 +1,7 @@
 ---
-aliases:
-  - rational numbers
-tags: 
+title: 
+description: 
+aliases: [rational numbers]
+tags: []
+permalink:
 ---

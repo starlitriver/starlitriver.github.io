@@ -1,7 +1,9 @@
 ---
-aliases:
-  - electric charges
-tags:
+title: 
+description: 
+aliases: [electric charges]
+tags: []
+permalink:
 ---
 
 electric charge is the physical property of matter that causes it to experience a force when placed in a [[electromagnetism|electromagnetic]] field

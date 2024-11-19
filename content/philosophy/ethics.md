@@ -1,7 +1,9 @@
 ---
-aliases:
-  - moral philosophy
-tags: 
+title: 
+description: 
+aliases: [moral philosophy]
+tags: []
+permalink:
 ---
 
 ethics, also known as moral philosophy, is the study of [[morality|moral]] phenomena

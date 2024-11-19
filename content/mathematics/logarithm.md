@@ -1,8 +1,9 @@
 ---
-aliases:
-  - logarithms
-  - logarithmic
-tags:
+title: 
+description: 
+aliases: [logarithmic, logarithms]
+tags: []
+permalink:
 ---
 
 

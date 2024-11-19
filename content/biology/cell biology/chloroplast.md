@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in cell biology, a chloroplast is an [[organelle]] found in plant and algal cells responsible for the process of [[photosynthesis]]

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - kidneys
-tags:
+title: 
+description: 
+aliases: [kidneys]
+tags: []
+permalink:
 ---
 
 in humans, the kidneys are two bean shaped blood filtering [[organ|organs]] that are a form of mammalian kidneys

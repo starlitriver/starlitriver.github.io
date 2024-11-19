@@ -1,7 +1,9 @@
 ---
-aliases:
-  - organ systems
-tags:
+title: 
+description: 
+aliases: [organ systems]
+tags: []
+permalink:
 ---
 
 in biology, an organ system is a [[biological system]] consisting of a group of [[organ|organs]] that work together to perform functions

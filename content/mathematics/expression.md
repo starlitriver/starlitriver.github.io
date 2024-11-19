@@ -1,7 +1,9 @@
 ---
-aliases:
-  - expressions
-tags:
+title: 
+description: 
+aliases: [expressions]
+tags: []
+permalink:
 ---
 
 in mathematics, an expression is a finite combination of symbols

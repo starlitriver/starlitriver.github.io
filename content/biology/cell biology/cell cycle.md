@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 the cell cycle is the series of events that take place in a cell that causes it to divide into two daughter cells

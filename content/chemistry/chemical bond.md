@@ -1,5 +1,7 @@
 ---
-aliases:
-  - chemical bonds
-tags: 
+title: 
+description: 
+aliases: [chemical bonds]
+tags: []
+permalink:
 ---

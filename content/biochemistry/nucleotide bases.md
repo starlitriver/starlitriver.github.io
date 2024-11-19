@@ -1,11 +1,9 @@
 ---
-aliases:
-  - nucleotide base
-  - nucleobase
-  - nucleobases
-  - nitrogenous base
-  - nitrogenous bases
-tags:
+title: 
+description: 
+aliases: [nitrogenous base, nitrogenous bases, nucleobase, nucleobases, nucleotide base]
+tags: []
+permalink:
 ---
 
 in biochemistry, nucleotide bases,

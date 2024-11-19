@@ -1,7 +1,9 @@
 ---
-aliases:
-  - phospholipids
-tags: 
+title: 
+description: 
+aliases: [phospholipids]
+tags: []
+permalink:
 ---
 
 phospholipids are a class of [[lipid]] that has a [[hydrophilic]] head and two [[hydrophobic]] tails derived from [[fatty acid]]

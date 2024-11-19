@@ -1,7 +1,9 @@
 ---
-aliases:
-  - DNA
-tags: 
+title: 
+description: 
+aliases: [DNA]
+tags: []
+permalink:
 ---
 
 deoxyribonucleic acid (DNA) is a [[polymer]] that bears the hereditary information of an organism

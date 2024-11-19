@@ -1,5 +1,7 @@
 ---
-aliases:
-  - atomic bonds
-tags: 
+title: 
+description: 
+aliases: [atomic bonds]
+tags: []
+permalink:
 ---

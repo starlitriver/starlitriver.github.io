@@ -1,7 +1,9 @@
 ---
-aliases:
-  - organelles
-tags: 
+title: 
+description: 
+aliases: [organelles]
+tags: []
+permalink:
 ---
 
 in cell biology, an organelle is a specialized [[cell|cellular]] part that has a specific function and is considered analogous to an organ

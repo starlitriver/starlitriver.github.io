@@ -1,7 +1,9 @@
 ---
-aliases:
-  - Punnett squares
-tags:
+title: 
+description: 
+aliases: [Punnett squares]
+tags: []
+permalink:
 ---
 
 in genetics, the Punnett square is a square diagram used to predict the genotypes of a particular cross or breeding experiment

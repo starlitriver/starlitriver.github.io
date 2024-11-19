@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in cell biology, the endoplasmic reticulum (ER) is an [[organelle]] made up of two subunits, the [[rough endoplasmic reticulum]] and the [[smooth endoplasmic reticulum]]

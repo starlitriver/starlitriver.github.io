@@ -1,7 +1,9 @@
 ---
-aliases:
-  - metabolic
-tags:
+title: 
+description: 
+aliases: [metabolic]
+tags: []
+permalink:
 ---
 
 in biology, metabolism is the set of life sustaining chemical reactions in organisms

@@ -1,8 +1,9 @@
 ---
-aliases:
-  - inverse functions
-  - inverse
-tags:
+title: 
+description: 
+aliases: [inverse, inverse functions]
+tags: []
+permalink:
 ---
 
 in mathematics, inverse refers to either the [[multiplicative inverse]], also known as reciprocal, or an inverse function

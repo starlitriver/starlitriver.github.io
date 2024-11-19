@@ -1,6 +1,9 @@
 ---
+title: 
+description: 
 aliases: []
-tags: 
+tags: []
+permalink:
 ---
 
 morality is the differentiation of intentions, decisions and actions that are proper or improper

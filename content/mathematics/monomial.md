@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 roughly, a monomial is a math expression that has one term, has variables and involves only the operations addition, multiplication and exponentiation to positive integer powers

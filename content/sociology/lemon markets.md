@@ -1,7 +1,9 @@
 ---
-aliases: 
-tags:
-  - situation
+title: 
+description: 
+aliases: []
+tags: [situation]
+permalink:
 ---
 
 a lemon market will be produced if

@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in Buddhism, the four noble truths are concepts that apply to life, and are the "truths and realities for the spiritually worthy ones"

@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in graph theory, a planar graph is a graph where it is possible to make a two dimensional re-representation of the graph where there are no edges crossing

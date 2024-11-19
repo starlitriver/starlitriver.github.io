@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 thermoregulation is the ability of an organism to keep its body temperature within certain boundaries when when the surrounding temperature is very different

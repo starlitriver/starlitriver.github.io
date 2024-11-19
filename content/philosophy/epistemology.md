@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 epistemology is an umbrella term used to describe the study of philosophical problems underlying theories of [[knowledge]]

@@ -1,9 +1,9 @@
 ---
-aliases:
-  - quadratics
-  - quadratic
-  - 2 degree polynomials
-tags: 
+title: 
+description: 
+aliases: [2 degree polynomials, quadratic, quadratics]
+tags: []
+permalink:
 ---
 
 a 2 degree [[polynomial]] is also known as a quadratic equation

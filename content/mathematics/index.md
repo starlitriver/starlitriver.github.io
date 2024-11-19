@@ -1,8 +1,9 @@
 ---
-aliases:
-  - mathematics
-tags: []
 title: mathematics
+description: 
+aliases: [mathematics]
+tags: []
+permalink:
 ---
 
 in formal sciences, mathematics is the study of

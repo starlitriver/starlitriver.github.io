@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
  in biology, the excretory system is an [[organ system]] that removes excess or unnecessary materials from the bodily fluids of an organism

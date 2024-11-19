@@ -1,7 +1,7 @@
 ---
 title: 
 description: 
-aliases: 
+aliases: []
 tags: [excalidraw]
 created: 2024-11-04T20:43:20
 modified: 2024-11-04T20:51:37

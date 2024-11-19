@@ -1,7 +1,9 @@
 ---
-aliases:
-  - cell types
-tags:
+title: 
+description: 
+aliases: [cell types]
+tags: []
+permalink:
 ---
 
 in biology, a cell type is a classification used to identify cells that share [[morphology|morphological]] or [[phenotype|phenotypical]] features
