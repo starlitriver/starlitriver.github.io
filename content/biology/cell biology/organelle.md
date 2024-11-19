@@ -10,6 +10,7 @@ in cell biology, an organelle is a specialized [[cell|cellular]] part that has a
 
 ### major eukaryotic organelles
 
+
 | organelle                 | main function                                                                                | organisms        |
 | ------------------------- | -------------------------------------------------------------------------------------------- | ---------------- |
 | [[cell membrane]]         | separates the cell interior from the outside environment                                     | all eukaryotes   |

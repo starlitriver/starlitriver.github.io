@@ -20,7 +20,7 @@ glossary
 - homologous - two homologous chromosomes are the same
 - homozygous - a cell that is homozygous for a trait has two same alleles for the trait
 - heterozygous - a cell that is heterozygous for a trait has two different alleles for the trait
-- [[dominance (genetics)]]
+- [[dominance]]
 
 
 the probability of phenotypes caused by genetic disorders is shown with [[Punnett square|Punnett squares]]
