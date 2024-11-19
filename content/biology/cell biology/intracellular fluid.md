@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 not to be confused with [[cytoplasm]]

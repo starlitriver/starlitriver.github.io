@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 a [[power function]] is a function in the form $f(x)=a[b(x-d)]^n+c$

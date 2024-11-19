@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in mathematics, the Pythagorean theorem relates the three sides of a right-angled triangle and says that the square whose side is the hypotenuse is equal to the sum of the areas of the squares on the other two sides

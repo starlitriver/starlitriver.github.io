@@ -1,7 +1,9 @@
 ---
-aliases:
-  - relations
-tags:
+title: 
+description: 
+aliases: [relations]
+tags: []
+permalink:
 ---
 
 in mathematics, a relation is how sets of numbers relate to each other

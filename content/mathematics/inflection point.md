@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in mathematics, an inflection point is a point on the graph of function $f(x)$ where the sign of the curvature changes.

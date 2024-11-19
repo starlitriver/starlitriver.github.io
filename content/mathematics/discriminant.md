@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in algebra, the discriminant of a [[polynomial]] is a quantity that depends on the coefficients and allows deducing some properties of the roots

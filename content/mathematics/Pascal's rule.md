@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 Pascal's rule (also known as Pascal's formula or Pascal's identity) states that $C(n-1,k)+C(n-1,k-1)=C(n,k)$, where C is the [[combination]] function

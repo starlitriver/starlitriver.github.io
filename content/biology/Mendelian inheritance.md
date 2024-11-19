@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in genetics, Mendelian inheritance is a type of biological inheritance following the principles of Mendelian inheritance, proposed by Gregor Mendel

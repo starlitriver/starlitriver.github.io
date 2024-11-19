@@ -1,7 +1,9 @@
 ---
-aliases:
-  - monosaccharides
-tags: 
+title: 
+description: 
+aliases: [monosaccharides]
+tags: []
+permalink:
 ---
 
 in chemistry, monosaccharides are the simplest form of [[carbohydrate|carbohydrates]]

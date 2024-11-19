@@ -1,7 +1,9 @@
 ---
-aliases:
-  - RNA
-tags: 
+title: 
+description: 
+aliases: [RNA]
+tags: []
+permalink:
 ---
 
 ribonucleic acid, RNA, is quite similar to [[deoxyribonucleic acid|DNA]]

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - permutations
-tags:
+title: 
+description: 
+aliases: [permutations]
+tags: []
+permalink:
 ---
 
 in mathematics, a permutation of a set is an arrangement of its elements into a sequence, where the order of the elements matter

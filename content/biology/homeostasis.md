@@ -1,7 +1,9 @@
 ---
-aliases:
-  - homeostatic
-tags:
+title: 
+description: 
+aliases: [homeostatic]
+tags: []
+permalink:
 ---
 
 in biology, homeostasis is the state of steady internal physical and chemical conditions maintained by living systems

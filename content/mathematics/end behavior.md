@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 the end behavior of a function $f(x)$ is the [[limit]] of $f(x)$ as $x$ approaches negative infinity, $\lim\limits_{x\to-\infty}f(x)$, and positive infinity, $\lim\limits_{x\to\infty}f(x)$

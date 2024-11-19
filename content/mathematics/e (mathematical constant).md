@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in mathematics, the number $e$ is a mathematical constant defined as $\lim\limits_{n\to\infty}(1+\dfrac{1}{n})^n$

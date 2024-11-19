@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in mathematics, a transformation $T$ is the same as a map or [[function]] over a domain $D$ that takes the elements $X$ to the elements $Y$

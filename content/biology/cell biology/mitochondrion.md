@@ -1,7 +1,9 @@
 ---
-aliases:
-  - mitochondria
-tags:
+title: 
+description: 
+aliases: [mitochondria]
+tags: []
+permalink:
 ---
 
 in cell biology, a mitochondrion is an [[organelle]] found in most eukaryotes

@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in biology, osmoregulation is the active regulation of the [[osmotic pressure]] of an organism's body fluids, detected by osmoreceptors, to maintain the momeostasis of the organism's water content

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - organs
-tags:
+title: 
+description: 
+aliases: [organs]
+tags: []
+permalink:
 ---
 
 in biology, an organ is a collection of [[tissue|tissues]] joined in a structural unit to serve a common function

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - routines
-tags:
+title: 
+description: 
+aliases: [routines]
+tags: []
+permalink:
 ---
 
 yes, daily routines are boring . spending your entire year at 5 locations is less than ideal

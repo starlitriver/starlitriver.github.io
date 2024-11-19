@@ -1,7 +1,9 @@
 ---
-aliases:
-  - nucleic acids
-tags: 
+title: 
+description: 
+aliases: [nucleic acids]
+tags: []
+permalink:
 ---
 
 in biochemistry, nucleic acids are the acids that reside within the [[nucleus]]

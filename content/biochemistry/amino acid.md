@@ -1,7 +1,9 @@
 ---
-aliases:
-  - amino acids
-tags: 
+title: 
+description: 
+aliases: [amino acids]
+tags: []
+permalink:
 ---
 
 amino acids are building blocks of [[protein|proteins]]

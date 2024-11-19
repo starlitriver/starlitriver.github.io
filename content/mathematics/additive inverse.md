@@ -1,8 +1,9 @@
 ---
-aliases:
-  - sign change
-  - negation
-tags:
+title: 
+description: 
+aliases: [negation, sign change]
+tags: []
+permalink:
 ---
 
 in mathematics, the additive inverse is an [[operation]] of arity 1 that takes a number $a$ and changes its sign and outputs $b$ so that $a+b=0$

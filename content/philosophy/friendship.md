@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 
@@ -19,7 +22,5 @@ it's true that most friendships are only on the surface. the saying "you only kn
 and we never just fully intend to make close friends. that may feel silly
 "go out of your way to form emotional connections" isn't part of our goals[^intentionallymakingclosefriends]
 
-
 [^areyoumyfriend]: this illustrated conversation really explains things quite well https://moretothat.com/are-you-my-friend
-
 [^intentionallymakingclosefriends]: https://www.neelnanda.io/blog/43-making-friends

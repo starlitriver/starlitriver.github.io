@@ -1,7 +1,9 @@
 ---
-aliases:
-  - power functions
-tags: 
+title: 
+description: 
+aliases: [power functions]
+tags: []
+permalink:
 ---
 
 in mathematics, a power function is a function in the form $f(x)=a[b(x-d)]^n+c$

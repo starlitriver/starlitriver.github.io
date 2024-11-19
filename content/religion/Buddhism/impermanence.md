@@ -1,7 +1,9 @@
 ---
-aliases:
-  - anicca
-tags:
+title: 
+description: 
+aliases: [anicca]
+tags: []
+permalink:
 ---
 
 impermanence is the philosophical problem of change

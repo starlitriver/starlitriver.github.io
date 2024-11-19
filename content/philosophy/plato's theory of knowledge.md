@@ -1,7 +1,9 @@
 ---
-aliases:
-  - jtb theory
-tags: 
+title: 
+description: 
+aliases: [jtb theory]
+tags: []
+permalink:
 ---
 
 philosophers are mostly interested in _**factual knowledge**_ because they are trying to understand how we can achieve **truth** about the world. one of the first philosophers to attempt a definition of knowledge was the ancient greek philosopher, plato.

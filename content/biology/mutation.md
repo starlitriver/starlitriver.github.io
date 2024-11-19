@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in genetics, a mutation is a alteration in the nucleic acid sequence in the genetic information of an organism

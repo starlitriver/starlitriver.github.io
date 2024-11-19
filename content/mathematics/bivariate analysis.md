@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 bivariate analysis is part of multivariate analysis, defined as the observation and analysis of more than one outcome variable

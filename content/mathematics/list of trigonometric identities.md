@@ -1,8 +1,9 @@
 ---
-aliases:
-  - trig identity
-  - trig identities
-tags:
+title: 
+description: 
+aliases: [trig identities, trig identity]
+tags: []
+permalink:
 ---
 
 a trig identity is an equation that involves [[trigonometric functions|trig functions]]

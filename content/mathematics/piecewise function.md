@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in mathematics, a piecewise function is a function whose domain is partitioned into several intervals, on which the function may be defined differently

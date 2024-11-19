@@ -1,7 +1,9 @@
 ---
-aliases:
-  - traveling
-tags:
+title: 
+description: 
+aliases: [traveling]
+tags: []
+permalink:
 ---
 
 things about traveling, and nomadic things

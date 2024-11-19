@@ -1,7 +1,9 @@
 ---
-aliases:
-  - simple graphs
-tags:
+title: 
+description: 
+aliases: [simple graphs]
+tags: []
+permalink:
 ---
 
 in graph theory, a simple graph is an unweighted, undirected graph that has no loops or multiple edges

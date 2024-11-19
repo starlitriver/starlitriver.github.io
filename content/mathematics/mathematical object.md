@@ -1,6 +1,9 @@
 ---
+title: 
+description: 
 aliases: []
-tags: 
+tags: []
+permalink:
 ---
 
 a mathematical object is anything that can be formally defined

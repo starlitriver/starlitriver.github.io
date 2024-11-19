@@ -1,7 +1,9 @@
 ---
-aliases:
-  - functions
-tags:
+title: 
+description: 
+aliases: [functions]
+tags: []
+permalink:
 ---
 
 in mathematics, a function is a [[relation]] that is either a one-to-one relation or a many-to-one relation
@@ -44,7 +46,7 @@ a function that has more than one input or output technically does not count as 
 a function $f$ has an [[inverse function]] $f^{-1}$ that can map the codomain onto the domain
 
 ## derivatives
-the [[derivative]] of a function $f(x)$ is a function $g(x)$ such that for any constant $c$ , $g(c)$ is equal to the [[slope]] of the tangent line at $f(c)$
+the [[derivative , differentitation]] of a function $f(x)$ is a function $g(x)$ such that for any constant $c$ , $g(c)$ is equal to the [[slope]] of the tangent line at $f(c)$
 
 ## exponential function
 a [[exponential function]]

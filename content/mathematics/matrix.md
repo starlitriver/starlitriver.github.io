@@ -1,7 +1,9 @@
 ---
-aliases:
-  - matrices
-tags:
+title: 
+description: 
+aliases: [matrices]
+tags: []
+permalink:
 ---
 
 in mathematics, a matrix is a rectangular array of numbers, symbols, or expressions, with elements arranged in rows and columns

@@ -1,8 +1,9 @@
 ---
-aliases:
-  - graph theory
-  - network
-tags:
+title: 
+description: 
+aliases: [graph theory, network]
+tags: []
+permalink:
 ---
 
 in mathematics, a graph can refer to a [[plot]] or a graph theory graph. this article is about the graph theory graph.

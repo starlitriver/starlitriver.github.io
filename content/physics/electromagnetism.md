@@ -1,7 +1,9 @@
 ---
-aliases:
-  - electromagnetic
-tags:
+title: 
+description: 
+aliases: [electromagnetic]
+tags: []
+permalink:
 ---
 
 in physics, electromagnetism is the study of electromagnetic force, one of the [[fundamental interaction|fundamental interactions]]

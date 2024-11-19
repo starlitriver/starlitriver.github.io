@@ -1,8 +1,9 @@
 ---
-aliases:
-  - Krebs cycle
-  - TCA cycle
-tags:
+title: 
+description: 
+aliases: [Krebs cycle, TCA cycle]
+tags: []
+permalink:
 ---
 
 in biochemistry, the citric acid cycle,

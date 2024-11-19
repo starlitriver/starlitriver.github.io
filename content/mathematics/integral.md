@@ -1,12 +1,12 @@
 ---
-aliases:
-  - integration
-  - integrate
-  - integrals
-tags:
+title: 
+description: 
+aliases: [integrals, integrate, integration]
+tags: []
+permalink:
 ---
 
-in [[formal/mathematics/mathematical analysis/index|mathematical analysis]], an integral is an [[operation]] that calculates the continuous analog of a sum, useful for calculating areas, volumes and their generalizations
+An integral is an [[operation]] that calculates the continuous analog of a sum, useful for calculating areas and volumes.
 
 a definite integral calculates the signed area of the region in the plane that is bounded by the graph of a given function between two points in the line
 

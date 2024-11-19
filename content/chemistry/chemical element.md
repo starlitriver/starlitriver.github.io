@@ -1,5 +1,7 @@
 ---
-aliases:
-  - chemical elements
-tags: 
+title: 
+description: 
+aliases: [chemical elements]
+tags: []
+permalink:
 ---

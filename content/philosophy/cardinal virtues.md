@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 the cardinal virtues are the four [[virtue|virtues]] in classical philosophy

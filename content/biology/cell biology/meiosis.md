@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in cell biology, meiosis is a special type of [[cell division]] in sexually reproducing organisms that produces gametes

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - carbohydrates
-tags: 
+title: 
+description: 
+aliases: [carbohydrates]
+tags: []
+permalink:
 ---
 
 in chemistry, a carbohydrate is defined as a [[biomolecule|biomolecule]] that consists of carbon, hydrogen and oxygen atoms, usually with a hydrogen–oxygen ratio of 2:1

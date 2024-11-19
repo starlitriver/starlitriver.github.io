@@ -1,7 +1,9 @@
 ---
-aliases:
-  - algebraic structure
-tags:
+title: 
+description: 
+aliases: [algebraic structure]
+tags: []
+permalink:
 ---
 
 in mathematics, an algebraic structure consists of a non-empty set $A$, called the domain or underlying set, and a collection of [[operation|operations]] on $A$

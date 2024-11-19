@@ -1,7 +1,9 @@
 ---
-aliases:
-  - virtues
-tags: 
+title: 
+description: 
+aliases: [virtues]
+tags: []
+permalink:
 ---
 
 a virtue is a trait of excellence

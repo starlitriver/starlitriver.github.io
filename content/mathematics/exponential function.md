@@ -1,7 +1,9 @@
 ---
-aliases:
-  - exponential functions
-tags:
+title: 
+description: 
+aliases: [exponential functions]
+tags: []
+permalink:
 ---
 
 in mathematics, an [[exponentiation|exponential]] function is a function in the form $f(x)=a\cdot c^{b(x-h)}+k$

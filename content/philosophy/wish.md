@@ -1,9 +1,9 @@
 ---
-aliases:
-  - wishes
-  - desire
-  - desires
-tags:
+title: 
+description: 
+aliases: [desire, desires, wishes]
+tags: []
+permalink:
 ---
 
 wishes and desires - some thoughts

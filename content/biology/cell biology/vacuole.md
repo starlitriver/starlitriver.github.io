@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in cell biology, a vacuole is a membrane-bound organelle, essentially a large [[vesicle]] used to contain stuff

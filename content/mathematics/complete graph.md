@@ -1,7 +1,9 @@
 ---
-aliases:
-  - complete graphs
-tags:
+title: 
+description: 
+aliases: [complete graphs]
+tags: []
+permalink:
 ---
 
 in graph theory, a complete graph is a graph in which every possible pair of graph vertices is connected by one edge.

@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 cytokinesis the final process in [[cell division]] where the cytoplasm of a cell divides into two daughter cells

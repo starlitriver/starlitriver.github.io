@@ -1,7 +1,9 @@
 ---
-aliases:
-  - eukaryotes
-tags: 
+title: 
+description: 
+aliases: [eukaryotes]
+tags: []
+permalink:
 ---
 
 

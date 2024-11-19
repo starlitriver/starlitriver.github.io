@@ -1,8 +1,11 @@
 ---
-aliases: 
+title: 
+description: 
+aliases: []
+tags: [excalidraw]
+permalink:
 
 excalidraw-plugin: parsed
-tags: [excalidraw]
 
 ---
 

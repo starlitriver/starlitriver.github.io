@@ -1,8 +1,9 @@
 ---
-aliases:
-  - atoms
-  - atomic
-tags:
+title: 
+description: 
+aliases: [atomic, atoms]
+tags: []
+permalink:
 ---
 
 the atom is the basic particle of the [[chemical element|chemical elements]]

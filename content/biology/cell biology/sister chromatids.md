@@ -1,11 +1,9 @@
 ---
-aliases:
-  - sister chromatid
-  - dyad
-  - chromatids
-  - chromatid
-  - daughter chromatids
-tags: 
+title: 
+description: 
+aliases: [chromatid, chromatids, daughter chromatids, dyad, sister chromatid]
+tags: []
+permalink:
 ---
 
 in cell biology, the sister chromatids are the identical copies, formed by the [[DNA replication]] of a [[chromosome]]

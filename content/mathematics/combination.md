@@ -1,7 +1,9 @@
 ---
-aliases:
-  - combinations
-tags:
+title: 
+description: 
+aliases: [combinations]
+tags: []
+permalink:
 ---
 
 in mathematics, a combination is a selection of items from a set that has distinct members, such that the order of selection does not matter (unlike [[permutation|permutations]])

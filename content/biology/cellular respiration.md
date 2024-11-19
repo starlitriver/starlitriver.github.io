@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in biology, cellular respiration is the set of [[metabolism|metabolic]] reactions and processes that take place in cells to convert chemical energy into [[adenosine triphosphate|ATP]]

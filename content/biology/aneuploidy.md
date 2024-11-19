@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in biology, aneuploidy refers to the condition where the number of chromosomes, the diploid number, of an organism is abnormal

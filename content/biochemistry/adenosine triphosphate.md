@@ -1,7 +1,9 @@
 ---
-aliases:
-  - ATP
-tags:
+title: 
+description: 
+aliases: [ATP]
+tags: []
+permalink:
 ---
 
 in biochemistry, adenosine triphosphate (ATP) is a [[nucleotide]] that provides energy to drive and support many processes

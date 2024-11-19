@@ -1,7 +1,9 @@
 ---
-aliases:
-  - organic molecules
-tags: 
+title: 
+description: 
+aliases: [organic molecules]
+tags: []
+permalink:
 ---
 
 organic molecules are the molecules that we usually deal with in biology.

@@ -1,5 +1,7 @@
 ---
-aliases:
-  - animal cells
-tags:
+title: 
+description: 
+aliases: [animal cells]
+tags: []
+permalink:
 ---

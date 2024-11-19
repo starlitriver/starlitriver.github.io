@@ -1,8 +1,9 @@
 ---
-aliases:
-  - physics
-tags: []
 title: physics
+description: 
+aliases: [physics]
+tags: []
+permalink:
 ---
 
 in natural sciences, physics is the study of matter, its fundamental constituents, its motion through either space and time or spacetime, and the related entities of energy and force

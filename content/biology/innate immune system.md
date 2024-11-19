@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in biology, the innate immune system is a part of the [[immune system]] that provides a preconfigured response to broad groups of situations

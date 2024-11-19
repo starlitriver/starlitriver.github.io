@@ -1,7 +1,9 @@
 ---
-aliases:
-  - stem cells
-tags: 
+title: 
+description: 
+aliases: [stem cells]
+tags: []
+permalink:
 ---
 
 in biology, stem cells are undifferentiated or partially differentiated cells that can change into various [[cell type|cell types]]

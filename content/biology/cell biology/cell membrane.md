@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 the things inside a cell are separated from the outside by the cell membrane, which is a plasma membrane.

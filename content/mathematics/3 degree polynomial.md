@@ -1,7 +1,9 @@
 ---
-aliases:
-  - 3 degree polynomials
-tags:
+title: 
+description: 
+aliases: [3 degree polynomials]
+tags: []
+permalink:
 ---
 
 a 3 degree [[polynomial]] is also known as a cubic equation

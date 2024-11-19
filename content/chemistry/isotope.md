@@ -1,7 +1,9 @@
 ---
-aliases:
-  - isotopes
-tags: 
+title: 
+description: 
+aliases: [isotopes]
+tags: []
+permalink:
 ---
 
 isotopes are distinct nuclear species of the same chemical element

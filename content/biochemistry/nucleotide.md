@@ -1,7 +1,9 @@
 ---
-aliases:
-  - nucleotides
-tags: 
+title: 
+description: 
+aliases: [nucleotides]
+tags: []
+permalink:
 ---
 
 a nucleotide is a simple molecule made up of a [[sugar|sugar]], a [[phosphates|phosphate]] and a [[nitrogenous bases|nitrogenous base]]

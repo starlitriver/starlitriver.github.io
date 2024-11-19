@@ -1,9 +1,9 @@
 ---
-aliases:
-  - inequality
-  - inequalities
-  - inequation
-tags:
+title: 
+description: 
+aliases: [inequalities, inequality, inequation]
+tags: []
+permalink:
 ---
 
 in mathematics, an inequality is a [[relation]] that makes it a non-equal comparison between two mathematical [[expression|expressions]]

@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in algebra, the binomial theorem describes the algebraic expansion of [[exponentiation|exponents]] of a binomial

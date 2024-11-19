@@ -1,9 +1,9 @@
 ---
-aliases:
-  - trigonometric function
-  - trig function
-  - trig functions
-tags:
+title: 
+description: 
+aliases: [trig function, trig functions, trigonometric function]
+tags: []
+permalink:
 ---
 
 in mathematics, the trigonometric functions are functions which relate an angle of a right-angled triangle to ratios of two side lengths. the [[unit circle]] is used to visualize the outputs of the trig functions

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - polynomials
-tags: 
+title: 
+description: 
+aliases: [polynomials]
+tags: []
+permalink:
 ---
 
 a polynomial is a math expression that has variables and only the operations addition, multiplication and exponentiation to positive integer powers, and has a finite number of terms

@@ -1,7 +1,9 @@
 ---
-aliases:
-  - glucose homeostasis
-tags:
+title: 
+description: 
+aliases: [glucose homeostasis]
+tags: []
+permalink:
 ---
 
 in biology, blood sugar regulation is the process by which the levels of blood sugar are maintained in the body within a narrow range

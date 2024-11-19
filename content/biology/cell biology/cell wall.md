@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in cell biology, a cell wall is an [[organelle]] found immediately inside the [[cell membrane]] primarily providing the cell with structural support

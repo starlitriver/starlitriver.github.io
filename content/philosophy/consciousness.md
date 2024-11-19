@@ -1,7 +1,9 @@
 ---
-aliases:
-  - conscious
-tags:
+title: 
+description: 
+aliases: [conscious]
+tags: []
+permalink:
 ---
 
 okay, the definition of consciousness

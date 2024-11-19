@@ -1,7 +1,9 @@
 ---
-aliases:
-  - Pedigree charts
-tags:
+title: 
+description: 
+aliases: [Pedigree charts]
+tags: []
+permalink:
 ---
 
 in genetics, a pedigree chart is a diagram that shows the occurrence and appearance of phenotypes

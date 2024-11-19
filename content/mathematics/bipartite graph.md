@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in graph theory, a bipartite graph is a graph whose set of vertices is split into two, and no two vertices in the same group are directly connected.

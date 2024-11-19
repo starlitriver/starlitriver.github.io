@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 truth, also known as verity, means something that is true, real, eternal, divine, whachacallit

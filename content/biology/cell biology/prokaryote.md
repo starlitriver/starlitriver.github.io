@@ -1,7 +1,9 @@
 ---
-aliases:
-  - prokaryotes
-tags: 
+title: 
+description: 
+aliases: [prokaryotes]
+tags: []
+permalink:
 ---
 
 a prokaryote is a microscopic single-celled organism which has neither a distinct nucleus with a membrane nor other specialized organelles, including the bacteria and cyanobacteria

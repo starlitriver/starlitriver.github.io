@@ -1,6 +1,9 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
 ---
 
 in algebra, the polynomial remainder theorem has something to do with the remainder of dividing polynomials by things

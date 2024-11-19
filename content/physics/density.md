@@ -1,7 +1,9 @@
 ---
-aliases:
-  - specific mass
-tags:
+title: 
+description: 
+aliases: [specific mass]
+tags: []
+permalink:
 ---
 
 in physics, density, also known as specific mass, is a substance's mass per unit of volume

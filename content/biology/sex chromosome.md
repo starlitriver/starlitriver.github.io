@@ -1,9 +1,9 @@
 ---
-aliases:
-  - allosome
-  - allosomes
-  - allosomal
-tags:
+title: 
+description: 
+aliases: [allosomal, allosome, allosomes]
+tags: []
+permalink:
 ---
 
 sex chromosomes, also called allosomes, are chromosome that determine the sex of an individual

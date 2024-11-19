@@ -1,8 +1,11 @@
 ---
-aliases: 
+title: 
+description: 
+aliases: []
+tags: [excalidraw]
+permalink:
 
 excalidraw-plugin: parsed
-tags: [excalidraw]
 
 ---
 
@@ -13,6 +16,7 @@ tags: [excalidraw]
 ## Text Elements
 %%
 ## Drawing
+
 ```json
 {
 	"type": "excalidraw",
@@ -873,4 +877,5 @@ tags: [excalidraw]
 	"files": {}
 }
 ```
+
 %%

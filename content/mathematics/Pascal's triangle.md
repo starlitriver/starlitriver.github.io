@@ -1,7 +1,9 @@
 ---
-aliases:
-  - binomial coefficients
-tags:
+title: 
+description: 
+aliases: [binomial coefficients]
+tags: []
+permalink:
 ---
 
 in mathematics, Pascal's triangle is an infinite triangular array of the binomial coefficients

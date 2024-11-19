@@ -1,7 +1,9 @@
 ---
-aliases:
-  - tissues
-tags:
+title: 
+description: 
+aliases: [tissues]
+tags: []
+permalink:
 ---
 
 in biology, tissue is an assembly of similar cells and their [[extracellular matrix]] that together carry out a specific function
