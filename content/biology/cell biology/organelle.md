@@ -8,8 +8,6 @@ permalink:
 
 in cell biology, an organelle is a specialized [[cell|cellular]] part that has a specific function and is considered analogous to an organ
 
-[[prokaryote|prokaryotes]] and [[eukaryote|eukaryotes]] have different organelles
-
 ### major eukaryotic organelles
 
 

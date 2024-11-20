@@ -6,13 +6,15 @@ tags: []
 permalink:
 ---
 
-|                           | prokaryote         | eukaryote                              |     |
-| ------------------------- | ------------------ | -------------------------------------- | --- |
-| nucleus                   | no                 | yes                                    |     |
-| membrane-bound organelles | no                 | yes                                    |     |
-| cell structure            | unicellular        | mostly multicellular; some unicellular |     |
-| cell size                 | 0.1-5 μm           | 10-100 μm                              |     |
-| complexity                | simpler            | more complex                           |     |
-| dna form                  | circular           | linear                                 |     |
-| examples                  | bacteria, archaea  | animals, plants, fungi, protists       |     |
-| [[cell division]]         | [[binary fission]] | [[mitosis]] and [[meiosis]]            |     |
+- [[prokaryote]]
+- [[eukaryote]]
+
+|                | prokaryote         | eukaryote                        |
+| -------------- | ------------------ | -------------------------------- |
+| examples       | bacteria, archaea  | animals, plants, fungi, protists |
+| nucleus        | no                 | yes                              |
+| organelles     | not membrane bound | membrane bound                   |
+| cell structure | unicellular        | mostly multicellular             |
+| cell size      | 0.1-5 μm           | 10-100 μm                        |
+| dna form       | circular           | linear                           |
+| cell division  | binary fission     | mitosis and meiosis              |
