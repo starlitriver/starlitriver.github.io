@@ -54,7 +54,7 @@ parade
 imply
 allude
 infer
-signifie
+signify
 connote
 denote
 insinuate

@@ -1,3 +1,10 @@
+---
+title: 
+description: 
+aliases: []
+tags: []
+permalink:
+---
 Through Macbeth, Shakespeare suggests that the world will crumble if the natural order is not maintained. Do you agree?
 
 prompt breakdown:
@@ -30,5 +37,3 @@ summary of the argument
 
 
 Macbeth is a play about the eponymous main character Macbeth as he does bad things and rises to power. He kills people and ultimately loses his life in the tragic ending.
-
-

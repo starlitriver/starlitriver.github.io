@@ -3,8 +3,8 @@
   "newFileLocation": "current",
   "promptDelete": false,
   "showRibbon": false,
-  "readableLineLength": false,
-  "showLineNumber": true,
+  "readableLineLength": true,
+  "showLineNumber": false,
   "autoPairBrackets": true,
   "tabSize": 2,
   "userIgnoreFilters": [
