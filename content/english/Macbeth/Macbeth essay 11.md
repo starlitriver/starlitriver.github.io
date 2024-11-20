@@ -5,6 +5,7 @@ aliases: []
 tags: []
 permalink:
 ---
+
 How does Macbeth explore the theme of fate vs free will?
 
 
