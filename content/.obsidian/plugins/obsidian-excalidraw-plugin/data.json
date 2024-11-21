@@ -3,7 +3,7 @@
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "assets/template.excalidraw",
+  "templateFilePath": "plugins/excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "decompressForMDView": false,

@@ -6,11 +6,150 @@ tags: []
 permalink:
 ---
 
-glossary
-
 - [[derivative , differentitation|differentiation]]
+- [[limit]]
 
-read the page on differentiation. to recap, differentiation is trying to find the derivative of an expression, equation or function
+
+## A start on calculus
+
+Hey, welcome aboard calculus. I'll make this interesting, I promise.
+
+figure: Consider $f(x)$. What is the rate of change between these points?
+
+![[guide to differentiation 2024-11-21 18.26.52.excalidraw.svg|325]]
+%%[[guide to differentiation 2024-11-21 18.26.52.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+You can see, for a function $f(x)$, the average rate of change from one x value to another is easily calculated by rise over run, as  $\dfrac{f(c+h)-f(c)}{h}$
+
+figure: Consider a lower value of h.
+
+![[guide to differentiation 2024-11-21 18.43.25.excalidraw.svg|325]]
+%%[[guide to differentiation 2024-11-21 18.43.25.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+Okay, that wasn't much different. We still calculate the average rate of change the same way.
+
+Combining this simple logic with the idea of [[limit|limits]], we can calculate the instantaneous rate of change (the slope) of a point.
+
+The instantaneous rate of change at the point $(x,f(x))$ can be calculated with $\lim\limits_{h\to0}\dfrac{f(c+h)-f(c)}{h}$
+
+We found the slope for a point on the function. We show this as $f'(x=c)$, meaning the slope of $f(x)$ at the point where $x=c$.
+
+As a general thing, $f'(x)$ is a function that can give you the slope for any x value you have.
+
+We can find that, $f'(x=c)=\lim\limits_{h\to0}\dfrac{f(c+h)-f(c)}{h}$. For explanation see this[^1]
+
+In conclusion, $f'(x)=\lim\limits_{h\to0}\dfrac{f(x+h)-f(x)}{h}$. Remember this and leave it inside your head as the First Principles.
+
+This, my friends, is the start of calculus.
+
+## A list of definitions
+
+Now before we start things, I've arranged a list of definitions.
+Please read.
+- The function $f'(x)$ is the derivative of function $f(x)$.
+- "Find the derivative of" is exactly same as "differentiate."
+- The derivative is an operation performed on expressions. The expression $x+1$ has a derivative of $\dfrac{d}{dx}[x+1]$. Keep in mind, derivative is an operation on expressions.
+- Equations can be made into functions. If you were given $y=x+1$, its graph is the same as $y(x)=x+1$. Therefore, the derivative of function $y(x)$ is just $y'(x)$.
+- $f'(x)$ has many different appearances. $f'(x)=\dfrac{d}{dx}[x]$. We call it a few things, like "f prime of x", "derivative of f of x"...
+
+
+
+## A practice on First Principles
+
+Exciting, try for yourself.
+
+worked example: Use First Principles to find the derivative of $f(x)=x^2$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{f(x+h)-f(x)}{h}$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{(x+h)^2-(x)^2}{h}$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{x^2+2xh+h^2-x^2}{h}$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{2xh+h^2}{h}$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{h(2x+h)}{h}$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{1(2x+h)}{1}$
+
+$f'(x)=2x$
+
+
+worked example: Use First Principles to find the derivative of $f(x)=\dfrac{1}{x}$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{f(x+h)-f(x)}{h}$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{\dfrac{1}{x+h}-\dfrac{1}{x}}{h}$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{1}{h}(\dfrac{x-x-h}{x(x+h)})$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{1}{h}(\dfrac{-h}{x(x+h)})$
+
+$f'(x)=\lim\limits_{h\to0}\dfrac{-1}{x(x+h)}$
+
+$f'(x)=\dfrac{-1}{x^2}$
+
+
+## A few simple derivative rules
+
+What if you knew there was a way that's easier than using First Principles? It's derivative rules!
+
+Originally derived from the principles we all know and love, these derivative rules only require you to remember them in exchange for faster differentiating.
+
+- Constant rule - derivative of the expression $c$ is $\dfrac{d}{dx}[c]=0$
+- Variable rule - derivative of the expression $x$ is $\dfrac{d}{dx}[x]=1$
+- Power rule - derivative of the expression $x^n$ is $\dfrac{d}{dx}[x^n]=nx^{n-1}$
+- Constant multiple rule - derivative of the expression $c \cdot f(x)$ is $\dfrac{d}{dx}[c \cdot f(x)]=c \cdot \dfrac{d}{dx}[f(x)]$
+- Sum rule - derivative of the expression $f(x)+g(x)$ is $\dfrac{d}{dx}[f(x)+g(x)]=\dfrac{d}{dx}[f(x)]+\dfrac{d}{dx}[g(x)]$
+
+
+That's all the derivative rules for now.
+Some worked examples would be the best way to put these into practice.
+
+
+## A practice on simple derivative rules
+
+worked example: Find the derivative of $f(x)=4x^2$
+$f'(x)=4\cdot \dfrac{d}{dx}[x^2]$
+$f'(x)=4\cdot 2x$
+
+worked example: Find the derivative of $f(x)=2x^7$
+$f'(x)=(7)(2)x^{7-1}=14x^6$
+
+worked example: Find the derivative of $f(x)=4x^2+5$
+$f'(x)=\dfrac{d}{dx}[4x^2]+\dfrac{d}{dx}[5]$
+$f'(x)=8x+0$
+
+worked example: Find the derivative of $f(x)=4x^2+5x$
+$f'(x)=\dfrac{d}{dx}[4x^2]+(5)\dfrac{d}{dx}[x]$
+$f'(x)=8x+(5)(1)$
+
+worked example: Find the derivative of $f(x)=4x^2+5x+6$
+$f'(x)=\dfrac{d}{dx}[4x^2]+(5)\dfrac{d}{dx}[x]+\dfrac{d}{dx}[6]$
+$f'(x)=8x+5+0$
+
+worked example: Find $f'(1)$ for $f(x)=5x^3+2x+5$
+$f'(x)=15x^2+2$
+$f'(1)=17$
+
+worked example: Differentiate $f(x)=x^{-\dfrac{1}{2}}$
+
+$f'(x)=-\dfrac{1}{2}\cdot x^{-\dfrac{3}{2}}$
+$f'(x)=-\dfrac{1}{2}\cdot \dfrac{1}{(\sqrt{x})^3}$
+
+
+worked example: Differentiate $f(x)=\dfrac{1}{2x}+x^3$
+
+$f'(x)=(\dfrac{1}{2})\dfrac{d}{dx}[x]+\dfrac{d}{dx}[x^2]$
+$f'(x)=\dfrac{1}{2}+2x$
+
+worked example: Differentiate $f(x)=\dfrac{1}{x}+\dfrac{1}{\sqrt{x}}$
+
+
+
+## other
+
+differentiation is trying to find the derivative of an expression, equation or function
 
 in differential calculus, the letter $d$ when prepended to a variable means "a little bit of" the variable
 
@@ -144,3 +283,5 @@ $\dfrac{d}{dx}-10x^3-2x^2+2=-30x^2-4x$
 
 
 worked example: find derivative of $f(x)=\dfrac{x+1}{2x^2-x-3}$
+
+[^1]: wonderful explanation of First Principles is https://mathsathome.com/differentiation-by-first-principles

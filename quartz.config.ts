@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "starlitriver",
+    pageTitle: "starlit",
     enableSPA: true,
     enablePopovers: true,
     analytics: {},
     locale: "en-US",
     baseUrl: "starlitriver.github.io",
-    ignorePatterns: ["assets/*.md", ".obsidian"],
+    ignorePatterns: ["assets/*.md", ".obsidian","plugins"],
     defaultDateType: "modified", // created or modified
     theme: {
       fontOrigin: "googleFonts",

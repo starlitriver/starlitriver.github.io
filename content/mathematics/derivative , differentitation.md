@@ -48,10 +48,10 @@ if differentiable, then it must be continuous.
 ## derivative rules
 
 ### constant rule
-$\dfrac{d}{dx}\left[c\right]=0$ where c is a constant
+for any constant $c$, $\dfrac{d}{dx}\left[c\right]=0$
 
 ### variable rule
-$\dfrac{d}{dx}\left[a\right] = 1$
+$\dfrac{d}{dx}\left[x\right] = 1$
 
 ### constant multiple rule
 

@@ -43,12 +43,12 @@ permalink:
 		"zoom": {
 			"value": 1
 		},
-		"currentItemRoundness": "sharp",
 		"gridSize": 20,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
 			"Regular": "#EDEDEDFF"
 		},
+		"currentItemRoundness": "sharp",
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
 		"frameRendering": {
