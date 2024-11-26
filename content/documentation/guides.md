@@ -6,4 +6,6 @@ tags: []
 permalink:
 ---
 
-Guides are pages that are more guiding.
+What are guides?
+
+They are pages that does more explaining.
