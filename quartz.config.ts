@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "starlit",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: {provider: 'goatcounter', websiteId: 'starlitriver'},
     locale: "en-US",
@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Chalkboard SE", // Patrick Hand
         body: "sans-serif",
-        code: "Monaco",
+        code: "monospace",
       },
       colors: {
         lightMode: {
