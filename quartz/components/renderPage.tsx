@@ -251,6 +251,7 @@ export function renderPage(
           </Body>
         </div>
       </body>
+      <script data-goatcounter="https://starlitriver.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
       {pageResources.js
         .filter((resource) => resource.loadTime === "afterDOMReady")
         .map((res) => JSResourceToScriptElement(res))}
