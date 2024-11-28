@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
     Component.Search(),
-    Component.TableOfContents(),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   afterBody: [
     Component.MobileOnly(Component.TableOfContents()),
