@@ -26,6 +26,7 @@ export default ((opts?: Options) => {
           ))}
         </ul>
       </footer>
+      <script data-goatcounter="https://starlitriver.goatcounter.com/count" async src="//gc.zgo.at/count.js"/>
     )
   }
 
