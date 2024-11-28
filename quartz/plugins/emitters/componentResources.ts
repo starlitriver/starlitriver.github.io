@@ -162,7 +162,13 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       document.head.appendChild(clarityScript)
     `)
   }
-
+  componentResources.afterDOMLoaded.push(`
+  const goatcounterScript = document.createElement("script")
+  goatcounterScript.src = "https://gc.zgo.at/count.js"
+  goatcounterScript.async = true
+  goatcounterScript.setAttribute("data-goatcounter", "https://starlitriver.goatcounter.com/count?p=${document.body.dataset.slug}")
+  document.head.appendChild(goatcounterScript)
+  `)
   if (cfg.enableSPA) {
     componentResources.afterDOMLoaded.push(spaRouterScript)
   } else {
