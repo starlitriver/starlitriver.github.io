@@ -11,13 +11,13 @@ const config: QuartzConfig = {
     pageTitle: "starlit",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {provider: 'goatcounter', websiteId: 'starlitriver', host: 'https://starlitriver.goatcounter.com', scriptSrc: 'https:/gc.zgo.at/count.js'},
+    analytics: none;
     locale: "en-US",
     baseUrl: "starlitriver.github.io",
     ignorePatterns: ["assets/*.md", "drafts", "temp", "private", "plugins", ".obsidian"],
     defaultDateType: "modified", // created or modified
     theme: {
-      fontOrigin: "googleFonts",
+      // fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Chalkboard SE", // Patrick Hand

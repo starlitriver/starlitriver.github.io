@@ -59,6 +59,8 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+        <script data-goatcounter="https://starlitriver.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
       </head>
     )
   }
