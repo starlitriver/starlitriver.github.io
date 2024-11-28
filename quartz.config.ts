@@ -11,18 +11,18 @@ const config: QuartzConfig = {
     pageTitle: "starlit",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {},
+    analytics: {provider: 'goatcounter', websiteId: 'starlitriver'},
     locale: "en-US",
     baseUrl: "starlitriver.github.io",
-    ignorePatterns: ["assets/*.md", ".obsidian","plugins"],
+    ignorePatterns: ["assets/*.md", "drafts", "temp", "private", "plugins", ".obsidian"],
     defaultDateType: "modified", // created or modified
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Chalkboard SE", // Patrick Hand
+        body: "sans-serif",
+        code: "Monaco",
       },
       colors: {
         lightMode: {
@@ -82,6 +82,8 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssFullHtml: true,
+        rssLimit: 1024,
       }),
       Plugin.Assets(),
       Plugin.Static(),

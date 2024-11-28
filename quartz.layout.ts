@@ -1,19 +1,34 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
+
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Darkmode(),
+    Component.Search(),
+    Component.TableOfContents()
+  ],
+  afterBody: [
+    Component.RecentNotes({
+      title: "also thinking about",
+      limit: 5,
+      showTags: false,
+      linkToMore: "/tags",
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "♡ somewherer ♡": "https://github.com/somewherer",
-      "github repository": "https://github.com/starlitriver",
+      "github repository": "https://github.com/starlitriver/starlitriver.github.io",
     },
   }),
 }
 
-// components for pages that display a single page (e.g. a single note)
+
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
@@ -21,56 +36,45 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
-  ],
   right: [
     Component.Graph({
       localGraph: {
-        drag: true, // whether to allow panning the view around
-        zoom: true, // whether to allow zooming in and out
-        depth: 1, // how many hops of notes to display
-        scale: 1.5, // default view scale
-        repelForce: 2, // how much nodes should repel each other
-        centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 20, // how long should the links be by default?
-        fontSize: 0.6, // what size should the node labels be?
-        opacityScale: 5, // how quickly do we fade out the labels when zooming out?
-        removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        drag: true,
+        zoom: true,
+        depth: 1,
+        scale: 1.5,
+        repelForce: 2,
+        centerForce: 0.3,
+        linkDistance: 20,
+        fontSize: 0.6,
+        opacityScale: 5,
+        removeTags: [],
+        showTags: true,
       },
       globalGraph: {
-        drag: true, // whether to allow panning the view around
-        zoom: true, // whether to allow zooming in and out
-        depth: 4, // how many hops of notes to display
-        scale: 1.6, // default view scale
-        repelForce: 2, // how much nodes should repel each other
-        centerForce: 0.8, // how much force to use when trying to center the nodes
-        linkDistance: 40, // how long should the links be by default?
-        fontSize: 0.45, // what size should the node labels be?
-        opacityScale: 5, // how quickly do we fade out the labels when zooming out?
-        removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
+        drag: true,
+        zoom: true,
+        depth: 4,
+        scale: 1.6,
+        repelForce: 2,
+        centerForce: 0.8,
+        linkDistance: 40,
+        fontSize: 0.45,
+        opacityScale: 5,
+        removeTags: [],
+        showTags: true,
       },
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta()
   ],
   right: [],
 }
