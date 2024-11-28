@@ -10,15 +10,10 @@ export const sharedPageComponents: SharedLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
     Component.Search(),
-    Component.TableOfContents()
+    Component.TableOfContents(),
   ],
   afterBody: [
-    Component.RecentNotes({
-      title: "also thinking about",
-      limit: 5,
-      showTags: false,
-      linkToMore: "/tags",
-    }),
+    Component.MobileOnly(Component.TableOfContents()),
   ],
   footer: Component.Footer({
     links: {
