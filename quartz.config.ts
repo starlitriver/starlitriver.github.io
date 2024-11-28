@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "starlit",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {provider: 'goatcounter', websiteId: 'starlitriver'},
+    analytics: {provider: 'goatcounter', websiteId: 'starlitriver', host: 'https://starlitriver.goatcounter.com', scriptSrc: 'https:/gc.zgo.at/count.js'},
     locale: "en-US",
     baseUrl: "starlitriver.github.io",
     ignorePatterns: ["assets/*.md", "drafts", "temp", "private", "plugins", ".obsidian"],
