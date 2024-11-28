@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "starlit",
     enableSPA: true,
     enablePopovers: true,
-    analytics: none;
+    analytics: null,
     locale: "en-US",
     baseUrl: "starlitriver.github.io",
     ignorePatterns: ["assets/*.md", "drafts", "temp", "private", "plugins", ".obsidian"],
