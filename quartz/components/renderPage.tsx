@@ -222,6 +222,7 @@ export function renderPage(
     <html lang={lang}>
       <Head {...componentData} />
       <body data-slug={slug}>
+      <script data-goatcounter="https://starlitriver.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}
@@ -251,7 +252,7 @@ export function renderPage(
           </Body>
         </div>
       </body>
-      <script data-goatcounter="https://starlitriver.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+      
       {pageResources.js
         .filter((resource) => resource.loadTime === "afterDOMReady")
         .map((res) => JSResourceToScriptElement(res))}
