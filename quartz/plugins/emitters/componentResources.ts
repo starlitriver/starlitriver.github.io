@@ -166,7 +166,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   const goatcounterScript = document.createElement("script")
   goatcounterScript.src = "https://gc.zgo.at/count.js"
   goatcounterScript.async = true
-  goatcounterScript.setAttribute("data-goatcounter", "https://starlitriver.goatcounter.com/count?p=${document.body.dataset.slug}")
+  goatcounterScript.setAttribute("data-goatcounter", "https://starlitriver.goatcounter.com/count")
   document.head.appendChild(goatcounterScript)
   `)
   if (cfg.enableSPA) {
