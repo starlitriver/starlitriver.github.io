@@ -6,6 +6,8 @@ tags: []
 permalink:
 ---
 
+[[guide to differentiability]]
+
 Differentiability determines if something can be differentiated.
 
 figure: An illustration of things that make a point not differentiable.

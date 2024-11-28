@@ -20,7 +20,7 @@ permalink:
 
 ## practice First Principles
 
-[[practice First Principles]]
+[[guide to differentiation - basics]]
 
 Exciting, try for yourself.
 

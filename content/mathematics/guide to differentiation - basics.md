@@ -23,6 +23,27 @@ $=-h-1$
 
 
 
+
+worked example: A secant line intersects the curve $y=x^2+5x$ at two points that have x-coordinates $2$ and $2+\Delta x$. Express the slope of the secant line in terms of $\Delta x$
+
+figure: Clumsy graph here haha
+![[guide to differentiation - practice First Principles 2024-11-28 11.40.48.excalidraw.svg|136]]
+%%[[guide to differentiation - practice First Principles 2024-11-28 11.40.48.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+the slope of the secant line here is rise over run, which is $\dfrac{f(2+\Delta x)-f(2)}{\Delta x}$
+$=\dfrac{(2+\Delta x)^2+5(2+\Delta x)-(2^2+5(2))}{\Delta x}$
+$=\dfrac{\Delta x ^{2}+4\Delta x+4+10+5\Delta x-14}{\Delta x}$
+$=\dfrac{\Delta x^{2}+9\Delta x}{\Delta x}$
+$=\Delta x+9$
+
+
+
+worked example: What is the slope of the secant line that intersects the graph of $f(x)=0.5^{-x}$ at $x=1$ and $x=5$?
+
+the slope of the secant line is rise over run, which is $\dfrac{0.5^{-5}-0.5^{-1}}{5-1}$
+$=\dfrac{32-2}{4}$
+$=\dfrac{15}{2}$
+
 worked example: let A and B be points on the function $f(x)=x^2+5x+2$ at $x=8$ and $x=8+h$ respectively. find the gradient of line AB in terms of $h$.
 
 let's draw something
@@ -35,6 +56,16 @@ to find the gradient of line AB, we need $\dfrac{f(8+h)-f(8)}{h}$
 $=\dfrac{h^2+16h+64+40+5h+2-(8^2+40+2)}{h}$
 $=\dfrac{h^2+21h}{h}$
 $=h+21$
+
+
+
+worked example: A secant line intersects the curve $y=-2x^2-7x$ at two points where $x=-4$ and $x=t$. What is the slope of the secant line in terms of $t$?
+
+The slope is rise over run, $\dfrac{-2t^2-7t-(-2(-4)^2+28)}{t-(-4)}$
+$=\dfrac{-2t^2-7t+4}{t+4}$
+$=\dfrac{-2t^2-8t+t+4}{t+4}$
+$=\dfrac{-2t(t+4)+1(t+4)}{t+4}$
+$=-2t+1$
 
 
 worked example: Differentiate $f(x)=2x^2-\dfrac{1}{x}$ using First Principles
