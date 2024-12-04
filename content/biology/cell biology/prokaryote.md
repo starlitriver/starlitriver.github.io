@@ -6,11 +6,13 @@ tags: []
 permalink:
 ---
 
+the prokaryote is a [[domain]] of life
+
 a prokaryote is a microscopic single-celled organism which has neither a distinct nucleus with a membrane nor other specialized organelles, including the bacteria and cyanobacteria
 
 see [[prokaryotes and eukaryotes comparison table]]
 
-prokaryotes are divided into two domains
+prokaryotes
 - [[bacteria]]
 - [[archaea]]
 

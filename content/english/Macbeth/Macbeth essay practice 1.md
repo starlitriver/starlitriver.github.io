@@ -1,3 +1,7 @@
+---
+aliases: 
+tags: 
+---
 Macbeth is represented as an evil and morally bad person. Do you agree?
 
 
@@ -29,4 +33,3 @@ summary of the argument
 Macbeth is a play about the eponymous main character Macbeth as does bad things and rises to power. He kills people and ultimately loses his life in the tragic ending.
 
 Macbeth is not represented as a morally bad person.
-

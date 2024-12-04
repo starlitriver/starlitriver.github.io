@@ -22,3 +22,6 @@ eukaryotes have diameters between 10μm and 100μm
 [[eukaryotic cell cycle]]
 
 DNA is linear in eukaryotes and exists in separate chromosomes, not a single circular DNA
+
+
+though prokaryotes are all single celled, eukaryotes can be multicellular

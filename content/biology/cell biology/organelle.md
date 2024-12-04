@@ -19,16 +19,16 @@ in cell biology, an organelle is a specialized [[cell|cellular]] part that has a
 | [[endoplasmic reticulum]] | has rough ER for translation and folding of new proteins, smooth ER for expression of lipids | all eukaryotes   |
 | [[flagellum]]             | is used for locomotion and sensory                                                           | some eukaryotes  |
 | [[Golgi apparatus]]       | does sorting, packaging, processing and modification of proteins                             | all eukaryotes   |
-| [[mitochondrion]]         | does energy production and releases ATP                            | most eukaryotes  |
-| [[nucleus]]               | does DNA maintenance, controls all activities of the cell, RNA transcription                      | all eukaryotes   |
+| [[mitochondrion]]         | does energy production and releases ATP                                                      | most eukaryotes  |
+| [[nucleus]]               | does DNA maintenance, controls all activities of the cell, RNA transcription                 | all eukaryotes   |
 | [[vacuole]]               | is a large vesicle for storage                                                               | all eukaryotes   |
 
 ### minor eukaryotic organelles
 
-| organelle     | main function                                                                  | organisms       |
-| ------------- | ------------------------------------------------------------------------------ | --------------- |
+| organelle     | main function                                                                        | organisms       |
+| ------------- | ------------------------------------------------------------------------------------ | --------------- |
 | [[centriole]] | is an anchor for [[cytoskeleton]], organizes cell division by forming spindle fibers | animals         |
-| [[ribosome]]  | does translation of RNA into proteins                                               | all eukaryotes  |
-| [[lysosome]]  | does breakdown of large molecules                                                   | animals         |
-| [[vesicle]]   | does material storage and transport                                                 | all eukaryotes  |
-| [[nucleolus]] | prepares ribosome production                                                  | most eukaryotes |
+| [[ribosome]]  | does translation of RNA into proteins                                                | all eukaryotes  |
+| [[lysosome]]  | does breakdown of large molecules                                                    | animals         |
+| [[vesicle]]   | does material storage and transport                                                  | all eukaryotes  |
+| [[nucleolus]] | prepares ribosome production                                                         | most eukaryotes |

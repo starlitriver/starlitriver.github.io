@@ -147,6 +147,35 @@ worked example: Differentiate $f(x)=\dfrac{1}{x}+\dfrac{1}{\sqrt{x}}$
 
 
 
+
+## chain rule
+
+Time for more derivative rules!
+
+- Chain rule - derivative of the expression $f(g(x))$ is $\dfrac{d}{dx}[f(g(x))]=f'(g(x))\cdot g'(x)$
+- 
+- 
+- 
+- 
+
+
+
+worked example: differentiate the expression $(x+1)^{100}$
+let $f(x)=x+1$
+let $g(x)=x^{100}$
+
+the expression is the same as $g(f(x))$ as we defined
+
+$\dfrac{d}{dx}[f(g(x))]=f'(g(x))\cdot g'(x)$
+
+$\dfrac{d}{dx}(x+1)^{100}=$
+
+
+
+
+
+The chain rule is derived form using substitution to solve a complicated differentiation.
+
 ## other
 
 differentiation is trying to find the derivative of an expression, equation or function
