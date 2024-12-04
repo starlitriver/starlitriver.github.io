@@ -18,9 +18,9 @@ f(x) ^cc4Y5JmC
 
 (c,f(c)) ^X8HmGYRT
 
-(c+h,f(c+h)) ^QiCiERU4
+(c+Δx,f(c+Δx)) ^QiCiERU4
 
-h ^pMsm0J3o
+Δx ^pMsm0J3o
 
 %%
 ## Drawing
@@ -222,8 +222,8 @@ h ^pMsm0J3o
 		},
 		{
 			"type": "text",
-			"version": 245,
-			"versionNonce": 370471572,
+			"version": 277,
+			"versionNonce": 1892778656,
 			"index": "a5",
 			"isDeleted": false,
 			"id": "QiCiERU4",
@@ -233,28 +233,28 @@ h ^pMsm0J3o
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -185.26109062581622,
+			"x": -206.95991562581622,
 			"y": -159.99910229362797,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 103.359375,
+			"width": 130,
 			"height": 23,
 			"seed": 798663468,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1732175918855,
+			"updated": 1732506152984,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "(c+h,f(c+h))",
-			"rawText": "(c+h,f(c+h))",
+			"text": "(c+Δx,f(c+Δx))",
+			"rawText": "(c+Δx,f(c+Δx))",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "(c+h,f(c+h))",
+			"originalText": "(c+Δx,f(c+Δx))",
 			"autoResize": true,
 			"lineHeight": 1.15
 		},
@@ -311,8 +311,8 @@ h ^pMsm0J3o
 		},
 		{
 			"type": "text",
-			"version": 250,
-			"versionNonce": 1892950036,
+			"version": 267,
+			"versionNonce": 1066224480,
 			"index": "a7",
 			"isDeleted": false,
 			"id": "pMsm0J3o",
@@ -322,28 +322,28 @@ h ^pMsm0J3o
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -123.64629937067289,
-			"y": -86.54792078741207,
+			"x": -126.94083937067289,
+			"y": -86.22288278741208,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 11.123046875,
+			"width": 24.443359375,
 			"height": 23,
 			"seed": 1150601260,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1732175089300,
+			"updated": 1732505966198,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "h",
-			"rawText": "h",
+			"text": "Δx",
+			"rawText": "Δx",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "h",
+			"originalText": "Δx",
 			"autoResize": true,
 			"lineHeight": 1.15
 		},
@@ -407,7 +407,7 @@ h ^pMsm0J3o
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 464.8784329375,
-		"scrollY": 575.0605890585938,
+		"scrollY": 574.8980700585937,
 		"zoom": {
 			"value": 2
 		},

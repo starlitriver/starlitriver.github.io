@@ -6,19 +6,21 @@ tags: []
 permalink:
 ---
 
-in mathematics, the trigonometric functions are functions which relate an angle of a right-angled triangle to ratios of two side lengths. the [[unit circle]] is used to visualize the outputs of the trig functions
+In mathematics, the trigonometric functions are functions which relate an angle of a right-angled triangle to ratios of two side lengths.
 
-in case you are wondering why trig functions are important, we use them a lot in geometric problems and calculus.
+The [[unit circle]] is used to visualize the outputs of the trig functions
+
+In case you are wondering why trig functions are important, we use them a lot in geometric problems and calculus.
 
 ## introduction
 
-related: some easy applications of basic trigonometry is in [[introduction to trigonometry]]
+some easy applications of basic trigonometry is in [[introduction to trigonometry]]
 
 figure: we should be familiar with triangle stuff
 ![[trigonometric functions 2024-07-09 12.38.35.excalidraw.svg|316]]
 %%[[trigonometric functions 2024-07-09 12.38.35.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-we probably know soh cah toa already
+We probably know soh cah toa already
 
 sine
 $\sin(\theta)=\dfrac{\text{opposite}}{\text{hypotenuse}}$
@@ -31,8 +33,11 @@ $\tan(\theta)=\dfrac{\text{opposite}}{\text{adjacent}}$
 $\tan(\theta)=\dfrac{\sin(\theta)}{\cos(\theta)}$
 
 
+[[how to solve equations with trig functions]]
+
 [[how to evaluate trig functions]]
 [[how to graph trig functions]]
+
 
 ## notation
 trig functions can leave out the brackets where appropriate, like depicting $\sin(x)$ as $\sin x$

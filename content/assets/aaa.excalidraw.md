@@ -25,8 +25,8 @@ excalidraw-plugin: parsed
 	"elements": [
 		{
 			"type": "line",
-			"version": 3221,
-			"versionNonce": 1516506298,
+			"version": 3223,
+			"versionNonce": 1847520224,
 			"index": "a0",
 			"isDeleted": false,
 			"id": "IMgfu4WGi5hvlN54jJws2",
@@ -36,8 +36,8 @@ excalidraw-plugin: parsed
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 1.569046984390802,
-			"x": -268.48415439597903,
-			"y": -389.6733259818427,
+			"x": -268.1887415830226,
+			"y": -388.78702846041085,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 17.09153839782138,
@@ -49,7 +49,7 @@ excalidraw-plugin: parsed
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1729579757630,
+			"updated": 1732602652673,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1372,10 +1372,10 @@ excalidraw-plugin: parsed
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 276.5848934245438,
-		"scrollY": 700.8138705424759,
+		"scrollX": 739.7007269207892,
+		"scrollY": 1184.2707930828512,
 		"zoom": {
-			"value": 3.8904803605719342
+			"value": 1.0330485607440496
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
