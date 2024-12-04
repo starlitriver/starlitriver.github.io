@@ -2,6 +2,7 @@
   "cssTheme": "Minimal",
   "accentColor": "#4a7d57",
   "enabledCssSnippets": [
-    "cursor"
+    "cursor",
+    "latex-spacing"
   ]
 }

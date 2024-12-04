@@ -24,6 +24,8 @@ $=-h-1$
 
 
 
+
+
 worked example: A secant line intersects the curve $y=x^2+5x$ at two points that have x-coordinates $2$ and $2+\Delta x$. Express the slope of the secant line in terms of $\Delta x$
 
 figure: Clumsy graph here haha

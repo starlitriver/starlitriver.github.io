@@ -103,3 +103,9 @@ $f(x)=e^x-1+\dfrac{1}{e^x}$
 $f(x)=e^x-1+e^{-x}$
 
 $f'(x)=e^x-e^{-x}$
+
+
+worked example: Differentiate $f(x)=\dfrac{1}{x^3}-\dfrac{2}{x^2}$
+
+$f(x)=x^{-3}-2\cdot x^{-2}$
+$f'(x)=-3x^{-4}+4x^{-3}$

@@ -9,25 +9,29 @@ permalink:
 - [[derivative , differentitation|differentiation]]
 - [[limit]]
 
-## a start on calculus
+## start on calculus
 
 [[guide to differentiation - a start on calculus]]
+
+calculus is yours to learn!
+
+now you should be able to do this exercise to test your concepts
+
+[[exercise - basic differentiation concepts]]
 
 
 ## list of definitions
 
-[[guide to differentiation - list of definitions]]
+Now before we start things, I've arranged a list of definitions.
+Please read.
+- The function $f'(x)$ is the derivative of function $f(x)$.
+- "Find the derivative of" is exactly same as "differentiate."
+- The derivative is an operation performed on expressions. The expression $x+1$ has a derivative of $\dfrac{d}{dx}[x+1]$. Keep in mind, derivative is an operation on expressions.
+- Equations can be made into functions. If you were given $y=x+1$, its graph is the same as $y(x)=x+1$. Therefore, the derivative of function $y(x)$ is just $y'(x)$.
+- $f'(x)$ has many different appearances. $f'(x)=\dfrac{d}{dx}[x]$. We call it a few things, like "f prime of x", "derivative of f of x"...
 
-## practice First Principles
 
-[[guide to differentiation - basics]]
-
-Exciting, try for yourself.
-
-
-## simple derivative rules
-
-[[practice simple derivative rules]]
+## derivative rules
 
 What if you knew there was a way that's easier than using First Principles? It's derivative rules!
 
@@ -55,8 +59,6 @@ Originally derived from the principles we all know and love, these derivative ru
 - derivative of $\sin(x)$ is $\dfrac{d}{dx}[\sin(x)]=\cos(x)$
 - derivative of $\cos(x)$ is $\dfrac{d}{dx}[\cos(x)]=-\sin(x)$
 
-[here](derivative of $\sin(x)$ is $\dfrac{d}{dx}[\sin(x)]=\cos(x)$) is an intuitive explanation
-
 
 ### things about the number e
 
@@ -68,16 +70,13 @@ Originally derived from the principles we all know and love, these derivative ru
 - derivative of $\ln(m(x))$ is $\dfrac{d}{dx}[\ln(m(x))]=\dfrac{m'(x)}{m(x)}$
 
 
-[[some other things about differentiation]]
-
-## time for more rules
+[[guide to differentiation - start application questions]]
 
 ### chain rule
 
 - Chain rule - derivative of the expression $m(n(x))$ is $\dfrac{d}{dx}[m(n(x))]=m'(n(x))\cdot n'(x)$
 
-[[proof of chain rule]]
-[[practice chain rule]]
+[[exercise - chain rule]]
 
 figure: Visual aid here. Hopefully the colors speak louder than words.
 
@@ -143,7 +142,19 @@ We see that the quotient rule is a bit similar to the product rule.
 
 
 
-[[practice more differentiation]]
+
+## test your understanding!
 
 
-[[a practice on not so simple derivative rules]]
+
+[[exercise - basic derivative rules]]
+
+[[exercise - using lots of derivative rules]]
+
+
+[[exercise - differentiation but a test on your reasoning]]
+
+[[exercise - differentiation but messy]]
+
+
+[[exercise - differentiation but you factorize first]]
