@@ -8,7 +8,7 @@ permalink:
 
 the [[kingdom|kingdoms]] can be compared in this table
 
-| kingdom                      | bacteria    | archaea     | protista    | planta        | fungi         | animala       |
+| kingdom                      | bacteria    | archaea     | protista    | planta        | fungi         | animalia      |
 | ---------------------------- | ----------- | ----------- | ----------- | ------------- | ------------- | ------------- |
 | prokaryote or eukaryote      | prokaryote  | prokaryote  | eukaryote   | eukaryote     | eukaryote     | eukaryote     |
 | autotroph or heterotroph     | either      | either      | autotroph   | autotroph     | heterotroph   | heterotroph   |

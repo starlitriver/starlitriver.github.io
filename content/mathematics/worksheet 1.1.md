@@ -9,19 +9,32 @@ permalink:
 1-- simplify each of the following
 
 - $(x^5)^7$
+$x^35$
 - $y^9\cdot y^4$
+$y^{13}$
 - $(3a^7)^4$
+$81a^11$
 - $7x^{11}\cdot 8x^{15}$
+$56x^{26}$
 - $(25x^{\frac{1}{3}})^{\dfrac{3}{2}}$
+$125x^{\dfrac{1}{2}}$
 - $14a^\dfrac{3}{5}\cdot 12a^{-\dfrac{1}{9}}$
+$168a^{\dfrac{22}{45}}$
 
 
 2-- simplify each of the following
 
 - $\dfrac{2x}{3}+\dfrac{3x}{2}$
+$=\dfrac{4x+9x}{6}$
+$=\dfrac{13x}{6}$
 - $\dfrac{3a}{2}-\dfrac{a}{4}$
+$=\dfrac{5a}{4}$
 - $\dfrac{3x}{4}-\dfrac{y}{6}-\dfrac{x}{3}$
+$=\dfrac{3x-2y-4x}{12}$
+$=\dfrac{-x-2y}{12}$
 - $\dfrac{3}{x}+\dfrac{2}{y}$
+$=\dfrac{3y+2x}{xy}$
+
 - $\dfrac{3}{x-2}+\dfrac{2}{x+1}$
 - $\dfrac{3}{x-1}+\dfrac{2}{(x-1)(x+4)}$
 - $\dfrac{3}{x-2}-\dfrac{2}{x+2}+\dfrac{4}{x^2-4}$
