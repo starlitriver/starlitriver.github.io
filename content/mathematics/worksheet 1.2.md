@@ -11,7 +11,6 @@ These stuff were a lot of work. I haven't practiced simplifying stuff in so long
 
 1-- solve each of the following for $x$
 
-
 - $ax+n=m$
 $ax=m-n$
 $x=\dfrac{m-n}{a}$
