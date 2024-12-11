@@ -183,8 +183,8 @@
       "enabled": false
     },
     "convert-spaces-to-tabs": {
-      "enabled": false,
-      "tabsize": 4
+      "enabled": true,
+      "tabsize": "2"
     },
     "empty-line-around-blockquotes": {
       "enabled": false

@@ -1,21 +1,13 @@
 [
-  "obsidian-git",
-  "dataview",
-  "table-editor-obsidian",
-  "obsidian-admonition",
-  "omnisearch",
-  "obsidian-linter",
-  "obsidian-hover-editor",
   "quick-latex",
-  "3d-graph-new",
-  "obsidian-excalidraw-plugin",
-  "obsidian-minimal-settings",
-  "mysnippets-plugin",
   "obsidian-style-settings",
-  "mousewheel-image-zoom",
   "ninja-cursor",
-  "obsidian-completr",
+  "omnisearch",
+  "mysnippets-plugin",
+  "mousewheel-image-zoom",
+  "obsidian-minimal-settings",
+  "obsidian-linter",
   "floating-toc",
-  "cursor-jump",
-  "link-tree"
+  "obsidian-excalidraw-plugin",
+  "dataview"
 ]
