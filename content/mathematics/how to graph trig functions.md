@@ -6,7 +6,7 @@ tags: []
 permalink:
 ---
 
-let's graph trig functions!
+This is a part of [[guide to graphing functions]].
 
 ## sine, cosine and tangent
 

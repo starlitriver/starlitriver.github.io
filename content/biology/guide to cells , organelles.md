@@ -21,7 +21,7 @@ The main differences between prokaryotes and eukaryotes is that
 - eukaryotes divide with mitosis
 - almost every organism is made of eukaryotes
 
-see [[prokaryotes and eukaryotes comparison table]]. 
+see [[prokaryotic and eukaryotic cells comparison table]]. 
 
 
 

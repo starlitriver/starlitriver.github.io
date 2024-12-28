@@ -6,22 +6,8 @@ tags: []
 permalink:
 ---
 
+Eukaryotes are a [[domain]] of life in taxonomy that includes the kingdoms.
 
-see [[prokaryotes and eukaryotes comparison table]]
+An eukaryote is an organism made of [[eukaryotic cells]]. We learn a lot about them.
 
-the eukaryotes constitute the eukarya - organisms whose cells have a membrane-bound [[nucleus]]
-
-all animals, plants, fungi and many unicellular organisms are eukaryotes
-
-eukaryotes represent a small minority of the number of organisms, but given their generally much larger size, their collective global [[biomass]] is much larger than that of prokaryotes
-
-for the organelles that eukaryotes have, see [[organelle|organelles]]
-
-eukaryotes have diameters between 10μm and 100μm
-
-[[eukaryotic cell cycle]]
-
-DNA is linear in eukaryotes and exists in separate chromosomes, not a single circular DNA
-
-
-though prokaryotes are all single celled, eukaryotes can be multicellular
+Most organisms that are not extremely tiny are eukaryotes.

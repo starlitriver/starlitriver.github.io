@@ -6,7 +6,7 @@ tags: []
 permalink:
 ---
 
-[[polynomial|polynomials]]
+This is a part of [[guide to graphing functions]].
 
 ### y-intercept
 to find the y-intercept of a polynomial $f(x)$, we just need to make $x=0$ and find $f(0)$

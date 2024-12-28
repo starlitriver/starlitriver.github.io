@@ -882,8 +882,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "line",
-			"version": 1189,
-			"versionNonce": 635814618,
+			"version": 1191,
+			"versionNonce": 2046285801,
 			"index": "aO",
 			"isDeleted": false,
 			"id": "7zTRlEOPkrffUPXcSxzku",
@@ -893,7 +893,7 @@ excalidraw-plugin: parsed
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 215.05157952615176,
+			"x": 216.32630367353275,
 			"y": -186.19427872610788,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -906,7 +906,7 @@ excalidraw-plugin: parsed
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1730445317001,
+			"updated": 1734334944358,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1328,8 +1328,8 @@ excalidraw-plugin: parsed
 		},
 		{
 			"type": "ellipse",
-			"version": 368,
-			"versionNonce": 711356564,
+			"version": 381,
+			"versionNonce": 553625161,
 			"index": "aX",
 			"isDeleted": false,
 			"id": "-QzmwW5O1o9hcXAAz1bHj",
@@ -1339,8 +1339,8 @@ excalidraw-plugin: parsed
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -122.21067668464713,
-			"y": -608.4434279507913,
+			"x": -284.07298188804344,
+			"y": -560.0183147331765,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#228be6",
 			"width": 8.378512474798356,
@@ -1352,7 +1352,7 @@ excalidraw-plugin: parsed
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1732174216132,
+			"updated": 1734335838973,
 			"link": null,
 			"locked": false
 		}
@@ -1372,10 +1372,10 @@ excalidraw-plugin: parsed
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 739.7007269207892,
-		"scrollY": 1184.2707930828512,
+		"scrollX": 929.6972189029775,
+		"scrollY": 1714.1093224900385,
 		"zoom": {
-			"value": 1.0330485607440496
+			"value": 0.47881070093006156
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -6,20 +6,21 @@ tags: []
 permalink:
 ---
 
-a [[power function]] is a function in the form $f(x)=a[b(x-d)]^n+c$
+This is a part of [[guide to graphing functions]].
+
+A [[power function]] is a function in the form $f(x)=a[b(x-d)]^n+c$
 
 
 
 
-graphing power functions. it's not as easy as you expect.
+Firstly, you must be familiar with simple power functions, in the form $f(x)=x^n$, where the value of $n$ dramatically changes the graph. See [[how to graph simple power functions]].
 
-first you will need to remember a few common graphs, see [[how to remember common power functions]]
-
-
+From there, we will then apply transformations.
 
 
 
-in this form
+So, a function in the form $f(x)=a[b(x-d)]^n+c$
+
 - $a$ will make the graph reflect vertically if sign change
 - the absolute value of $a$ is proportional to the graph's vertical stretch (any $|a|$ below 1 will vertically compress the graph; any $|a|$ above 1 will vertically expand the graph)
 - $b$ will make the graph reflect horizontally if sign change

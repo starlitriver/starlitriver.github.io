@@ -19,7 +19,7 @@ a polynomial's highest [[exponentiation|exponent]] is called the degree of the p
 - [[4 degree polynomial]]
 
 [[how to factor polynomial equations]]
-[[how to graph polynomial equations]]
+[[how to graph polynomial functions]]
 [[how to solve polynomial inequalities]]
 
 [[how to use points to find polynomial|determine the equation of a polynomial with known points]]

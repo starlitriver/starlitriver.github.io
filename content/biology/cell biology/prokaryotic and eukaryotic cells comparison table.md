@@ -6,10 +6,7 @@ tags: []
 permalink:
 ---
 
-- [[prokaryote]]
-- [[eukaryote]]
-
-|                | prokaryote         | eukaryote                        |
+|                | prokaryotic cell   | eukaryotic cell                  |
 | -------------- | ------------------ | -------------------------------- |
 | examples       | bacteria, archaea  | animals, plants, fungi, protists |
 | nucleus        | no                 | yes                              |
