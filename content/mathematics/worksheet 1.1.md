@@ -6,6 +6,7 @@ tags: []
 permalink:
 ---
 
+
 1. simplify the following
 	1. $(x^5)^7$
 	$=x^{35}$
@@ -62,7 +63,11 @@ permalink:
 	$=\dfrac{x(x-4)-5(x-1)}{(2x+3)(x-1)(x-4)}$
 	$=\dfrac{x^2-9x+5}{(2x+3)(x-1)(x-4)}$
 	1. $\dfrac{5}{x+3}+\dfrac{4x}{3x-2}+\dfrac{2}{2-3x}$
-	
+	$=\dfrac{5}{x+3}+\dfrac{4x-2}{3x-2}$
+	$=\dfrac{15x-10+(x+3)(4x-2)}{(x+3)(3x-2)}$
+	$=\dfrac{15x-10+4x^2-2x+12x-6}{(x+3)(3x-2)}$
+	$=\dfrac{4x^2+25x-16}{(x+3)(3x-2)}$
+	$=$
 	1. $\dfrac{5-x}{4-x}+\dfrac{3x+1}{x+4}-\dfrac{2}{x-4}$
 	1. $\dfrac{x-3}{3x^2+5x-2}\dfrac{4-2x}{-3x^2+16x-5}$
 
