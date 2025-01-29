@@ -12,24 +12,42 @@ permalink:
 	1. $(y^{-12})^\dfrac{3}{4}$
 	$=y^{-9}$
 	1. $3x^{\dfrac{3}{2}}\cdot -5x^4$
+	$=-15x^{\dfrac{11}{2}}$
 	1. $(x^3)^\dfrac{4}{3}\cdot x^{-5}$
+	$=x^{-1}$
 
 
 1. simplify the following
 	1. $\dfrac{3x}{5}+\dfrac{y}{10}-\dfrac{2x}{5}$
+	$=\dfrac{6x}{10}+\dfrac{y}{10}-\dfrac{4x}{10}$
 	1. $\dfrac{4}{x}-\dfrac{7}{y}$
+	$=\dfrac{4y-7x}{xy}$
 	1. $\dfrac{5}{x+2}+\dfrac{2}{x-1}$
+	$=\dfrac{5x-5+2x+4}{(x+2)(x-1)}$
+	$=\dfrac{7x-1}{(x+2)(x-1)}$
 	1. $\dfrac{3}{x+2}+\dfrac{4}{x+4}$
+	$=\dfrac{3x+12+4x+8}{(x+2)(x+4)}$
+	$=\dfrac{7x+20}{(x+2)(x+4)}$
 	1. $\dfrac{5x}{x+4}+\dfrac{4x}{x-2}-\dfrac{5}{2}$
+	$=\dfrac{10x^2-20x+8x^2+32+5(x^2+2x-8)}{2(x+4)(x-2)}$
+	$=\dfrac{23x^2-10x-8}{2(x+4)(x-2)}$
 	1. $\dfrac{3}{x-2}-\dfrac{6}{(x-2)^2}$
+	$=\dfrac{3x-12}{(x-2)^2}$
+	
 
 
 
 
 1. simply the following
 	1. $\dfrac{x+5}{2x-6}\div \dfrac{x^2+5x}{4x-12}$
+	$=\dfrac{x+5}{2(x-3)}\cdot \dfrac{4(x-3)}{x(x+5)}$
+	$=\dfrac{2}{x}$
 	1. $\dfrac{3x}{x+4}\div \dfrac{12x^2}{x^2-16}$
+	$=\dfrac{3x}{x+4}\cdot \dfrac{(x+4)(x-4)}{3x(4x)}$
+	$=\dfrac{x-4}{4x}$
 	1. $\dfrac{x^2-4}{x-3}\cdot \dfrac{3x-9}{x+2}\div \dfrac{9}{x+2}$
+	$=\dfrac{(x+2)(x-2)}{x-3}\cdot \dfrac{3(x-3)}{x+2}\cdot \dfrac{x+2}{9}$
+	
 	1. $\dfrac{4x+20}{9x-6}\cdot \dfrac{6x^2}{x+5}\div \dfrac{2}{3x-2}$
 
 
