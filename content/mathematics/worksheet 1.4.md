@@ -50,7 +50,7 @@ so the answer is $1(x+2)^2+-4(x+2)+4$
 
 1. express $x^3$ in the form $(x+1)^3+a(x+1)^2+b(x+1)+c$
 $x^3=x^3+3x^2+3x+1+a(x^2+2x+1)+bx+b+c$
-$x^3=$
+$x^3=x^3+$
 
 1. find the values of a, b and c such that $x^2=a(x+1)^2+bx+c$
 1. 
@@ -76,4 +76,4 @@ $x^3=$
 1. A polynomial $P$ is said to be even if $P(-x)=P(x)$ for all x. A polynomial $P$ is said to be odd if $P(-x)=-P(x)$ for all x.
 	- show that, if $P(x)=ax^4+bx^3+cx^2+dx+e$ is even, then $b=d=0$
 	- show that, if $P(x)=ax^5+bx^4+cx^3+dx^2+ex+f$ is odd, then $b=d=f=0$
-	wo
+	
