@@ -9,6 +9,7 @@ permalink:
 
 in biology, genetics is the study of [[genome|genetic information]], [[genetic variation]], and [[heredity]] in organisms
 
+
 genetics is used to study [[evolution]]
 
 an organism's genetic code is ultimately stored in a sequence of nucleotides, represented as letters
@@ -24,6 +25,27 @@ for sexual reproduction, an organism has to produce [[gamete|gametes]]. a gamete
 out of all the chromosomes an organism has, some determine the sex of the organism, called [[sex chromosome]], and those that do not determine the sex of the organism are called [[autosome]]
 
 a Mendelian gene is a section of a chromosome that corresponds to a phenotype in the organism
+
+A gene is a length of DNA that contains the coded instructions for building a gene product, which is usually a protein.
+
+
+Genotype is the combination of alleles an individual has for a given gene locus.
+
+
+Phenotype is the physical expression of a trait and is influenced by the genotype.
+
+Recessive traits are those which are not expressed in the phenotype of a heterozygote.
+
+Dominant traits are expressed in the phenotype of a heterozygote.
+
+Some traits are incompletely dominant to others, in which case neither allele is fully expressed in the phenotype of a heterozygote. Some traits are codominant, meaning that both alleles are fully expressed in the phenotype of a heterozygote.
+
+Some gene loci have more than just two alleles.
+
+Alleles are assigned symbols; a capital letter for a dominant trait and a lower case letter of the same letter for the recessive trait.
+
+The alleles for X-linked traits are shown as a superscript to an X. The alleles for incompletely dominant and codominant traits are superscripted to differentiate between them.
+
 
 a genotype is a section of DNA that codes for a part of the organism that affects its phenotypes, essentially a sequence of letters
 a phenotype is the expression of a genotype that we can see
@@ -42,4 +64,5 @@ heterozygous means carrying both genotypes, but the dominant one is expressed an
 homozygous means that both genotypes are the same
 
 ## references
+
 https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count

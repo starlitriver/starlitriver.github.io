@@ -99,12 +99,10 @@ D. Taq polymerase.
 
 The following restriction enzymes have the following target sequences (read from left to right)
 
-
 | Smal  | CCC/GGG |
 | ----- | ------- |
 | Rsal  | GT/AC   |
 | EcoRV | GAT?ACT |
-
 
 The following sequence of DNA is mixed with all three restriction enzymes
 AGGCCGATTGCGAGGGAGATCTGATTCTGGATAAGGATCGTA

@@ -205,9 +205,11 @@ $x=0.98$
 
 1. solve for x and y for $2ax+2by=3$ and $3ax-2by=7$
 1. if $x+y=m$ and $x-y=n$, what is $(x^2-y^2)-2x$ in terms of m and n?
-1. expand the following
+1. Expand the following
 	1. $(x+y)^4$
+	$=x^4+4x^3y+6x^2y^2+4xy^3+y^4$
 	1. $(2a+b)^5$
+	$=$
 	1. $(x-y)^6$
 	1. $a-2b)^4$
 1. If $(x+2)^2+1=ax^2+bx+c$, find the values of a, b and c
@@ -217,3 +219,15 @@ $x=0.98$
 1. If $x^2=a(x+1)^2+b(x+1)+c$, find the values of a, b and c
 
 1. Express $x^3$ in the form $a(x+1)^3+b(x+2)^2+c(x+3)+d$
+$a(x+1)^3+b(x+2)^2+c(x+3)+d$
+$=a[x^3+3x^2(1)+3x(1)+1]+b(x^2+4x+4)+cx+3c+d$
+$=ax^3+3x^2a^2+3ax+a+bx^2+4bx+4b+cx+3c+d$
+$=ax^3+(3a^2+b)x^2+(3a+4b+c)x+a+4b+3c+d$
+$a=1$
+$3a^2+b=0$
+$b=-3$
+$3a+4b+c=0$
+$c=9$
+$a+4b+3c+d=0$
+$d=-16$
+$x^3=1(x+1)^2+-3(x+2)^2+9(x+3)-16$

@@ -24,3 +24,6 @@ aspects of homeostasis include
 - [[blood sugar regulation]]
 - [[thermoregulation]]
 - [[osmoregulation]]
+
+
+[[homeostasis 101]]

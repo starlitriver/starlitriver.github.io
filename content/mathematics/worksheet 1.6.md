@@ -17,7 +17,7 @@ permalink:
 	$=x^{\dfrac{83}{63}}$
 
 
-1. simplify the following
+2. simplify the following
 	1. $\dfrac{3}{x-4}+\dfrac{5x}{4-x}$
 	$=\dfrac{3-5x}{x-4}$
 	1. $\dfrac{7}{x+1}-\dfrac{8x}{5x-2}$
@@ -28,7 +28,7 @@ permalink:
 	$=\dfrac{(3x+2)(3x+3)-(4x-3)(x+3)}{(2x-1)(x+3)(3x+3)}$
 	$=\dfrac{9x^2+15x+6-(4x^2+8x-9)}{(2x-1)(x+3)(3x+3)}$
 	$=\dfrac{5x^2+7x+15}{(2x-1)(x+3)(3x+3)}$
-1. solve for x
+3. solve for x
 	1. $\dfrac{4x}{3}+\dfrac{x}{6}=7$
 	$9x=42$
 	$x=\dfrac{14}{3}$
@@ -42,7 +42,7 @@ permalink:
 	$x=\dfrac{-52}{42}$
 	$x=\dfrac{-26}{21}$
 	
-1. express as a single fraction
+4. express as a single fraction
 	1. $(x+2)^\dfrac{1}{4}+(x+2)^\dfrac{-3}{4}$
 	$=(x+2)^{\dfrac{1}{4}}+\dfrac{1}{(x+2)^{\dfrac{3}{4}}}$
 	$=\dfrac{x+3}{(x+2)^{\dfrac{3}{4}}}$
@@ -75,6 +75,9 @@ permalink:
 	$-2ax=21$
 	
 	1. $ax-2by=1$ and $x+y=7$
+	$ax+ay=7a$
+	$-2by-ay=1-7a$
+	
 	
 
 7. expand the following

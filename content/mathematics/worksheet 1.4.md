@@ -53,9 +53,34 @@ $x^3=x^3+3x^2+3x+1+a(x^2+2x+1)+bx+b+c$
 $x^3=x^3+$
 
 1. find the values of a, b and c such that $x^2=a(x+1)^2+bx+c$
+$=a(x^2+2x+1)+bx+c$
+$=ax^2+2ax+a+bx+c$
+$=ax^2+(2a+b)x+a+c$
+a=1
+2a+b=0
+b=-2
+a+c=0
+c=-1
 1. 
 	- show that $3x^3-9x^2+8x+2$ cannot be expressed in the form $a(x+b)^3+c$
-	- if $3x^2=9x^2+9x+2$ can be expressed in the form $a(x+b)^3+c$, then find the values of a, b and c
+	$a(x+b)^3+c=a(x^3+3x^2b+3xb^2+b^3)+c$
+	$=ax^3+3ax^2b+3axb^2+ab^3+c$
+	$a=3$
+	$ab^3+c=2$
+	$3ab^2=8$
+	$3ab=-9$
+	$b=-1$
+	See that $3ab^2=8$ is false. So cannot.
+	- if $3x^2-9x^2+9x+2$ can be expressed in the form $a(x+b)^3+c$, then find the values of a, b and c
+	$a(x+b)^3+c=a(x^3+3x^2b+3xb^3+b^3)+c$
+	$=ax^3+3ax^2b+3axb^2+ab^3+c$
+	$a=3$
+	$3ab=-9$
+	$3ab^2=9$
+	$ab^3+c=2$
+	$b=-1$
+	$-3+c=2$
+	$c=5$
 
 
 1. show that constants a, b, c, and d can be found such that $n^3=a(n+1)(n+2)(n+3)+b(n+1)(n+2)+c(n+1)+d$
