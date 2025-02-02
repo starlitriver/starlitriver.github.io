@@ -6,21 +6,28 @@ tags: []
 permalink:
 ---
 
-Please watch this [video](https://www.youtube.com/watch?v=8LebJXjbkfo) before you start reading.
+Please watch this [video](https://www.youtube.com/watch?v=8LebJXjbkfo) because it's really good.
 
 ## intro
+
+The normal line passes through the point of incidence and is perpendicular to the surface.
+
+$n_1$ and $n_2$ are the refractive indicies of the mediums.
+
+
 
 ![[refraction 2024-12-25 13.47.40.excalidraw.svg|570]]
 %%[[refraction 2024-12-25 13.47.40.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 
+
+
+$\theta_1$ is the angle of incidence, measured from the normal.
+$\theta_2$ is the angle of refraction, measured from the normal.
+
+
 ![[refraction 2024-12-25 13.59.47.excalidraw.svg|440]]
 %%[[refraction 2024-12-25 13.59.47.excalidraw.md|🖋 Edit in Excalidraw]]%%
-
-![[refraction 2024-12-25 13.57.25.excalidraw.svg|530]]
-%%[[refraction 2024-12-25 13.57.25.excalidraw.md|🖋 Edit in Excalidraw]]%%
-
-
 
 ## Snell's law
 
@@ -31,22 +38,39 @@ The second part of Snell's law is $n_1v_1=n_2v_2$. Remember that $v=\lambda f$.
 ![[refraction 2024-12-27 10.35.56.excalidraw.svg|410]]
 %%[[refraction 2024-12-27 10.35.56.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-## critical angle
+
+According to this, I shall make a metaphor. If you walk in a new forest that is less dense, you walk more normally. If it is more dense, you walk less normally.
+
+![[refraction 2024-12-25 13.57.25.excalidraw.svg|530]]
+%%[[refraction 2024-12-25 13.57.25.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+## critical angle and internal reflection
 
 When the angle of refraction $\theta_2=90\degree$, the ray will travel perpendicular to the normal line.
 
-Using Snell's law for $n_1\sin(\theta_1)=n_2\sin(\theta_2)$ and we know $\theta_2=90\degree$, we can calculate the critical angle, $\theta_1$.
+Snell's law says that $n_1\sin(\theta_1)=n_2\sin(\theta_2)$.
+
+Directly coming from Snell's law, $\theta_1=\sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin(\theta_2))$.
+
+Directly coming from Snell's law, $\theta_{\text{crit}}=\sin^{-1}(\dfrac{n_2}{n_1})$, because $\theta_2=90\degree$
+
+If $\theta_1=\theta_{\text{crit}}$ then $\sin^{-1}(\dfrac{n_2}{n_1})=\sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin(\theta_2))$ then $\theta_2=90\degree$
 
 ![[refraction 2024-12-27 10.20.46.excalidraw.svg|384]]
 %%[[refraction 2024-12-27 10.20.46.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 
+Internal reflection is when the angle of incidence $\theta_1$ is greater than the critical angle, and it means $\theta_2$ must be undefined.
 
-### internal reflection
+If $\theta_1>\theta_{\text{crit}}$ then $\sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin(\theta_2))>\sin^{-1}(\dfrac{n_2}{n_1})$  which simplifies to $\sin(\theta_2)>1$. This is impossible, making $\theta_2$ undefined.
 
-
-
-When the angle of incidence $\theta_1$ is greater than the critical angle, $\theta_2$ must be undefined. The ray will not pass through the normal line. Instead, the ray reflects at the normal line. This is called internal reflection.
+So, there is no refraction, but reflection instead.
 
 ![[refraction 2024-12-27 10.51.30.excalidraw.svg|280]]
 %%[[refraction 2024-12-27 10.51.30.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+## more
+
+Snell's law also says that $n_1v_1=n_2v_2$
+
+If you recall your wave things, $v=f\lambda$

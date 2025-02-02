@@ -72,13 +72,20 @@ permalink:
 6. solve for x and y
 	1. $4ax+2by=5$ and $3ax+by=-8$
 	$6ax+2by=-16$
-	$-2ax=21$
+	$x=\dfrac{-21}{2a}$
+	$by=-8+\dfrac{63}{2}=\dfrac{47}{2}$
+	$y=\dfrac{47}{2b}$
 	
-	1. $ax-2by=1$ and $x+y=7$
+	2. $ax-2by=1$ and $x+y=7$
 	$ax+ay=7a$
 	$-2by-ay=1-7a$
-	
-	
+	$ax-2by=1$
+	$y=7-x$
+	$ax-2b(7-x)=1$
+	$ax-14b+2bx=1$
+	$(a+2b)x=14b+1$
+	$x=\dfrac{14b+1}{a+2b}$
+	$y=\dfrac{7a-1}{a+2b}$
 
 7. expand the following
 	1. $(x+2y)^3$
@@ -91,12 +98,17 @@ permalink:
 	$=(\dfrac{2}{x})^4+4(\dfrac{2}{x})^3(3)+6(\dfrac{2}{x})^2(3)^2+4(\dfrac{2}{x})(3)^3+3^4$
 	$=\dfrac{8}{x^4}+\dfrac{96}{x^3}+\dfrac{108}{x^2}+\dfrac{216}{x}+81$
 	
-
 8. if $2(x+2)^2+3x+4=ax^2+bx+c$, find the values of a, b, and c
-$=2(x^2+4x+4)+3x+4$
-$=2x^2+11x+12$
-a=2, b=11, c=12
+	$=2(x^2+4x+4)+3x+4$
+	$=2x^2+11x+12$
+	a=2
+	b=11
+	c=12
 9. express $(x+1)^3$ in the form $(x+2)^3+a(x+2)^2+b(x+2)+c$
-$=x^3+3x^2+3x+1$
-$=x^3+3x^2(2)+3x(2)^2+2^3+a(x^2+4x+4)+b(x+2)+c$
-$=x^3+6x^2+$
+	let u=x+2
+	$(x+1)^3=u^3+au^2+bu+c$
+	$(u-1)^3=u^3+au^2+bu+c$
+	$u^3-3u^2+3x-1=u^3+au^2+bu+c$
+	a=-3
+	b=3
+	c=-1

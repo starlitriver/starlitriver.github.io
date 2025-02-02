@@ -77,9 +77,11 @@ permalink:
 	$x=\dfrac{27}{4}$
 	1. $\dfrac{3-3x}{10}-\dfrac{2(x+5)}{6}=\dfrac{1}{20}$
 	$\dfrac{9-9x+-10x-50}{30}=\dfrac{1}{20}$
-	$\dfrac{3}{2}=-41-19x$
-	$19=\dfrac{-79}{2}$
-1. solve these pairs of equations
+	$\dfrac{2(-19x-41)}{3}=1$
+	$19x+41=\dfrac{-3}{2}$
+	$19x=\dfrac{-85}{2}$
+	$x=\dfrac{-85}{38}$
+2. solve these pairs of equations
 	1. $3x+2y=2$ and $2x-3y=6$
 	$6x+4y=4$
 	$6x-9y=18$
@@ -109,6 +111,7 @@ permalink:
 	$7x+35y=70$
 	$-38y=-76$
 	$y=\dfrac{38}{19}$
+	$x=0$
 	1. $15x+2y=27$ and $3x+7y=45$
 	$15x+35y=5\cdot 45$
 	$33y=198$
@@ -117,7 +120,7 @@ permalink:
 	$x=1$
 
 
-1. for each of the cases below, write down a relevant equation involving the variables defined and solve the equation.
+3. for each of the cases below, write down a relevant equation involving the variables defined and solve the equation.
 	1. The length of the side of a square is $(x-2)$ cm. Its perimeter is 60 cm.
 	$4(x-2)=60$
 	$x-2=15$
@@ -127,49 +130,73 @@ permalink:
 	$\dfrac{2x-7}{4}=7$
 	$x=\dfrac{35}{2}$
 
-1. Bronwyn and Noel have a women's clothing shop in Summerland. Bronwyn manages the shop and her sales are goin up steadily over a particular period of time. They are going up by $500 per week. If over a five-week period her sales total $17500, how much did she earn in the first week?
-let $x$ be amount earned in the first week
+4. Bronwyn and Noel have a women's clothing shop in Summerland. Bronwyn manages the shop and her sales are goin up steadily over a particular period of time. They are going up by $500 per week. If over a five-week period her sales total $17500, how much did she earn in the first week?
+	let amount earned in the first week = a
+	$5a+5000=17500$
+	$5a=12500$
+	$a=2500$
+	She earns 2500 dollars in first week.
+
+5. Three boys compare their marble collections. The first boy has 14 fewer than the second boy, who has twice as many as the third. If between them they have 71 marbles, how many does each boy have?
+
+	let first = f
+	let second = s
+	let third = t
+	s=f+14
+	s=2t
+	f+s+t=71
+	
+	f+14=2t
+	f=2t-14
+	
+	2t-14+2t+t=71
+	5t=85
+	t=17
+	s=34
+	f=20
+	
+	They have 20, 34, and 17 marbles respectively.
+
+6. Kavindi has achieved an average mark of 88% on her first four maths tests. What mark would she need on her fifth test to increase her average to 90%?
+	let mark of fifth test = x
+	$\dfrac{0.88\cdot 4+x}{5}=0.9$
+	$3.52+x=4.5$
+	$x=0.98$
+	Need a mark of 98%
+
+7. A car hire firm offers the option of paying $108 per day with unlimited kilometres, or $63 per day plus 32 cents per kilometre travelled. How many kilometres would you have to travel in a given day to make the unlimited- kilometres option more attractive?
+	let kilometers needed = a
+	$108=63+0.32a$
+	$a=140.625$
+	You have to travel 140.625 kilometers.
+
+8. Company A will cater for your party at a cost of $450 plus $40 per guest. Company B offers the same service for $300 plus $43 per guest. How many guests are needed before Company A’s charge is less than Company B’s?
+	let guests needed = a
+	$450+40a=300+43a$
+	$3a=150$
+	$a=50$
+	More than 50 guests are needed.
+
+9. A basketball final is held in a stadium which can seat 15 000 people. All the tickets have been sold, some to adults at $45 and the rest for children at $15. If the revenue from the tickets was $525 000, find the number of adults who bought tickets.
+10. The sum of two numbers is 212 and their difference is 42. Find the two numbers.
+	let numbers be a and b
+	$a+b=212$
+	$a-b=42$
+	$2b+42=212$
+	$b=85$
+	$a=127$
+11. Two children had 220 marbles between them. After one child had lost half her marbles and the other had lost 40 marbles, they had an equal number of marbles. How many did each child start with and how many did each child finish with?
+	let children have a and b marbles start
+	$a+b=220$
+	$a/2=b-40$
+	$a+\dfrac{a}{2}=180$
+	$a=120$
+	$b=100$
+	So one child had 120 then 60, and the other had 100 then 60.
 
 
-1. Three boys compare their marble collections. The first boy has 14 fewer than the second boy, who has twice as many as the third. If between them they have 71 marbles, how many does each boy have?
 
-let first = f
-let second = s
-let third = t
-s=f+14
-s=2t
-f+s+t=71
-
-f+14=2t
-f=2t-14
-
-2t-14+2t+t=71
-5t=85
-t=17
-s=34
-f=20
-
-
-
-
-1. Kavindi has achieved an average mark of 88% on her first four maths tests. What mark would she need on her fifth test to increase her average to 90%?
-
-let mark of fifth test = x
-$\dfrac{0.88\cdot 4+x}{5}=0.9$
-$3.52+x=4.5$
-$x=0.98$
-
-1. A car hire firm offers the option of paying $108 per day with unlimited kilometres, or $63 per day plus 32 cents per kilometre travelled. How many kilometres would you have to travel in a given day to make the unlimited- kilometres option more attractive?
-
-
-1. Company A will cater for your party at a cost of $450 plus $40 per guest. Company B offers the same service for $300 plus $43 per guest. How many guests are needed before Company A’s charge is less than Company B’s?
-
-1. A basketball final is held in a stadium which can seat 15 000 people. All the tickets have been sold, some to adults at $45 and the rest for children at $15. If the revenue from the tickets was $525 000, find the number of adults who bought tickets.
-1. The sum of two numbers is 212 and their difference is 42. Find the two numbers.
-1. Two children had 220 marbles between them. After one child had lost half her marbles and the other had lost 40 marbles, they had an equal number of marbles. How many did each child start with and how many did each child finish with?
-
-
-1. solve for x
+12. solve for x
 	1. $xy+ax=b$
 	$x(y+a)=b$
 	$x=\dfrac{b}{y+a}$
@@ -187,7 +214,7 @@ $x=0.98$
 	$b^2d-d^2+ab=x(ab+db)$
 	$x=\dfrac{b^2d-d^2+ab}{ab+db}$
 
-1. simplify
+13. simplify
 	1. $\dfrac{p}{p+q}+\dfrac{q}{p-q}$
 	$\dfrac{p^2-pq+pq+q^2}{(p+q)(p-q)}$
 	$\dfrac{p^2+q^2}{p^2-q^2}$
@@ -203,31 +230,63 @@ $x=0.98$
 	$=\dfrac{2ab}{ba^2}$
 	$=\dfrac{2}{a}$
 
-1. solve for x and y for $2ax+2by=3$ and $3ax-2by=7$
-1. if $x+y=m$ and $x-y=n$, what is $(x^2-y^2)-2x$ in terms of m and n?
-1. Expand the following
+14. solve for x and y for $2ax+2by=3$ and $3ax-2by=7$
+	$5ax=10$
+	$x=\dfrac{1}{2a}$
+	$1+2by=3$
+	$y=\dfrac{1}{b}$
+15. if $x+y=m$ and $x-y=n$, what is $(x^2-y^2)-2x$ in terms of m and n?
+	$(x^2-y^2)=mn$
+	$2x=m+n$
+	$(x^2-y^2)-2x=mn-m-n$
+16. Expand the following
 	1. $(x+y)^4$
 	$=x^4+4x^3y+6x^2y^2+4xy^3+y^4$
 	1. $(2a+b)^5$
-	$=$
+	$=32a^5+5(2a)^4(b)+10(2a)^3b^2+10(2a)^2b^3+5(2a)b^4+b^5$
+	$=32a^5+80a^4b+80a^3b^3+40a^2b^3+10ab^4+b^5$
 	1. $(x-y)^6$
-	1. $a-2b)^4$
-1. If $(x+2)^2+1=ax^2+bx+c$, find the values of a, b and c
-1. If $a(x=1)^3+b(x+1)=x^3+3x^2-2$, find the values of a and b
-1. If $(2a-bx)^2+(a-2b)x+8=5x^2-7x+8$, find the values of a and b
-1. If $(a^2-3a+2)x^2+(a^2-2a+4)x=6x^2+12x$, find the value of a
-1. If $x^2=a(x+1)^2+b(x+1)+c$, find the values of a, b and c
+	$=x^6-6x^5y+15x^4y^2-20x^3y^3+15x^2y^4-6xy^5+y^6$
+	1. $(a-2b)^4$
+	$=a^4-4a^3(2b)+6a^2(2b)^2-4a(2b)^3+(2b)^4$
+	$=a^4-8a^3b+24a^2b^2-32ab^3+16b^4$
+17. If $(x+2)^2+1=ax^2+bx+c$, find the values of a, b and c
+	$x^2+4x+5=ax^2+bx+c$
+	a=1 and b=4 and c=5
+18. If $a(x+1)^3+b(x+1)=x^3+3x^2-2$, find the values of a and b
+	$a(x^3+3x^2+3x+1)+bx+b=x^3+3x^2-2$
+	$a=1$ and $3a=3$ and $3a+b=0$ and $a+b=-2$
+	$a=1$ and $b=-3$
+	
+19. If $(2a+b)x^2+(a-2b)x+8=5x^2-7x+8$, find the values of a and b
+	$2a+b=5$ and $a-2b=-7$
+	$5b=19$
+	$b=\dfrac{19}{5}$
+	$a=\dfrac{3}{5}$
 
-1. Express $x^3$ in the form $a(x+1)^3+b(x+2)^2+c(x+3)+d$
-$a(x+1)^3+b(x+2)^2+c(x+3)+d$
-$=a[x^3+3x^2(1)+3x(1)+1]+b(x^2+4x+4)+cx+3c+d$
-$=ax^3+3x^2a^2+3ax+a+bx^2+4bx+4b+cx+3c+d$
-$=ax^3+(3a^2+b)x^2+(3a+4b+c)x+a+4b+3c+d$
-$a=1$
-$3a^2+b=0$
-$b=-3$
-$3a+4b+c=0$
-$c=9$
-$a+4b+3c+d=0$
-$d=-16$
-$x^3=1(x+1)^2+-3(x+2)^2+9(x+3)-16$
+20. If $(a^2-3a+2)x^2+(a^2-2a+4)x=6x^2+12x$, find the value of a
+	$a^2-3a+2=6$ and $a^2-2a+4=12$
+	(a=4 or a=-1) and (a=4 or a=-2)
+	a=4
+
+21. If $x^2=a(x+1)^2+b(x+1)+c$, find the values of a, b and c
+	let x+1=u
+	$(u-1)^2=au^2+bu+c$
+	$u^2-2u+1=au^2+bc+c$
+	a=1
+	b=-2
+	c=1
+
+22. Express $x^3$ in the form $a(x+1)^3+b(x+2)^2+c(x+3)+d$
+	$a(x+1)^3+b(x+2)^2+c(x+3)+d$
+	$=a[x^3+3x^2(1)+3x(1)+1]+b(x^2+4x+4)+cx+3c+d$
+	$=ax^3+3x^2a^2+3ax+a+bx^2+4bx+4b+cx+3c+d$
+	$=ax^3+(3a^2+b)x^2+(3a+4b+c)x+a+4b+3c+d$
+	$a=1$
+	$3a^2+b=0$
+	$b=-3$
+	$3a+4b+c=0$
+	$c=9$
+	$a+4b+3c+d=0$
+	$d=-16$
+	$x^3=1(x+1)^2+-3(x+2)^2+9(x+3)-16$
