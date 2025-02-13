@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -64,7 +66,6 @@ as we approach $x=7$ from the right hand side, we could get as close to $x=7$ as
 | 7.1  | 50.41 |
 | 7.01 | 49.14 |
 
-
 we say the limit of $f(x)$ as $x$ approaches 7 from the right hand side is 49, expressed as $\lim \limits_{x \to 7+} [f(x)] = 49$
 
 
@@ -116,12 +117,14 @@ for example,  to find $\lim\limits_{x\to-1}(6x^2+5x-1)$ we know the function is 
 see this [video](https://www.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution/v/limit-by-substitution)
 
 ### intermediate limits
+
 when calculating limits by substitution and we get $\dfrac{0}{0}$
 this is intermediate form and you can use methods to calculate the limit
 
 see [[how to find the limit of an experession]]
 
 ## squeeze theorem
+
 let's say we have three functions, and $f(x) \leq g(x) \leq h(x)$
 
 if $\lim \limits_{x \to c} f(x) = L$ and $\lim \limits_{x \to c} h(x) = L$, we can conclude that $\lim \limits_{x \to c} g(x) = L$
@@ -139,12 +142,12 @@ this also means that for a function $f$, the equation of the tangent line at $x=
 
 write an equation of the line tangent to the graph of $f(x)=2x^2+7x-9$ at the point where $x=-3$.
 
-  remember: for a function $f$, the equation of the tangent line at $x=c$ will be equal to $y-f(c)=f'(c)(x-c)$
+	remember: for a function $f$, the equation of the tangent line at $x=c$ will be equal to $y-f(c)=f'(c)(x-c)$
 
-  also, $\dfrac{d}{dx}\left[f(x)+g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] +\dfrac{d}{dx}\left[g(x)\right] = f'(x) + g'(x)$
+	also, $\dfrac{d}{dx}\left[f(x)+g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] +\dfrac{d}{dx}\left[g(x)\right] = f'(x) + g'(x)$
 
-  and $f(c)$ is -12
+	and $f(c)$ is -12
 
-  $f'(c)$ is $\dfrac{d}{dx}\left[2x^2\right]+\dfrac{d}{dx}\left[7x\right]$, which is $4x+7$, which is $-5$ when $x=c=-3$
+	$f'(c)$ is $\dfrac{d}{dx}\left[2x^2\right]+\dfrac{d}{dx}\left[7x\right]$, which is $4x+7$, which is $-5$ when $x=c=-3$
 
-  so the answer is $y+12=-5(x+3)$, or $-5x-27$
+	so the answer is $y+12=-5(x+3)$, or $-5x-27$

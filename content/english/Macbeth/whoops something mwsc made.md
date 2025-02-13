@@ -1,3 +1,12 @@
+---
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
+permalink:
+---
 QUOTES
 A quote sheet will be provided as a part of the exam.
 You CANNOT bring in your own sheet, you must only use the one provided.

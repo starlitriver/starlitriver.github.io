@@ -3,14 +3,11 @@ title:
 description: 
 aliases: [nucleotides]
 tags: []
+created: 2025-02-06T09:33:29
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
-a nucleotide is a simple molecule made up of a [[sugar|sugar]], a [[phosphates|phosphate]] and a [[nitrogenous bases|nitrogenous base]]
+Nucleotides are the monomers of nucleic acids, and a chain of nucleotides form the backbone of DNA and RNA.
 
-nucleotides are monomers because they are chained to form [[nucleic acid|nucleic acids]]
-
-a nucleotide is composed one of each on this list
-- 5-carbon sugar molecule
-- [[nucleotide bases]]
-- phosphate group
+A nucleotide is a molecule made up of a 5-carbon sugar, a phosphate group and a nitrogenous base.

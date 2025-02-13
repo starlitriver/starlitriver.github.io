@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [trig identities, trig identity]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -44,8 +46,6 @@ $\sin^2(a) = \dfrac{1-\cos(2a)}{2}$
 $\cos^2(a) = \dfrac{1+\cos(2a)}{2}$
 
 $\cos^2(a)=1-\sin^2(a)$
-
-
 
 ## angle sum and difference identities
 

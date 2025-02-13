@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [relations]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -36,7 +38,6 @@ for example, $x = f(x)^2$
 many to many - has properties 1 3
 an input can correspond to many outputs and an output can correspond to many inputs.
 for example, $f(x,y):x^2+y^2=1$
-
 
 ## functions
 

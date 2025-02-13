@@ -3,12 +3,14 @@ title:
 description: 
 aliases: [amino acids]
 tags: []
+created: 2025-02-06T09:02:14
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
-amino acids are building blocks of [[protein|proteins]]
+Amino acids are building blocks of proteins.
 
-here are the 20 most common amino acids
+Here are the 20 most common amino acids.
 
 | Name           | Three letter code | One letter code | Molecular  Weight | Molecular  Formula | Residue  Formula | Residue Weight  (-H2O) | pKa  | pKb   | pKx   | pl    |
 | -------------- | ----------------- | --------------- | ----------------- | ------------------ | ---------------- | ---------------------- | ---- | ----- | ----- | ----- |

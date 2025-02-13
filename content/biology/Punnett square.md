@@ -1,22 +1,20 @@
 ---
 title: 
 description: 
-aliases: [Punnett squares]
+aliases: []
 tags: []
+created: 2025-02-09T17:08:43
+modified: 2025-02-09T17:09:43
 permalink:
 ---
 
-in genetics, the Punnett square is a square diagram used to predict the genotypes of a particular cross or breeding experiment
+A Punnett square is a visual representation of Mendelian inheritance used to determine the probability of genotypes in a particular cross.
 
-the Punnett square is a visual representation of [[Mendelian inheritance]] and used to determine the probability of an offspring having a particular phenotype
+Unlike [[Pedigree chart|Pedigree charts]] which shows observable phenotypes, Punnett squares show the genotype probabilities.
 
-compare with [[Pedigree chart|Pedigree charts]] which shows the occurrence of phenotypes
-
-example of a Punnett square
-
-in a 
-
-|     | a   | a   |
+|     | A   | a   |
 | --- | --- | --- |
-| A   | Aa  | Aa  |
-| a   | aa  | aa  |
+| A   | AA  | Aa  |
+| a   | Aa  | aa  |
+
+For example, in the Punnet square above, there is a quarter chance to get AA, a half change to get Aa, and a quarter chance to get aa.

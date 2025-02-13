@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:43
 permalink:
 ---
 
@@ -19,7 +21,6 @@ what exists?
 
 what is observable?
 
-
 ## existence type
 
 [[materialism]] argues that everything is completely physical
@@ -28,8 +29,6 @@ materialism and idealism are also called monism
 
 
 [[dualism]] argues that some things can be physical while others can be virtual
-
-
 
 ## existence how
 

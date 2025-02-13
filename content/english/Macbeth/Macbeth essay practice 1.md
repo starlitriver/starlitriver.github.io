@@ -1,7 +1,13 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-21T11:34:07
+modified: 2025-02-09T15:53:46
+permalink:
 ---
+
 Macbeth is represented as an evil and morally bad person. Do you agree?
 
 

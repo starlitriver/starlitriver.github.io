@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
 permalink:
 ---
 
@@ -12,7 +14,6 @@ in fancy words, a bipartite graph is a graph in which the vertex set can be part
 
 by the way a bipartite graph can also be defined as a graph with a chromatic number of 2
 by the definition of chromatic number, a graph is $n$ chromatic 
-
 
 ## complete bipartite graph
 

@@ -3,12 +3,16 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2025-02-07T13:54:41
+modified: 2025-02-09T15:53:42
 permalink:
 ---
 
+## intro
+
 Please watch this [video](https://www.youtube.com/watch?v=8LebJXjbkfo) because it's really good.
 
-## intro
+## incidence
 
 The normal line passes through the point of incidence and is perpendicular to the surface.
 
@@ -39,7 +43,8 @@ The second part of Snell's law is $n_1v_1=n_2v_2$. Remember that $v=\lambda f$.
 %%[[refraction 2024-12-27 10.35.56.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 
-According to this, I shall make a metaphor. If you walk in a new forest that is less dense, you walk more normally. If it is more dense, you walk less normally.
+
+If $n_2$ is larger, angle of refraction is smaller. If smaller, angle of refraction is larger.
 
 ![[refraction 2024-12-25 13.57.25.excalidraw.svg|530]]
 %%[[refraction 2024-12-25 13.57.25.excalidraw.md|🖋 Edit in Excalidraw]]%%
@@ -54,7 +59,7 @@ Directly coming from Snell's law, $\theta_1=\sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin
 
 Directly coming from Snell's law, $\theta_{\text{crit}}=\sin^{-1}(\dfrac{n_2}{n_1})$, because $\theta_2=90\degree$
 
-If $\theta_1=\theta_{\text{crit}}$ then $\sin^{-1}(\dfrac{n_2}{n_1})=\sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin(\theta_2))$ then $\theta_2=90\degree$
+If $\theta_1=\theta_{\text{crit}}$ then $\sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin(\theta_2))=\sin^{-1}(\dfrac{n_2}{n_1})$ then $\theta_2=90\degree$
 
 ![[refraction 2024-12-27 10.20.46.excalidraw.svg|384]]
 %%[[refraction 2024-12-27 10.20.46.excalidraw.md|🖋 Edit in Excalidraw]]%%
@@ -69,8 +74,25 @@ So, there is no refraction, but reflection instead.
 ![[refraction 2024-12-27 10.51.30.excalidraw.svg|280]]
 %%[[refraction 2024-12-27 10.51.30.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-## more
 
-Snell's law also says that $n_1v_1=n_2v_2$
+For internal reflection to be possible, $n_2>n_1$ which in other words 
 
-If you recall your wave things, $v=f\lambda$
+Directly coming from Snell's law, $\theta_1=\sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin(\theta_2))$.
+$\theta_2 = 90\degree$
+Substitute $\theta_2 = 90\degree$ into $\sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin(\theta_2))$
+
+$\therefore \sin^{-1}(\dfrac{n_2}{n_1}\cdot \sin(90\degree))$ 
+
+$\theta_1=\sin^{-1}(\dfrac{n_2}{n_1}\cdot1)$
+
+$\theta_1=\sin^{-1}(\dfrac{n_2}{n_1})$
+
+$\theta_1>\theta_2$
+
+So $\sin^{-1}(\dfrac{n_2}{n_1})>90\degree$
+
+$\dfrac{n_2}{n_1}>\sin(90\degree)$
+
+$\dfrac{n_2}{n_1}>1$
+
+$n_2>n_1$

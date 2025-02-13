@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [organisms]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:47
 permalink:
 ---
 
@@ -11,7 +13,6 @@ an organism is any living thing that functions as an individual... such a defini
 organisms are between organ systems and populations in [[biological organization]]
 
 "organismality" is a proposed concept where there are multiple levels of how organism something is, defining degrees of cooperation and complexity
-
 
 | level                        | example                 | composition                                       | metabolism,  <br>growth,  <br>reproduction | co-operation                                                                                                                                                   |
 | ---------------------------- | ----------------------- | ------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

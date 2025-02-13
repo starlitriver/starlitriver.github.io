@@ -1,3 +1,12 @@
+---
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
+permalink:
+---
 
 Macbeth explores the impact of disrupting the natural order. Discuss.
 
@@ -12,4 +21,3 @@ Contention: Macbeth explores the impact of disrupting the natural order through 
 
 
 One - Shakespeare suggests that the supernatural world has ill intentions towards the natural order, so they disrupt it with the intention to destroy all life. The witches are characterised as manifestations of the unnatural world that aims to disrupt the natural order; their influence is shown time and time again as their deception and manipulation 
-

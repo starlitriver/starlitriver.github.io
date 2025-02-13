@@ -3,12 +3,14 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2025-02-07T13:50:50
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
-some of the most common trig function stuff are actually easy to memorize
+Common angles for trig functions. They are quite easy.
 
-please take your time to remember this table. just do it already
+Please take your time to remember this table. Just do it today.
 
 | $\theta$       | $0$ | $\dfrac{\pi}{6}$      | $\dfrac{\pi}{4}$      | $\dfrac{\pi}{3}$      | $\dfrac{\pi}{2}$ |
 | -------------- | --- | --------------------- | --------------------- | --------------------- | ---------------- |
@@ -16,9 +18,7 @@ please take your time to remember this table. just do it already
 | $\cos(\theta)$ | 1   | $\dfrac{\sqrt{3}}{2}$ | $\dfrac{\sqrt{2}}{2}$ | $\dfrac{1}{2}$        | 0                |
 | $\tan(\theta)$ | 0   | $\dfrac{1}{\sqrt{3}}$ | 1                     | $\sqrt{3}$            | undefined        |
 
-even if you forget, you can easily create this table anytime you wish
-
-we know which angle value make sine and cosine zero, and make the table like this
+But if you forget, you can easily create this table anytime you wish, just use these steps.
 
 | $\theta$       | $0$ | $\dfrac{\pi}{6}$ | $\dfrac{\pi}{4}$ | $\dfrac{\pi}{3}$ | $\dfrac{\pi}{2}$ |
 | -------------- | --- | ---------------- | ---------------- | ---------------- | ---------------- |
@@ -26,7 +26,7 @@ we know which angle value make sine and cosine zero, and make the table like thi
 | $\cos(\theta)$ | 4   | 3                | 2                | 1                | 0                |
 | $\tan(\theta)$ |     |                  |                  |                  |                  |
 
-and then take their square roots and divide by two to get the table
+Then take their square roots and divide by two to get the table
 
 | $\theta$       | $0$ | $\dfrac{\pi}{6}$      | $\dfrac{\pi}{4}$      | $\dfrac{\pi}{3}$      | $\dfrac{\pi}{2}$ |
 | -------------- | --- | --------------------- | --------------------- | --------------------- | ---------------- |

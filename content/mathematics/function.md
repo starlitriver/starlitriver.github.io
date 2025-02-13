@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [functions]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
 permalink:
 ---
 
@@ -33,29 +35,36 @@ and finally, the input and output are related with the equation $f(x)=x^2$
 
 for short, we often just say $f(x)=x^2$ and everything else in the function syntax are implied
 
-
 ## composite functions
+
 multiple functions can be combined in [[function composition]]
 
 ## multivariate functions
+
 a multivariate function, also called a multivariable function,
 is a [[relation]] that inputs or outputs more than one variable
 a function that has more than one input or output technically does not count as a function
 
 ## inverse functions
+
 a function $f$ has an [[inverse function]] $f^{-1}$ that can map the codomain onto the domain
 
 ## derivatives
+
 the [[derivative , differentitation]] of a function $f(x)$ is a function $g(x)$ such that for any constant $c$ , $g(c)$ is equal to the [[slope]] of the tangent line at $f(c)$
 
 ## exponential function
+
 a [[exponential function]]
 
 ## logarithmic function
+
 a [[logarithmic function]]
 
 ## power function
+
 a [[power function]]
 
 ## polynomials
+
 a [[polynomial]]

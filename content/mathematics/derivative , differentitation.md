@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [derivative, differentiate, differentiation]
 tags: []
+created: 2024-11-23T13:40:44
+modified: 2025-02-09T15:53:46
 permalink: derivative
 ---
 
@@ -12,7 +14,6 @@ A derivative is an [[operation]] that quantifies the sensitivity of change of a 
 
 The act of finding a derivative is called differentiation.
 Differentiation is the core of [[calculus , differential calculus , integral calculus|differential calculus]].
-
 
 ## syntax
 
@@ -33,8 +34,6 @@ $f'(x)=\lim \limits_{x \to c} \dfrac{f(x)-f(c)}{x-c}$
 
 this definition is explained in [[proof of finding derivative]]
 
-
-
 ## differentiability
 
 in calculus, we have a way to tell if you can perform a derivative on a function
@@ -43,19 +42,20 @@ for a point $x=c$ on function $f$: $f$ is not differentiable if $f$ is not conti
 
 if differentiable, then it must be continuous.
 
-
-
 ## derivative rules
 
 ### constant rule
+
 for any constant $c$, $\dfrac{d}{dx}\left[c\right]=0$
 
 ### variable rule
+
 $\dfrac{d}{dx}\left[x\right] = 1$
 
 ### constant multiple rule
 
 c is a constant $\dfrac{d}{dx}\left[c*f(x)\right] = c*\dfrac{d}{dx}\left[f(x)\right] = c*f'(x)$
+
 ### sum rule
 
 $\dfrac{d}{dx}\left[f(x)+g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] +\dfrac{d}{dx}\left[g(x)\right] = f'(x) + g'(x)$
@@ -66,9 +66,8 @@ it's exactly equal to the sum rule, no problem here
 
 $\dfrac{d}{dx}\left[f(x)-g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] -\dfrac{d}{dx}\left[g(x)\right] = f'(x) - g'(x)$
 
-
-
 ### power rule
+
 if $f(x) = x^n$ and $n\neq0$, then $f'(x)=n\cdot x^{n-1}$
 
 this means that to get $\dfrac{d}{dx}\left[ \sqrt[3]{x^2} \right]$ at $x=8$
@@ -88,6 +87,7 @@ $\dfrac{d}{dx}\left[f(x)g(x)\right] = f'(x)g(x)+f(x)g'(x)$
 $\dfrac{d}{dx}\left[\dfrac{f(x)}{g(x)}\right] = \dfrac{f'(x)g(x)-f(x)g'(x)}{g(x)^2}$
 
 #### where numerator is 1
+
 $\dfrac{d}{dx}\left[\dfrac{1}{f(x)}\right]=-\dfrac{f'(x)}{f(x)^2}$
 
 ### chain rule
@@ -120,7 +120,6 @@ $\text{if }a>0\text{, }\dfrac{d}{dx}\left[a^x\right] = \ln(a)*a^x$
 
 $\text{if }a>0\text{, and }a\neq1\text{, }\dfrac{d}{dx}\left[\log_a(x)\right] = \dfrac{1}{\ln(a)*x}$
 
-
 ### $f(x) = x^5+2x^3-x^2$
 
 $f'(x) = \dfrac{d}{dx}\left[f(x)\right] = \dfrac{d}{dx}\left[x^5+2x^3-x^2\right]$
@@ -128,7 +127,6 @@ $f'(x) = \dfrac{d}{dx}\left[f(x)\right] = \dfrac{d}{dx}\left[x^5+2x^3-x^2\right]
 $f'(x) = \dfrac{d}{dx}\left[x^5\right] + \dfrac{d}{dx}\left[2x^3\right] - \dfrac{d}{dx}\left[x^2\right]$
 
 $f'(x) = 5x^4+6x^2-2x^1$
-
 
 ### implicit differentiation
 
@@ -206,7 +204,6 @@ $\sin(f)+\cos(g)=\sqrt{2}$
 also, $\dfrac{df}{dt}=5$
 
 find $\dfrac{dg}{dt}$ when $y=\dfrac{\pi}{4}$ and $0<x<\dfrac{\pi}{2}$
-
 
 ### $\dfrac{d}{dt}\left[\sin(f(t))\right]+\dfrac{d}{dt}\left[\cos(g(t))\right]=\dfrac{d}{dt}\left[\sqrt{2}\right]$
 

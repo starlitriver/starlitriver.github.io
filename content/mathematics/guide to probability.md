@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -19,8 +21,6 @@ the union of events $A$ and $B$ is shown as $A\cup B$ and means the situation wh
 the intersection of events $A$ and $B$ is shown as $A\cap B$ and means the situation where both events happen. this is read as A and B
 
 ## addition and multiplication rules of probability
-
-
 
 two events $A$ and $B$ are mutually exclusive if $\text{Pr}(A\cap B)=0$. there is no possible overlap between the events
 
@@ -46,11 +46,12 @@ the probability of $A$ given that $B$ happened is depicted as $\text{Pr}(A|B)$, 
 
 to calculate conditional probability we use an equation derived from the multiplication rule of probability, $\text{Pr}(A|B)=\dfrac{\text{Pr}(A\cap B)}{\text{Pr}(B)}$
 
-
 ## permutations
+
 a [[permutation]] is a sequence of objects that are presented in a specific order. for example, if we have 10 books on a shelf and we need to pick 3 to put on another shelf, there are $P(10,3)$ ways to do that
 
 ## combinations
+
 [[combination]] means that we do not care about specific order of the elements
 that is, the tuples $(1,2,3)$ and $(3,2,1)$ are the same combination. for example, if we have 10 books on a shelf and we need to pick 3 of them to bring to a trip, there are $C(10,3)$ ways to do that
 

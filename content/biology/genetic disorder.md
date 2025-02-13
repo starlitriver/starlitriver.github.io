@@ -3,21 +3,22 @@ title:
 description: 
 aliases: [genetic disorders]
 tags: []
+created: 2025-02-07T14:01:50
+modified: 2025-02-10T17:43:56
 permalink:
 ---
 
-in genetics, a genetic disorder is a health problem cause by abnormalities in the genome
+A genetic disorder is a health problem cause by abnormalities in the genome
 
-there are over 6000 known genetic disorders
+There are over 6000 known genetic disorders
 
 if caused by a mutation in a single gene, it is a monogenic disorder
 if caused by mutations in multiple genes, it is a polygenic disorder
 
 
-glossary
-- [[genotype]]
+- genotype
 - [[phenotype]]
-- [[sex chromosome|allosome]]
+- [[sex chromosome , allosome , autosome|allosome]]
 - [[autosome]]
 - homologous - two homologous chromosomes are the same
 - homozygous - a cell that is homozygous for a trait has two same alleles for the trait
@@ -28,10 +29,10 @@ glossary
 the probability of phenotypes caused by genetic disorders is shown with [[Punnett square|Punnett squares]]
 the appearance of phenotypes caused by genetic disorders is shown with [[Pedigree chart|Pedigree charts]]
 
-
 ## autosomal disorder
 
 an autosomal disorder is a genetic disorder caused by a mutation in a gene located on an autosome (a chromosome that doesn't determine sex)
+
 ### autosomal dominant disorder
 
 a dominant phenotype is expressed equally in homozygous dominant and heterozygous individuals
@@ -51,9 +52,7 @@ phenotypic ratio is 1 affected : 1 unaffected
 | a   | Aa  | aa  |
 | a   | Aa  | aa  |
 
-
 ![[Wiki_Drawing_-_Autosomal_Dominant.svg|299]]
-
 
 ### autosomal recessive disorder
 
@@ -82,10 +81,7 @@ phenotypic ratio is 1 unaffected : 0 affected
 | A   | AA  | AA  |
 | a   | Aa  | Aa  |
 
-
 ![[Wiki_Drawing_-_Autosomal_Recessive.svg|326]]
-
-
 
 ### autosomal X-linked dominant disorder
 
@@ -105,9 +101,6 @@ phenotypic ratio is 1 affected female : 1 unaffected male
 | X^A | X^AX^a | X^AX^a |
 | Y   | X^aY   | X^aY   |
 
-
-
-
 in a X-linked dominant disorder, if the father is affected all daughter will be affected and no sons will be affected. It doesn’t skip a generation and if the mother is affected she has a 50% chance of passing it onto her offspring.
 
 - females are more commonly affected
@@ -124,13 +117,7 @@ phenotypic ratio is 1 affected female : 1 unaffected male
 | X^A | X^AX^a | X^AX^a |
 | Y   | X^aY   | X^aY   |
 
-
-
-
-
 ![[Wiki_Drawing_-_X-Linked_Dominant.svg|330]]
-
-
 
 ### autosomal X-linked recessive disorder
 
@@ -153,7 +140,6 @@ phenotypic ratio is 1 affected female : 1 affected male
 | X^a | X^aX^a | X^aX^a |
 | Y   | X^aY   | X^aY   |
 
-
 here is a Punnett square showing one affected female (X^aX^a) and one unaffected male (X^AY)
 in this case,
 genotypic ratio is `1 X^AX^a : 1 X^aY`
@@ -164,12 +150,10 @@ phenotypic ratio is 1 unaffected female : 1 affected male
 | X^A | X^AX^a | X^AX^a |
 | Y   | X^aY   | X^aY   |
 
-
 ![[Wiki_Drawing_-_X-Linked_Recessive.svg|338]]
 
-
-
 ## Y-linked disorder
+
 in a Y-linked disorder, only males can be affected. if the father is affected all sons will be affected
 
 here is a Punnett square showing one unaffected female (XX) and one unaffected male (XY^A)
@@ -182,11 +166,7 @@ phenotypic ratio is 1 unaffected female : 1 affected male
 | X   | XX   | XX   |
 | Y^A | XY^A | XY^A |
 
-
-
 ![[Wiki_Drawing_-_Y-Linked.svg|320]]
-
-
 
 ## mitochondrial disorder
 

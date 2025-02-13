@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [scalar, vectors]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:44
 permalink:
 ---
 
@@ -23,6 +25,7 @@ this can be represented with $\overrightarrow{AB}$, and its magnitude is denoted
 Euclidean vectors can be added and scaled to form a vector space
 
 ## row and column vectors
+
 [[matrix|matrices]] with a single row are called row vectors, and those with a single column are called column vectors
 
 for example, the column vector $\begin{bmatrix}3\\2\end{bmatrix}$ represents a vector $\overrightarrow{AB}$ where $A$ is at $(0,0)$ and $B$ is at $(3,2)$. the magnitude of this vector can be calculated using trig: $|\overrightarrow{AB}|=\sqrt{3^2+2^2}$

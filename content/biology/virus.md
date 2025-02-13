@@ -3,15 +3,17 @@ title:
 description: 
 aliases: [viral, viruses]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:47
 permalink:
 ---
 
-a virus is a submicroscopic infectious agent that only replicates inside the cells of an organism
+A virus is a submicroscopic infectious agent that only replicates inside the cells of an organism.
 
-viruses affect all cellular life
+Viruses affect all cellular life, so both eukaryotic cells and prokaryotic cells.
 
-when infected, a host cell is often forced to rapidly produce many copies of the original virus
+When infected, a host cell is often forced to rapidly produce many copies of the original virus, and that is the sole way a virus can reproduce.
 
-many viruses studied are spherical and have a diameter between 20 and 300 nanometers
+Many viruses studied are spherical and have a diameter between 20 and 300 nanometers.
 
-the structure of viruses can vary
+Viruses display a wide diversity of sizes and shapes.

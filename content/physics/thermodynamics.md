@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2025-01-30T13:13:11
+modified: 2025-02-09T15:53:42
 permalink:
 ---
 
@@ -29,7 +31,6 @@ Internal Energy and Work
 
 Entropy and Irreversibility
 Heat Engines and Refrigerators
-
 
 ## thermodynamic processes
 

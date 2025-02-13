@@ -3,14 +3,15 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2025-02-06T09:07:06
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
-biopolymers are natural [[polymer|polymers]] produced by cells of living organisms
+Biopolymers are natural polymers produced by cells of living organisms
 
-three main classes of biopolymers are
+
+Three main classes of biopolymers are
 - [[polynucleotide|polynucleotides]]
 - [[polypeptide|polypeptides]]
-- [[polysaccharide|polysaccharides]]
-
-for a list of biopolymers and their functions, see [[biopolymers comparison table]]
+- [[carbohydrate , monosaccharide , polysaccharide|polysaccharides]]

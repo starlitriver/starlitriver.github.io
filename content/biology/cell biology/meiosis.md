@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
@@ -37,32 +39,40 @@ crossing over and recombination occur between these pairs of synapsed homologous
 the nuclear membrane breaks down
 
 ## metaphase I
+
 pairs of homologous chromosomes line up along the equatorial plate at the center of the cell
 this occurs randomly through independent assortment
 spindle fibers attach to the centromeres of the chromosomes
 
 ## anaphase I
+
 disjunction of homologous chromosomes occurs when the spindle contracts, so one member of each homologous pair moves opposite poles of the cell
 
 ## telophase I
+
 chromosome become less condensed
 two new nuclear membranes form
 
 ## prophase II
+
 in both of the two daughter cells,
 chromosomes condense
 nuclear membrane breaks down
 spindle fibers form from the centrioles
 
 ## metaphase II
+
 in both of the two daughter cells,
 pairs of homologous chromosomes line up along the equatorial plate at the center of the cell
 this occurs randomly through independent assortment
 spindle fibers attach to the centromeres of the chromosomes
 
 ## anaphase II
+
 in both of the two daughter cells,
 sister chromatids separate
+
 ## telophase II
+
 chromosomes become less condensed and the 4 cells each form a new nuclear membrane
 resulting in 4 gametes

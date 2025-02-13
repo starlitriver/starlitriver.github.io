@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [trig function, trig functions, trigonometric function]
 tags: []
+created: 2024-12-04T21:50:47
+modified: 2025-02-09T15:53:44
 permalink:
 ---
 
@@ -38,14 +40,15 @@ $\tan(\theta)=\dfrac{\sin(\theta)}{\cos(\theta)}$
 [[how to evaluate trig functions]]
 [[how to graph trig functions]]
 
-
 ## notation
+
 trig functions can leave out the brackets where appropriate, like depicting $\sin(x)$ as $\sin x$
 
 a superscript right after the name of a trig function denotes exponentiation, for example, $\sin^2(x)=(\sin(x))^2$
 this is different to [[function composition]] where $f^2(x)=(f\circ f)(x)=f(f(x))$
 
 ## reciprocal trig functions
+
 sine, cosine and tangent trig functions have their [[multiplicative inverse|reciprocals]]
 
 related
@@ -62,7 +65,6 @@ $\sec(\theta)=\dfrac{1}{\cos(\theta)}$
 cotangent
 $\cot(\theta)=\dfrac{1}{\tan(\theta)}$
 $\cot(\theta)=\dfrac{\cos(\theta)}{\sin(\theta)}$
-
 
 ## inverse trig functions
 

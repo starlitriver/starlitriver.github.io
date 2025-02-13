@@ -3,17 +3,17 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-11T17:14:14
 permalink:
 ---
 
-the things inside a cell are separated from the outside by the cell membrane, which is a plasma membrane.
+All cells have cell membranes. A cell membrane surrounds the cell to separate its internal things, and allows interaction with external things controlled way.
 
-this "encasing of salad oil" effectively serves as a barrier that allows some lipid-soluble molecules and some small molecules to permeate the membrane, but the it effectively repels the many large, water-soluble molecules and electrically charged ions that the cell must import or export in order to live.
+## composition
 
-the cell membrane not only defines the borders of the cell, but also allows the cell to interact with its environment in a controlled way, being selectively permeable.
+The cell membrane is a plasma membrane. For information on the composition, structure and permeability of the cell membrane, see [[phospholipid , vesicle , bilayer , plasma membrane|phospholipid , vesicle , bilayer , plasma membrane]].
 
-## membrane composition
-see [[plasma membrane]]
 ## membrane transport
 
 ### passive diffusion

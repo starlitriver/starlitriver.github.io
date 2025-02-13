@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [jtb theory]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:43
 permalink:
 ---
 
@@ -23,16 +25,13 @@ the JTB theory says that if you believe something, if and only if, with justific
 
 however, the JTB theory is not logically complete, as illustrated in [[the gettier problem]]
 
-
 ### justification
 
 in order to know a thing, it is not enough to merely correctly believe it to be true, or to do lucky guesses; one must also have a good reason for doing so - one must have [[justification]]
 
-
 ### truth
 
 If one knows a thing then it must be true. No matter how well justified or sincere a belief, if it is not true that it cannot constitute knowledge. If a long-held belief is discovered to be false, then one must concede that what was thought to be known was in fact not known.
-
 
 ### belief
 

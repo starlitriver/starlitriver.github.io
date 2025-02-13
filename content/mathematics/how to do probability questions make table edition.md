@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-21T07:46:18
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -15,7 +17,6 @@ make a table
 | B   | 0.2 | 0.3 | 0.5 |
 | B'  | 0.2 | 0.3 | 0.5 |
 |     | 0.4 | 0.6 | 1   |
-
 
 $\text{Pr}(A\cup B)=0.7$
 
@@ -44,7 +45,6 @@ worked example: if A and B are mutually exclusive events and $\text{Pr}(A)=0.38$
 if A and B are mutually exclusive, $\text{Pr}(A\cap B)=0$
 make a table
 
-
 |     | A    | A'   |      |
 | --- | ---- | ---- | ---- |
 | B   | 0    | 0.51 | 0.51 |
@@ -57,7 +57,6 @@ $\text{Pr}(A\cup B)=0.89$
 worked example: if A and B independent events and $\text{Pr}(A)=0.3$ and $\text{Pr}(B)=0.4$, find $\text{Pr}(A\cup B)$
 if A and B are independent, $\text{Pr}(A\cap B)=\text{Pr}(A)\cdot\text{Pr}(B)$
 make a table
-
 
 |     | A    | A'   |     |
 | --- | ---- | ---- | --- |
@@ -77,7 +76,6 @@ $\text{Pr}(A\cup B)=0.7$ means that $\text{Pr}(A'\cap B')=0.3$
 | B   | 0.2 |     |     |
 | B'  |     | 0.3 |     |
 |     |     |     | 1   |
-
 
 we have to use some variables here
 
@@ -105,6 +103,5 @@ phew that was hard
 | B   | 0.2 | 0.1 | 0.3 |
 | B'  | 0.4 | 0.3 | 0.7 |
 |     | 0.6 | 0.4 | 1   |
-
 
 $\text{Pr}(A)=0.6$

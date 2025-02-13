@@ -3,9 +3,11 @@ title:
 description: 
 aliases: [biological systems]
 tags: []
+created: 2025-02-07T14:06:06
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
-a biological system is a complex network that connects several biologically relevant entities
+A biological system is a complex network that connects several biologically relevant entities.
 
-this includes [[organ system|organ systems]]
+This includes [[organ system|organ systems]].

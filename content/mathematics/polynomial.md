@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [polynomials]
 tags: []
+created: 2025-01-30T13:13:11
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -25,6 +27,7 @@ a polynomial's highest [[exponentiation|exponent]] is called the degree of the p
 [[how to use points to find polynomial|determine the equation of a polynomial with known points]]
 
 ## references
+
 https://en.wikipedia.org/wiki/Polynomial
 https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-graphs/x2ec2f6f830c9fb89:poly-end-behavior/a/end-behavior-of-polynomials
 https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:poly-graphs/x2ec2f6f830c9fb89:poly-graphs-together/a/graphs-of-polynomials

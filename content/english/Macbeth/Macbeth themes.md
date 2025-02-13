@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:46
 permalink:
 ---
 
@@ -25,7 +27,6 @@ prophecies
 
 the great chain of being
 gunpowder plot
-
 
 ## power and ambition
 
@@ -62,7 +63,6 @@ Infirm of purpose! Give me the daggers.
 Those he commands move only in command, nothing in love.
 
 Hang those that talk of fear.
-
 
 ## supernatural and nature and religion
 

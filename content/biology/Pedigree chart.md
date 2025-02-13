@@ -3,21 +3,24 @@ title:
 description: 
 aliases: [Pedigree charts]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T17:08:22
 permalink:
 ---
 
-in genetics, a pedigree chart is a diagram that shows the occurrence and appearance of phenotypes
+A Pedigree chart is a diagram that shows the historical appearance of phenotypes.
 
-compare with [[Punnett square|Punnett squares]] which shows probabilities of getting specific genotypes
-
-Pedigree charts are typically formatted
 - structured like a family tree
 - each row is a generation and labelled with roman numerals on the left
-- males are represented with squares
-- females are represented with circles
-- a shaded shape means the individual demonstrates the trait
-- a not shaded shape means the individual does not demonstrate the trait
-- a half shaded shape means the individual is a heterozygous carrier of the trait
+- males are squares
+- females are circles
+- shaded shape means the individual demonstrates the trait
+- not shaded shape means the individual does not demonstrate the trait
+- half shaded shape means the individual is a heterozygous carrier of the trait
 
 
-Pedigree charts can be seen in the page about [[genetic disorder|genetic disorders]]
+![[Wiki_Drawing_-_Autosomal_Dominant.svg|299]]
+
+![[Wiki_Drawing_-_Autosomal_Recessive.svg|326]]
+![[Wiki_Drawing_-_X-Linked_Dominant.svg|330]]
+![[Wiki_Drawing_-_Y-Linked.svg|320]]

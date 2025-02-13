@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -57,8 +59,6 @@ we can also reference the common angles table
 | $\sin(\theta)$ | 0   | $\dfrac{1}{2}$        | $\dfrac{\sqrt{2}}{2}$ | $\dfrac{\sqrt{3}}{2}$ | 1                |
 | $\cos(\theta)$ | 1   | $\dfrac{\sqrt{3}}{2}$ | $\dfrac{\sqrt{2}}{2}$ | $\dfrac{1}{2}$        | 0                |
 | $\tan(\theta)$ | 0   | $\dfrac{1}{\sqrt{3}}$ | 1                     | $\sqrt{3}$            | undefined        |
-
-
 
 worked example: evaluate $\csc(\dfrac{3\pi}{4})$
 cosecant corresponds to sine

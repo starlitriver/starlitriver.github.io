@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-12-04T21:51:30
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -19,7 +21,6 @@ now you should be able to do this exercise to test your concepts
 
 [[exercise - basic differentiation concepts]]
 
-
 ## list of definitions
 
 Now before we start things, I've arranged a list of definitions.
@@ -30,7 +31,6 @@ Please read.
 - Equations can be made into functions. If you were given $y=x+1$, its graph is the same as $y(x)=x+1$. Therefore, the derivative of function $y(x)$ is just $y'(x)$.
 - $f'(x)$ has many different appearances. $f'(x)=\dfrac{d}{dx}[x]$. We call it a few things, like "f prime of x", "derivative of f of x"...
 
-
 ## derivative rules
 
 What if you knew there was a way that's easier than using First Principles? It's derivative rules!
@@ -38,27 +38,29 @@ What if you knew there was a way that's easier than using First Principles? It's
 Originally derived from the principles we all know and love, these derivative rules only require you to remember them in exchange for faster differentiating.
 
 ### constant rule
+
 - Constant rule - derivative of the expression $c$ is $\dfrac{d}{dx}[c]=0$
 
 ### variable rule
+
 - Variable rule - derivative of the expression $x$ is $\dfrac{d}{dx}[x]=1$
 
 ### power rule
+
 - Power rule - derivative of the expression $x^n$ is $\dfrac{d}{dx}[x^n]=nx^{n-1}$
 
-
 ### constant multiple rule
+
 - Constant multiple rule - derivative of the expression $c \cdot f(x)$ is $\dfrac{d}{dx}[c \cdot f(x)]=c \cdot \dfrac{d}{dx}[f(x)]$
 
 ### sum rule
-- Sum rule - derivative of the expression $f(x)+g(x)$ is $\dfrac{d}{dx}[f(x)+g(x)]=\dfrac{d}{dx}[f(x)]+\dfrac{d}{dx}[g(x)]$
 
+- Sum rule - derivative of the expression $f(x)+g(x)$ is $\dfrac{d}{dx}[f(x)+g(x)]=\dfrac{d}{dx}[f(x)]+\dfrac{d}{dx}[g(x)]$
 
 ### sin(x) and cos(x)
 
 - derivative of $\sin(x)$ is $\dfrac{d}{dx}[\sin(x)]=\cos(x)$
 - derivative of $\cos(x)$ is $\dfrac{d}{dx}[\cos(x)]=-\sin(x)$
-
 
 ### things about the number e
 
@@ -111,7 +113,6 @@ The chain rule states that $\dfrac{d}{dx}[m(n(x))]=m'(n(x))\cdot n'(x)$
 
 Ready? Please check that you understand the chain rule with [this](https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review).
 
-
 ### product rule
 
 - Product rule - derivative of the expression $m(x)n(x)$ is $\dfrac{d}{dx}[m(x)n(x)]=m'(x)n(x)+m(x)n'(x)$
@@ -121,7 +122,6 @@ figure: Another visual aid. I love them.
 %%[[guide to differentiation 2024-11-25 11.33.13.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 [[practice product rule]]
-
 
 ### quotient rule
 
@@ -140,12 +140,7 @@ We see that the quotient rule is a bit similar to the product rule.
 
 [[practice quotient rule]]
 
-
-
-
 ## test your understanding!
-
-
 
 [[exercise - basic derivative rules]]
 

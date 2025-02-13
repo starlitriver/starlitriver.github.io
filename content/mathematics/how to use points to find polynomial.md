@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -53,8 +55,6 @@ $c=11$
 
 therefore the parabola is
 $y=3x^2-8x+11$
-
-
 
 ### 2 degree vertex form
 

@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-21T09:12:27
+modified: 2025-02-09T15:53:46
 permalink:
 ---
 
@@ -49,7 +51,6 @@ permalink:
 ## "Out, damned spot!" Shakespeare examines the corrupting nature of guilt. Discuss.
 
 ## "Look like the innocent flower but be the serpent under't." Macbeth is a tale about the hazards of trust. To what extent do you agree?
-
 
 Shakespeare constructs Macbeth as the villain of the story. To what extent do you agre?
 

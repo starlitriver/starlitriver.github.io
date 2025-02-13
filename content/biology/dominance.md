@@ -1,6 +1,11 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-14T20:37:10
+modified: 2025-02-09T15:53:48
+permalink:
 ---
 
 in genetics, dominance is the phenomenon of one allele of a gene on a chromosome overriding the effect of a different allele of the same gene on another copy of the chromosome

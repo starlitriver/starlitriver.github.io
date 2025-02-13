@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [catalysts]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:47
 permalink:
 ---
 
@@ -19,6 +21,7 @@ catalysts work by
 - changing the mechanism of the reaction. This also changes the nature (and energy) of the transition state.
 
 Catalysts are everywhere! Many biochemical processes, such as the oxidation of glucose, are heavily dependent on **enzymes**, proteins that behave as catalysts.
+
 ## types of catalysts
 
 ### enzymes
@@ -26,8 +29,6 @@ Catalysts are everywhere! Many biochemical processes, such as the oxidation of g
 ### acid-base catalysts
 
 ### heterogeneous catalysts
-
-
 
 ## references
 

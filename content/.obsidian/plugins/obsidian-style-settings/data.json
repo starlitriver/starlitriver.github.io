@@ -8,5 +8,9 @@
   "minimal-style@@h4-size": "1.25em",
   "minimal-style@@h5-size": "1.15em",
   "minimal-style@@h6-size": "1.1em",
-  "minimal-style@@list-indent": 2
+  "minimal-style@@list-indent": 2,
+  "floating-toc-styles@@floating-toc-remove-heading-indicator": true,
+  "floating-toc-styles@@toggle-floating-toc-header-color": true,
+  "floating-toc-styles@@floating-toc-highlight-color": "#C7B3FF",
+  "floating-toc-styles@@floating-toc-line-color@@light": "#A5B7FF"
 }

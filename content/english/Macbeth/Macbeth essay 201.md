@@ -1,6 +1,11 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-21T09:14:37
+modified: 2025-02-09T15:53:46
+permalink:
 ---
 
 "Look like the innocent flower but be the serpent under't." Macbeth is a tale about the hazards of trust. To what extent do you agree?

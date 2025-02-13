@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2025-02-07T13:40:07
+modified: 2025-02-09T15:53:46
 permalink:
 ---
 
@@ -38,6 +40,7 @@ we need to represent this data in a table that represents the
 | red   | 3/4 | 1/3   |
 | blue  | 1/4 | 2/3   |
 | total | 1   | 1     |
+
 this way, we find that the size of a basketball can relate to the basketball color, because a 3/4 of big basketballs are red, much larger compared to small basketballs, 1/3
 
 

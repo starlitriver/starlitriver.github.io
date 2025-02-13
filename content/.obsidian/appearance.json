@@ -6,5 +6,6 @@
     "latex-spacing",
     "spacing"
   ],
-  "showRibbon": false
+  "showRibbon": false,
+  "textFontFamily": "Amazon Ember"
 }

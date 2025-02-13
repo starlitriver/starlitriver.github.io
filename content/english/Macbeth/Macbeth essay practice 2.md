@@ -3,8 +3,11 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-21T07:41:39
+modified: 2025-02-09T15:53:46
 permalink:
 ---
+
 Through Macbeth, Shakespeare suggests that the world will crumble if the natural order is not maintained. Do you agree?
 
 prompt breakdown:

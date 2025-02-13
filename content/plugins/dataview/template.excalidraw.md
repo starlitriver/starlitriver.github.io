@@ -4,17 +4,19 @@ description:
 aliases: []
 tags: [excalidraw]
 created: 2024-11-04T20:43:20
-modified: 2024-11-04T20:51:37
+modified: 2025-02-09T15:53:42
 excalidraw-plugin: parsed
 permalink: 
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
-
 # Excalidraw Data
+
 ## Text Elements
+
 %%
+
 ## Drawing
 
 ```json

@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -38,7 +40,6 @@ $|\sin(2\pi-\theta)|=\sin(\theta)$
 
 for angle $\theta$ in the second quadrant, $|\sin(\theta)|$ is equal to {$\sin(2\pi-\theta)$}
 
-
 ### practice identifying supplementary identities
 
 worked example: if $\sin(a)=0.7$, evaluate $\sin(\pi+a)$
@@ -60,7 +61,6 @@ $-\sin(\pi-a)=-0.7$
 worked example: if $\cos(b)=0.6$, evaluate $\cos(2\pi+b)$
 the angle has been increased by a full circle so angle does not change
 $\cos(2\pi+b)=0.6$
-
 
 ### practice evaluating supplementary identities
 

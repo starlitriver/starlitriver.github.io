@@ -3,11 +3,11 @@ title: biochemistry
 description: 
 aliases: [biochemistry]
 tags: []
+created: 2025-02-06T09:21:30
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
-biochemistry is a branch of [[natural/biology/index|biology]] and [[natural/chemistry/index|chemistry]] that studies chemical processes within and relating to organisms
+Biochemistry is a branch of biology and chemistry that studies chemical processes within and relating to organisms.
 
-it is also a subset of [[organic chemistry]] since organisms are a subset of organic matter
-
-most of biochemistry deals with structures, bonding, functions and interactions of biological [[macromolecule|macromolecules]] because these are the main chemistry related processes in all biology
+Most of biochemistry deals with structures, bonding, functions and interactions of biological molecules.

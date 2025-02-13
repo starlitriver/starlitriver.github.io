@@ -3,25 +3,20 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:43
 permalink:
 ---
 
-here are some key takeaways about how to use Mathematica for some math stuff we usually use,
+Mathematica, the common usage things.
 
-here is a nice little [pdf](https://dornsife.usc.edu/mathcenter/wp-content/uploads/sites/159/2023/06/crib_sheet.pdf) someone made. it's a nice summary of the most important things to keep in mind
-
+Here's a nice little [pdf](https://dornsife.usc.edu/mathcenter/wp-content/uploads/sites/159/2023/06/crib_sheet.pdf) someone made, a nice summary of the most important things.
 
 ## how it works
 
-so Mathematica is the name of the app, and it works by having components
-first you input some stuff into the app, and the app will take that and express it in computer code stuff, which involves a lot of math stuff like axioms or whats...
+Mathematica is the name of the app. First you input some stuff into the app, and the app will take that and express it in computer code stuff, which involves a lot of math stuff like axioms or whats...
 anyway, once your input has been understood, there's the backend that does a lot of thinking
 and then you'll have your answer shown to you
-
-
-Mathematica
-
-
 
 ## basic usage
 
@@ -39,11 +34,9 @@ basic operations are kinda like how other calculators work, except that all the 
 like, to type $x=\sin(\pi)$ we type `x=Sin[Pi]`
 oh well
 
-
 ## stuff to keep in mind
 
 in Mathematica, the curly brackets are lists. i guess math calls them sets and you can call them whatever. just don't call them dictionaries or json objects.
-
 
 ## variables 
 

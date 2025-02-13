@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
@@ -31,7 +33,6 @@ as sister chromatids become visible, the nucleus disappears in prophase
 ![[mitosis 2024-11-12 17.00.59.excalidraw.svg|300]]
 %%[[mitosis 2024-11-12 17.00.59.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-
 ## metaphase
 
 the chromosomes start to line up at the equator of the cell and attach themselves to a spindle fiber
@@ -49,12 +50,10 @@ one chromatid from each chromosome is dragged in opposite directions of the cell
 
 spindle fibers shorten and pull each of the sister chromatids to either side of the cell by the kinetochore latching onto the spindle fibers
 
-
 ## telophase
 
 the chromosomes start to de-condense and become thinner
 new nuclear membranes starts to form around the chromosomes
-
 
 ## cytokinesis
 

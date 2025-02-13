@@ -3,12 +3,13 @@ title:
 description: 
 aliases: [tasks]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:43
 permalink:
 ---
 
 
 some attributes of tasks
-
 
 | attribute name           | default value if blank | type        | description                                           |
 | ------------------------ | ---------------------- | ----------- | ----------------------------------------------------- |

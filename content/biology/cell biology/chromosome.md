@@ -3,10 +3,12 @@ title:
 description: 
 aliases: [chromosomes]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
-a chromosome is a package of [[deoxyribonucleic acid|DNA]] with a portion of the genetic material of an organism
+a chromosome is a package of [[DNA , RNA , nucleic acid|DNA]] with a portion of the genetic material of an organism
 a chromosome may contain thousands of [[gene|genes]]
 
 glossary

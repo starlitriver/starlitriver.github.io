@@ -3,15 +3,19 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2025-01-30T13:13:11
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
 This is a part of [[guide to graphing functions]].
 
 ### y-intercept
+
 to find the y-intercept of a polynomial $f(x)$, we just need to make $x=0$ and find $f(0)$
 
 ### x-intercepts
+
 the x-intercepts of a polynomial is also called the roots of the polynomial
 
 to find the x-intercepts (zeros) of a polynomial $f(x)$, we need to find all $x$ values for which $f(x)=0$
@@ -20,6 +24,7 @@ the most common way to do this is to factorize and use the zero-product property
 s a quantity that depends on the coefficients and allows deducing some properties of the roots
 
 ### end behavior
+
 to find the [[end behavior]] of a polynomial, we can examine the leading term of the polynomial in standard form, which is a [[monomial]], and 
 
 $f(x)=(3x-2)(x+2)^2$

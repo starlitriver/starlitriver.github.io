@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
+permalink:
+---
+
 ## Lesson 1: Macbeth and Context
 
 Learning Intention:
@@ -19,6 +29,7 @@ We will establish a Macbeth glossary in your books. Each lesson you will have 5-
 The lesson question: Why is it that we look so closely at context prior to studying texts?
 
 ## Lesson 2: Macbeth and The Big Ideas
+
 Learning Intention:
 To develop an understanding of the big ideas found in Macbeth; focusing on ambition and its relationship to power.
 Success Criteria:
@@ -58,6 +69,7 @@ If time permits, continue to work on your context worksheet from last lesson.
 The lesson question: How could the evil deeds be linked to both AMBITION and GUILT?
 
 ## Lesson 3: Macbeth and The Supernatural
+
 Learning Intention:
 To understand how the supernatural plays a role in fate and destiny.
 Success Criteria:
@@ -105,6 +117,7 @@ https://youtu.be/UWyegNZOqQE?si=8gYLxhZxK-hhXSjc
 The lesson question: Do we only find the things we are looking for?
 
 ## Lesson 5: Macbeth and Language + Plot
+
 Learning Intention:
 To understand how Shakespearean language is constructed.
 Success Criteria:
@@ -126,6 +139,7 @@ It would be beneficial to follow along with your script.
 The lesson question: What is your biggest challenge with Shakespearean language?
 
 ## Lesson 8: Act 1 Scene 2
+
 Learning Intention:
 To understand how Macbeth is characterised at the beginning of the play.
 Success Criteria:
@@ -162,6 +176,7 @@ Please submit by the end of the lesson.
 The lesson question: Define Macbeth, Lady Macbeth, The Witches, Banquo in one word.
 
 ## Lesson 9: Act 1 Scene 3-4
+
 Learning Intention:
 To understand how Macbeth’s relationship with the unnatural/supernatural world as well as natural world impacts and influences his ambition.
 Success Criteria:
@@ -190,6 +205,7 @@ Construct a venn diagram comparing your findings from today on how the natural w
 The lesson question: What defines the “unnatural?”
 
 ## Lesson 10 + 11: Act 1: Scene 5 & 7Learning Intention:
+
 To understand the complexities and Macbeth and Lady Macbeth and to begin to analyse their characterisations.Success Criteria:
 I can…
 Examine Shakespeare’s immediate characterisation of Lady Macbeth.
@@ -222,6 +238,7 @@ SUBMIT ON TEAMS
 The lesson question: Who is the ultimate villain of Macbeth?
 
 ## Lesson 12: Act 2 Scene 1
+
 Learning Intention:
 To develop our understanding of Macbeth’s negotiation with ambition and the supernatural’s influence over him.
 Success Criteria:
@@ -259,6 +276,7 @@ Add your “THE LINE” to your notes.
 The lesson question: Does Macbeth have any control over his decisions?
 
 ## Lesson 13: Act 2 Scene 2
+
 Learning Intention:
 To explore how the death of Duncan relates to both power and the supernatural world, taking a close look at the role of religion during the Jacobean times.
 Success Criteria:
@@ -289,6 +307,7 @@ Executioner’s bloody hands
 The lesson question: How would you describe Macbeth’s world; both physically and internally?
 
 ## Lesson 14: Act 2 Scene 3
+
 Learning Intention:
 To investigate the purpose of comedic relief, with a focus on the context of the theatre.
 To examine reoccurring motifs and symbols so far in the text.
@@ -319,6 +338,7 @@ Submit on teams
 The lesson question: Why do you think nature is constantly referenced in Macbeth?
 
 ## Lesson 15: Act 3 Scenes 2 - 6
+
 Learning Intention: To continue our exploration into the unnatural world, focusing on the beginning of Macbeth’s downfall and corruption.
 Success Criteria:
 I can…
@@ -349,6 +369,7 @@ There the grown serpent lies; the worm, that fled, hath nature in time will veno
 The lesson question: How is Shakespeare defining the relationship between guilt and the mind?
 
 ## Lesson 15: Act 4 Scene 1
+
 Learning Intention:
 To understand the role of the witches further and Macbeth’s relationship with the supernatural.
 Success Criteria:
@@ -379,8 +400,8 @@ The text is largely about the theme of power and ambition. How does Shakespeare 
  
 The lesson question: Is Macbeth a tragic hero? Villain? Victim?
 
-
 ## Lesson 16: Act 4 Scene 2 and Act 5 Scene 1
+
 Learning Intention:
 To explore the tyranny that follows Macbeth’s encounter with the witches.  
 To shift our focus from Macbeth to Lady Macbeth and her relationship with guilt.**Success Criteria:**  

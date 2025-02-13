@@ -1,6 +1,11 @@
 ---
-aliases: 
-tags: 
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-21T09:17:16
+modified: 2025-02-09T15:53:46
+permalink:
 ---
 
 Macbeth is a honorable man corrupted by forces beyond his control. To what extent do you agree?

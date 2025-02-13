@@ -3,16 +3,20 @@ title:
 description: 
 aliases: [calculus, differential calculus, integral calculus]
 tags: []
+created: 2025-02-07T13:40:12
+modified: 2025-02-09T15:53:46
 permalink: calculus
 ---
 
 ## calculus
+
 [[guide to calculus]]
 
 Calculus is the mathematical study of continuous change.
 It is a broad concept used to understand rates of change and accumulation of values.
 
 ## differential calculus
+
 [[guide to differential calculus]]
 
 figure: Differential calculus studies rates of change. 
@@ -24,6 +28,7 @@ The derivative is an operation that quantifies the sensitivity of change of a fu
 Differentiation is finding the derivative, so this is what differential calculus is all about - the derivative.
 
 ## integral calculus
+
 [[guide to integral calculus]]
 
 figure: Integral calculus studies areas and accumulated change.

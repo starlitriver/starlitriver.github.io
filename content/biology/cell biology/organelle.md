@@ -3,12 +3,33 @@ title:
 description: 
 aliases: [organelles]
 tags: []
+created: 2024-12-03T09:27:52
+modified: 2025-02-11T16:10:23
 permalink:
 ---
 
-in cell biology, an organelle is a specialized [[cell|cellular]] part that has a specific function and is considered analogous to an organ
+An organelle is a specialized [[cell|cellular]] part that has a specific function.
 
-### major eukaryotic organelles
+The major eukaryotic organelles include the nucleus, cell membrane, cell wall, chloroplast, ER, Golgi apparatus, mitochondrion, and vacuole.
+
+
+
+## cell membrane
+
+The [[cell membrane]] separates the cell interior from the outside environment.
+
+All cells have them.
+
+
+## cell wall
+
+The cell wall is a rigid structure composed of cellulose, to provide structure.
+
+Plants and protists can have them.
+
+## chloroplast
+
+
 
 
 | organelle                 | main function                                                                                | organisms        |
@@ -22,8 +43,6 @@ in cell biology, an organelle is a specialized [[cell|cellular]] part that has a
 | [[mitochondrion]]         | does energy production and releases ATP                                                      | most eukaryotes  |
 | [[nucleus]]               | does DNA maintenance, controls all activities of the cell, RNA transcription                 | all eukaryotes   |
 | [[vacuole]]               | is a large vesicle for storage                                                               | all eukaryotes   |
-
-### minor eukaryotic organelles
 
 | organelle     | main function                                                                        | organisms       |
 | ------------- | ------------------------------------------------------------------------------------ | --------------- |

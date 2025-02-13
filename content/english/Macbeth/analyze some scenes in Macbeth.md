@@ -1,3 +1,12 @@
+---
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
+permalink:
+---
 
 act 2 scene 2:
 
@@ -159,4 +168,3 @@ he doesn't care about his wife or anything else much.
 he feels existential and how much effect do your actions actually have? he'll die in his short life and then be replaced by another king.
 
 what have i accomplished? i killed people but what have i done?
-

@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
@@ -10,8 +12,6 @@ the cell cycle is the series of events that take place in a cell that causes it 
 
 it is essential to maintain a suitable number of cells
 [[cell division]] refers to the process in which 
-
-
 
 ## eukaryotic cell cycle
 

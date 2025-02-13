@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -23,10 +25,7 @@ remember $C(n,k)=\dfrac{n!}{(n-k)!(k!)}$
 
 also use the [[Pascal's triangle]] to calculate combinations quickly
 
-
 ## practice things
-
-
 
 worked example: what is $C(4,0)$
 $\dfrac{4!}{(0!)(4!)}$

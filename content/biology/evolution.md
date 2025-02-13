@@ -3,7 +3,9 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2025-02-07T14:21:13
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
-in genetics, evolution is the change in the heritable characteristics of biological [[population|populations]]
+Evolution is the change in the heritable characteristics of biological populations.

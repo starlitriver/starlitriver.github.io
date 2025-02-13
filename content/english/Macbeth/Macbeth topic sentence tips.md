@@ -1,3 +1,12 @@
+---
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
+permalink:
+---
 the topic sentence should not be restricted to anything at all.
 
 do not only talk about a single character.
@@ -23,20 +32,13 @@ In Macbeth, Shakespeare depicts guilt as a destructive force that disrupts inner
 For context, he was very distressed by the fact that Banquo still lives,
 this is an epitome of the troubles that drove Macbeth towards ruin.
 
-
-
-
-
 ##
+
 
 In Macbeth, Shakespeare presents the unnatural world as a "breach in nature" and exposes the manipulative nature of unnatural forces.
 Shakespeare uses pathetic fallacies to 
-
-
 
 ##
 Shakespeare shows that ambition not only causes moral decay, but also causes guilt that ultimately causes demise. Lady Macbeth was portrayed as a very ambitious character who demanded that Macbeth pursued . Her ambition
 
 ##
-
-

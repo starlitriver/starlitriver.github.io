@@ -1,3 +1,13 @@
+---
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
+permalink:
+---
+
 ## Foreword
 
 This document tried to be an accurate translation of Macbeth.
@@ -34,7 +44,6 @@ Witches
 Apparitions
 Lords, Soldiers, Servants, Messengers
 
-
 ## Act 1
 
 ### Scene 1
@@ -66,7 +75,6 @@ Witch 3: At once!
 
 All: Fair is foul, and foul is fair. Hove through the fog and filthy air.
 
-
 ### Scene 2
 
 Set in a battlefield camp, near Forres
@@ -92,6 +100,7 @@ Sergeant: Yes - As much as sparrows dismay eagles or hares lions. To say the tru
 Duncan: 
 
 ### Scene 3
+
 Witch 1: Where have you been, sister?
 
 Witch 2: Killing swine.
@@ -175,9 +184,7 @@ Banquo: (to Ross and Angus) Look how our partner is in contemplation.
 
 Macbeth: (aside) If chance will have me king, chance may crown me without me actively doing anything.
 
-
 ## Act 2
-
 
 ### Scene 3
 

@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:47
 permalink: macbeth
 ---
 
@@ -55,9 +57,6 @@ The Ghost of Banquo and several other Apparitions.
 
 SCENE: In the end of the Fourth Act, in England; through the rest of
 the Play, in Scotland; and chiefly at Macbeth’s Castle.
-
-
-
 
 ## ACT I
 
@@ -914,13 +913,9 @@ False face must hide what the false heart doth know.
 
  [_Exeunt._]
 
-
-
-
 ## ACT II
 
 ### SCENE I. Inverness. Court within the Castle.
-
 
  Enter Banquo and Fleance with a torch before him.
 
@@ -1600,13 +1595,9 @@ That would make good of bad, and friends of foes!
 
  [_Exeunt._]
 
-
-
-
 ## ACT III
 
 ### SCENE I. Forres. A Room in the Palace.
-
 
  Enter Banquo.
 
@@ -2459,13 +2450,9 @@ I’ll send my prayers with him.
 
  [_Exeunt._]
 
-
-
-
 ## ACT IV
 
 ### SCENE I. A dark Cave. In the middle, a Cauldron Boiling.
-
 
  Thunder. Enter the three Witches.
 
@@ -3388,13 +3375,9 @@ The night is long that never finds the day.
 
  [_Exeunt._]
 
-
-
-
 ## ACT V
 
 ### SCENE I. Dunsinane. A Room in the Castle.
-
 
  Enter a Doctor of Physic and a Waiting-Gentlewoman.
 

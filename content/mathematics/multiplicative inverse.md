@@ -3,6 +3,8 @@ title:
 description: 
 aliases: [reciprocal, reciprocals]
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -13,6 +15,7 @@ also known as reciprocal, for a number $x$ is the number that when multiplied by
 not to be confused with [[inverse function]]
 
 ## notation
+
 the reciprocal of $x$ is depicted as $\dfrac{1}{x}$
 $x^{-1}$
 

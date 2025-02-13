@@ -3,19 +3,24 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2025-02-07T14:14:59
+modified: 2025-02-09T15:53:48
 permalink:
 ---
 
-in biology, the human digestive system is an [[organ system]] that does [[digestion]]
+The human digestive system is an [[organ system]] used for digestion.
 
-it consists of the gastrointestinal tract and the accessory organs of digestion including the tongue, salivary glands, pancreas, liver and gallbladder
+It consists of the gastrointestinal tract and the accessory organs of digestion including the tongue, salivary glands, pancreas, liver and gallbladder
 
-## outline of how the digestive system works
-first we have the mechanical chewing that breaks the food up into pieces to be swallowed
-saliva contains enzymes called amylase that chemically breaks down sugars 
-oesophagus is a tube connected to the stomach, pushing food down into the stomach
-the stomach is filled with a strong acid that breaks the food down chemically, and the stomach muscles also chorn the food
-the pancreas releases enzymes and indirectly break down macromolecules in the small intestine
-the gallbladder releases bile into the small intestine and breaks down fats
-the small intestine absorbs most of the food, with cells that have lots of surface area for absorbtion of the nutrients
-the large intestine absorbs water left over from the small intestine, and makes faecal matter from leftoover waste products of digestion
+## intro
+
+- Mechanical chewing that breaks the food up into pieces.
+- Saliva contains enzymes called amylase that chemically breaks down sugars 
+The oesophagus is a tube connected to the stomach, pushing food down into the stomach.
+
+- The stomach is filled with a strong acid that breaks the food down chemically, and the stomach muscles also churn the food.
+- The pancreas releases enzymes and indirectly break down macromolecules in the small intestine.
+
+- The gallbladder releases bile into the small intestine and breaks down fats
+- The small intestine absorbs most of the food, with cells that have lots of surface area for absorption of the nutrients.
+- The large intestine absorbs water left over from the small intestine.

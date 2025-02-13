@@ -3,6 +3,8 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:11
+modified: 2025-02-09T15:53:45
 permalink:
 ---
 
@@ -12,7 +14,6 @@ have a look at what [[trigonometric functions|trig functions]] are
 it is important to be able to evaluate most trig function values without a calculator
 
 it's a long journey ahead of us, and we'll learn all this step by step...
-
 
 ## common angles
 
@@ -33,7 +34,6 @@ looking at the unit circle, this is a table showing the signs of the outputs of 
 
 we can make a shorter table that we need to remember. just remember the letters "ASTC"
 
-
 | quadrant | what is positive |
 | -------- | ---------------- |
 | 1        | all              |
@@ -47,7 +47,6 @@ this is important, because this is the easiest way to find out the sign of an an
 
 [[how to evaluate trig functions with symmetry properties]]
 
-
 ## supplementary identities
 
 [[how to evaluate trig functions with supplementary identities]]
@@ -55,7 +54,6 @@ this is important, because this is the easiest way to find out the sign of an an
 ## complementary identities
 
 [[how to evaluate trig functions with complementary identities]]
-
 
 ## sum and difference identities
 

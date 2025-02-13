@@ -3,32 +3,53 @@ title:
 description: 
 aliases: []
 tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-11T18:54:40
 permalink:
 ---
 
-in biology, photosynthesis is the process which plants use to generate glucose using water and carbon dioxide
+Photosynthesis is the process of generating glucose. Photosynthesis inputs water and carbon dioxide and outputs glucose, water, and oxygen.
 
-this is really important to the functions of plants
+Chemical equation of photosynthesis: $\mathrm{12H_2O+6CO_{2}\rightarrow C_6H_{12}O_6+6H_2O+6O_2}$
 
-photosynthesis is done with the [[chloroplast]], an organelle in plant cells
+## light dependent reaction
 
-the chemical equation of photosynthesis is $\mathrm{12H_O+6CO_{2}\rightarrow C_6H_{12}O_6+6H_2O+6O_2}$
+The light dependent reaction uses light energy to split the water into oxygen and hydrogen. It occurs in thylakoids in the chloroplast.
 
-photosynthesis occurs in two stages - firstly the light dependent reactions and then the Calvin cycle
 
-## light dependent reactions
-light-dependent reactions are photochemical reactions involved in photosynthesis that involve using light energy
-light is absorbed by chlorophyll, a pigment called chlorophyll
+Sunlight is absorbed by chlorophyll, a pigment called chlorophyll
 once light is absorbed water molecules are split into hydrogen and oxygen atoms, releasing electrons in the process
 the hydrogen and electrons go through the [[electron transport chain]] in order to attach a phosphate onto ADP in order to create ATP
 
 
+Inputs:
+- light
+- water
+- NADP+
+- ADP
+
+Outputs:
+- NADPH
+- ATP
+- oxygen
+
+A thylakoid is a disc thing in the chloroplast.  A stack of them is a granum.
 
 
 
-## Calvin cycle
-the Calvin cycle, also known as light-independent reactions and C3 cycle, is part of [[photosynthesis]] that is a series of chemical reactions that convert carbon dioxide and hydrogen-carrier compounds into glucose
+NADP+ is a carrier molecule that can carry a hydrogen atom. It carries hydrogen to and from the thylakoids 
 
-these reactions take the products of [[light dependent reactions]], ATP and NADPH, and perform further chemical processes
+## light independent reaction
 
-in the first step of the Calvin cycle, a $\mathrm{CO_2}$ molecule 
+The light independent reaction (also the Calvin cycle) takes carbon dioxide and the previous products of NADPH and ATP to fix the carbon dioxide gas into G3P, for making glucose.
+
+
+Inputs:
+- carbon dioxide
+- NADPH
+- ATP
+
+Outputs:
+- G3P (can be used to make glucose)
+- NADP+
+- ADP

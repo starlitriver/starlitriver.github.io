@@ -1,3 +1,12 @@
+---
+title: 
+description: 
+aliases: []
+tags: []
+created: 2024-11-19T21:16:10
+modified: 2025-02-09T15:53:46
+permalink:
+---
 Characters of conscience have one fatal weakness: ambition. To what extent do you agree?
 
 - Macbeth and Lady Macbeth have conscience. But their ambition is evil because it drives them towards evil.
