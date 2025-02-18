@@ -8,7 +8,7 @@ modified: 2025-02-09T15:53:46
 permalink:
 ---
 
-In sociolinguistics, a register is a variety of language used for a particular purpose or communicative situation.
+A register is a variety of language used for a particular purpose or communicative situation.
 
 For example, formal settings often have more formal words and less contractions.
 

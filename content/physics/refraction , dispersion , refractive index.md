@@ -4,15 +4,21 @@ description:
 aliases: []
 tags: []
 created: 2025-02-07T13:54:41
-modified: 2025-02-09T15:53:42
+modified: 2025-02-15T16:40:21
 permalink:
 ---
+
+## refractive index
+
+The refractive index is a ratio of "the speed of light" to "the speed of light in a specific medium", at specific values of the following conditions:
+- frequency (therefore wavelength) of the light
+- 
+
+For example, the 
 
 ## intro
 
 Please watch this [video](https://www.youtube.com/watch?v=8LebJXjbkfo) because it's really good.
-
-## incidence
 
 The normal line passes through the point of incidence and is perpendicular to the surface.
 
@@ -96,3 +102,13 @@ $\dfrac{n_2}{n_1}>\sin(90\degree)$
 $\dfrac{n_2}{n_1}>1$
 
 $n_2>n_1$
+
+## dispersion
+
+Hello there.
+
+
+
+
+![[refraction , dispersion 2025-02-14 17.39.58.excalidraw.svg|410]]
+%%[[refraction , dispersion 2025-02-14 17.39.58.excalidraw.md|🖋 Edit in Excalidraw]]%%

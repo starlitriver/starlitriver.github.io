@@ -4,7 +4,7 @@ description:
 aliases: [organelles]
 tags: []
 created: 2024-12-03T09:27:52
-modified: 2025-02-11T16:10:23
+modified: 2025-02-14T17:35:59
 permalink:
 ---
 
@@ -12,14 +12,11 @@ An organelle is a specialized [[cell|cellular]] part that has a specific functio
 
 The major eukaryotic organelles include the nucleus, cell membrane, cell wall, chloroplast, ER, Golgi apparatus, mitochondrion, and vacuole.
 
-
-
 ## cell membrane
 
 The [[cell membrane]] separates the cell interior from the outside environment.
 
 All cells have them.
-
 
 ## cell wall
 
@@ -28,9 +25,6 @@ The cell wall is a rigid structure composed of cellulose, to provide structure.
 Plants and protists can have them.
 
 ## chloroplast
-
-
-
 
 | organelle                 | main function                                                                                | organisms        |
 | ------------------------- | -------------------------------------------------------------------------------------------- | ---------------- |
