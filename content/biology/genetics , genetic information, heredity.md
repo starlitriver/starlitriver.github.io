@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-02-07T14:26:04
-modified: 2025-02-10T17:51:37
+modified: 2025-02-23T16:21:16
 permalink: genetics
 ---
 
@@ -25,7 +25,15 @@ Genetic information ordered by size:
 
 ## genetic information
 
+A genotype is a part of DNA that codes for a trait in an organism.
+
 A phenotype is an observable trait.
+
+The type of cell needed to use in sexual reproduction to form a zygote is called a gamete.
+
+An allele is a variant of a gene with a unique genotype. However, two alleles can have the same phenotype.
+
+When an organism has both a dominant and recessive allele for a trait, the organism is heterozygous for the trait. In contrast, if same then is homozygous for the trait.
 
 
 An organism has the same number of [[chromosome|chromosomes]] in each of its cells. This number is called the diploid number.
@@ -70,7 +78,27 @@ the genotype of an organism is its complete set of genetic material.
 "genotype" may also refer to a genetic trait in an organism
 
 
+The diploid number is the number of chromosomes in an organism.
 
+Somatic cells are the bodily cells of an organism.
+
+The diploid number in humans is 46.
+
+
+
+
+
+
+
+
+
+
+
+Chromosomes that determine the sex are ==allosomes (also sex chromosomes)== and chromosomes that do not are ==autosomes==.
+
+```anki
+Chromosomes that determine the sex are ==allosomes (also sex chromosomes)== and chromosomes that do not are ==autosomes==.
+```
 
 an allele is a variant of a gene with a unique genotype, and when the genotype is expressed into unique phenotypes
 
@@ -85,7 +113,65 @@ heterozygous means carrying both genotypes, but the dominant one is expressed an
 homozygous means that both genotypes are the same
 
 
+Interphase is the phase before mitosis, in charge of DNA replication.
 
-references
+```anki
+==Interphase== is the phase before mitosis, in charge of DNA replication.
+```
+
+The aim of a cell doing mitosis is to ==divide into two identical cells.==
+
+```anki
+The aim of a cell doing mitosis is to ==divide into two identical cells.==
+```
+
+The phases of mitosis in are ==prophase, metaphase, anaphase, telophase and cytokinesis.==
+
+```anki
+The phases of mitosis in are ==prophase, metaphase, anaphase, telophase and cytokinesis.==
+```
+
+During prophase of mitosis, ==the chromosomes condense and centrosomes move to opposite poles of the cell.== During metaphase of mitosis, ==the chromosomes move and line up at the center of the cell and attaches to spindle fibers.== During anaphase of mitosis, ==chromosome pairs are split by spindle fibers and moved to different directions.== During telophase of mitosis, ==chromosomes start to de-condense, nuclear membrane starts to re-form.== During cytokinesis of mitosis, ==the cell membrane splits.==
+
+```anki
+During prophase of mitosis, ==the chromosomes condense and centrosomes move to opposite poles of the cell.== During metaphase of mitosis, ==the chromosomes move and line up at the center of the cell and attaches to spindle fibers.== During anaphase of mitosis, ==chromosome pairs are split by spindle fibers and moved to different directions.== During telophase of mitosis, ==chromosomes start to de-condense, nuclear membrane starts to re-form.== During cytokinesis of mitosis, ==the cell membrane splits.==
+
+```
+
+The aim of meiosis is ==to divide into 4 genetically different gametes (which are haploid cells).==
+
+```anki
+The aim of meiosis is ==to divide into 4 genetically different gametes (which are haploid cells).==
+```
+
+Before meiosis we have ==a diploid cell== and after we have ==four haploid cells.==
+
+```anki
+Before meiosis we have ==a diploid cell== and after we have ==four haploid cells.==
+```
+
+ The ==Golgi apparatus== does ==sorting, packaging, processing and modification of proteins.==
+
+```anki
+The ==Golgi apparatus== does ==sorting, packaging, processing and modification of proteins.==
+```
+
+The ==ribosome== does ==translation in protein synthesis.==
+
+```anki
+The ==ribosome== does ==translation in protein synthesis.==
+```
+
+The ==mitochondria== does ==cellular respiration.==
+
+```anki
+The ==mitochondria== does ==cellular respiration.==
+```
+
+Organelles that all eukaryotic cells have are ==cell membrane, ER, Golgi apparatus, nucleus, vacuole, and ribosome.==
+
+```anki
+Organelles that all eukaryotic cells have are ==cell membrane, ER, Golgi apparatus, nucleus, vacuole, and ribosome.==
+```
 
 https://en.wikipedia.org/wiki/List_of_organisms_by_chromosome_count

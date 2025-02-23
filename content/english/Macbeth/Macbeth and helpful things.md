@@ -16,7 +16,7 @@ This is Macbeth. Labels are added next to the best quotes, for the footnotes.
 
 Additionally, these are other things.
 
-[[words to show your ideas]]
+[[synonyms of show]]
 [[Macbeth prompts]]
 [[Macbeth themes]]
 [[Macbeth quotes meanings]]

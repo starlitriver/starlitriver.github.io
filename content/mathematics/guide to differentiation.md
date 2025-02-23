@@ -4,20 +4,15 @@ description:
 aliases: []
 tags: []
 created: 2024-12-04T21:51:30
-modified: 2025-02-09T15:53:45
+modified: 2025-02-22T19:06:16
 permalink:
 ---
-
-- [[derivative , differentitation|differentiation]]
-- [[limit]]
 
 ## start on calculus
 
 [[guide to differentiation - a start on calculus]]
 
 calculus is yours to learn!
-
-now you should be able to do this exercise to test your concepts
 
 [[exercise - basic differentiation concepts]]
 
@@ -144,7 +139,6 @@ We see that the quotient rule is a bit similar to the product rule.
 
 [[exercise - basic derivative rules]]
 
-[[exercise - using lots of derivative rules]]
 
 
 [[exercise - differentiation but a test on your reasoning]]
@@ -153,3 +147,6 @@ We see that the quotient rule is a bit similar to the product rule.
 
 
 [[exercise - differentiation but you factorize first]]
+
+
+[[exercise - differentiation application questions]]

@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-02-07T14:11:33
-modified: 2025-02-18T10:35:27
+modified: 2025-02-19T16:22:16
 permalink:
 ---
 
@@ -20,6 +20,7 @@ Steps of cellular respiration:
 
 Glycolysis, (also called anaerobic respiration) is the part of [[cellular respiration]] that doesn't require oxygen, converting glucose into pyruvate while releasing free energy used to form ATP and NADH.
 
+Occurs in the cytoplasm.
 
 Input:
 - 2 ATP
@@ -32,22 +33,35 @@ Output:
 
 The Krebs cycle (also the citric acid cycle) is a series of reactions in cellular respiration used to release the energy stored in nutrients.
 
-Occurs in the mitochondrion matrix.
+Occurs in the mitochondrial matrix.
+
+Pyruvate is converted to acetyl CoA, which enters the cycle.
+
 
 Input:
-- pyruvate
+- 2 acetyl CoA (converted from pyruvate)
+- 6 NAD⁺
+- 2 FAD
 
 Output:
-- carbon dioxide
+- 4 carbon dioxide
+- 2 ATP
+- 6 NADH
+- 2 FADH₂
 
 ## electron transport chain
 
 An electron transport chain (ETC) is a series of protein complexes and molecules that transfer electrons from electron donors to electron acceptors via redox reactions.
 
-Occurs in the mitochondrion cristae.
+Occurs in the mitochondrion cristae (foldings in the middle).
 
 Input:
 - oxygen
+- 10 NADH
+- 2 FADH₂
+
 Output:
 - water
-- about 26 to 28 ATP per glucose
+- 26 to 28 ATP
+- NAD⁺
+- FAD

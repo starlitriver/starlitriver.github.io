@@ -16,7 +16,7 @@ $ax^2+bx+c=0$
 
 ## with quadratic formula
 
-we can use the [[quadratic formula]] as a last resort
+we can use the [[quadratic formula , discriminant]] as a last resort
 
 ## completing the square
 

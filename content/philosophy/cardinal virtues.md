@@ -4,22 +4,24 @@ description:
 aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-02-09T15:53:43
+modified: 2025-02-19T14:40:29
 permalink:
 ---
 
-the cardinal virtues are the four [[virtue|virtues]] in classical philosophy
+The cardinal virtues are the four [[virtue|virtues]] in classical philosophy
 
-## [[prudence]]
+## prudence
 
-the ability to discern the appropriate course of action to be taken in a situation at the appropriate time
+Prudence is the ability to discern the appropriate course of action to be taken in a situation at the appropriate time
 
-## [[justice]]
+## justice
 
-fairness and honesty
+Justice is how individuals are to be treated in a manner that is equitable and fair.
 
-## [[fortitude]]
+We always want there to be justice. So we want "a fair and just world"
 
-## [[temperance]]
+## fortitude
 
-also known as restraint, the practice of self control
+## temperance
+
+Temperance is the practice of self control.

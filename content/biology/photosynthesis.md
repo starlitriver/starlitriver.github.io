@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-02-11T18:54:40
+modified: 2025-02-19T16:28:19
 permalink:
 ---
 
@@ -14,12 +14,14 @@ Chemical equation of photosynthesis: $\mathrm{12H_2O+6CO_{2}\rightarrow C_6H_{12
 
 ## light dependent reaction
 
-The light dependent reaction uses light energy to split the water into oxygen and hydrogen. It occurs in thylakoids in the chloroplast.
+The light dependent reaction uses light energy to split the water into oxygen and hydrogen.
+
+Occurs in thylakoid membranes.
 
 
 Sunlight is absorbed by chlorophyll, a pigment called chlorophyll
 once light is absorbed water molecules are split into hydrogen and oxygen atoms, releasing electrons in the process
-the hydrogen and electrons go through the [[electron transport chain]] in order to attach a phosphate onto ADP in order to create ATP
+the hydrogen and electrons go through the electron transport chain in order to attach a phosphate onto ADP in order to create ATP.
 
 
 Inputs:
@@ -43,6 +45,7 @@ NADP+ is a carrier molecule that can carry a hydrogen atom. It carries hydrogen 
 
 The light independent reaction (also the Calvin cycle) takes carbon dioxide and the previous products of NADPH and ATP to fix the carbon dioxide gas into G3P, for making glucose.
 
+Occurs in the stroma.
 
 Inputs:
 - carbon dioxide

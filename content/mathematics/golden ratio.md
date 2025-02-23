@@ -18,7 +18,7 @@ it looks like the golden ratio can only be defined in terms of itself :/
 luckily, we can find the exact value of the golden ratio using some algebra
 $\phi^2=\phi+1$
 $\phi^2-\phi-1=0$
-let us use the [[quadratic formula]]
+let us use the [[quadratic formula , discriminant]]
 
 $\phi=\dfrac{1\pm\sqrt{5}}{2}$
 since it is a ratio, it must be at least 1

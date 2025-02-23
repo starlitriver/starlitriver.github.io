@@ -4,11 +4,15 @@ description:
 aliases: []
 tags: []
 created: 2025-01-30T13:13:11
-modified: 2025-02-09T15:53:45
+modified: 2025-02-19T17:59:40
 permalink:
 ---
 
 This is a part of [[guide to graphing functions]].
+
+
+
+- [[how to graph 3 degree polynomials]]
 
 ### y-intercept
 
@@ -48,5 +52,3 @@ worked example: graph $y=(x-1)(x+1)$
 x-intercepts: (1,0), (-1,0)
 
 the degree is 2 and the product of the x coefficients is positive, so the graph starts from upper left and goes to upper right
-
-worked 
