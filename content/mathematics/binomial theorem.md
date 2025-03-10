@@ -8,7 +8,7 @@ modified: 2025-02-09T15:53:46
 permalink:
 ---
 
-in algebra, the binomial theorem describes the algebraic expansion of [[exponentiation|exponents]] of a binomial
+in algebra, the binomial theorem describes the algebraic expansion of [[exponent|exponents]] of a binomial
 
 the binomial theorem says it is possible to expand the polynomial $(x+y)^n$ into a sum involving terms of the form $ax^by^c$ where $b$ and $c$ are non-negative integers and $a=C(n,b)$ where $C$ is the [[combination]] function
 

@@ -4,11 +4,20 @@ description:
 aliases: []
 tags: []
 created: 2025-02-07T13:39:21
-modified: 2025-02-23T19:21:09
+modified: 2025-03-10T15:24:56
 permalink:
 ---
 
 Lexicology is the study of words.
+
+
+A lexeme is typically one word, or sometimes a few words together.
+
+```anki
+id: 1741560844182
+---
+A lexeme is ==typically one word, or sometimes a few words together.==
+```
 
 | word class      | abbreviation |
 | --------------- | ------------ |
@@ -37,6 +46,14 @@ Proper nouns are specific rather than generic, and are capitalized. They are not
 
 Differences between lexicon and lexis. Lexis is the vocabulary of an individual. Lexicon is the vocabulary of the language.
 
+### proper noun
+
+A proper noun is always capitalised.
+
+### collective noun
+
+A collective noun include the names for groups of things. For example, people, family, government, herd, swarm.
+
 ## pronoun
 
 Pronouns replace nouns and noun phrases, and lets us avoid repeating nouns. Pronouns include "me, you, him, her, them, us ,it".
@@ -51,11 +68,17 @@ Pronouns replace nouns and noun phrases, and lets us avoid repeating nouns. Pron
 | relative      | Which, what, who, whom, whose, that.                    | The train that is red.   |
 | demonstrative | Refers                                                  |                          |
 
+## adjective
+
+An adjective is a word that describes something.
+
+Tell if you can say "most adjective".
+
 ## verb
 
 Verbs express actions.
 
-A verb is a word that can take an -ing ending, or you can replace with "do".
+Tell if you can say "to verb".
 
 | tense and aspect            | example                                                 | meaning                                                                                                  |
 | --------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -80,9 +103,13 @@ The infinitive form of a verb allows the verb to be used as a noun, adjective or
 
 ### modal verb
 
-A modal verb is used to change the meaning of another verb.
+A modal verb ==is used to change the meaning of another verb. Main modal verbs include can, could, may, might, must, shall, should, will and would.==
 
-Main modal verbs include can, could, may, might, must, shall, should, will and would.
+```anki
+id: 1741479248060
+---
+A modal verb ==is used to change the meaning of another verb. Main modal verbs include can, could, may, might, must, shall, should, will and would.==
+```
 
 ### auxiliary verb
 
@@ -96,17 +123,19 @@ For example: I *am* going. He *has* gone. They *have* finished the book.
 
 #### modal auxiliary verb
 
-Called modals for short, modal auxiliary verbs express the possibility, ability, intent, obligation, or necessity of an action occurring.
+Called modals for short. 
 
-They modify verbs to change their mode (the state in which they exist).
+A modal is a modal auxiliary verb. A modal auxiliary verb expresses the possibility, ability, intent, obligation, or necessity of an action occurring. A modal auxiliary verb can take the "n't" ending.
+
+
+Semi-modals behave like modals but they are phrases.
+
+- `ought to`
+- `need to`
+- `have to`
+- `dare to`
 
 For example, shall, can, will, would, could, should, must, may, might...
-
-An auxiliary verb can take the "n't" ending.
-
-## adjective
-
-An adjective is a word that describes something, and can be replaced with the word "red".
 
 ## adverb
 
@@ -128,14 +157,21 @@ For example, of, through, under, over, against.
 
 A conjunction links words, phrases, clauses and sentences together, enabling the formation of compound and complex sentence structures, and the demonstration of relationships between words or phrases from the same class.
 
-For example, FANBOYS - for, and, nor, but, or, yet, so.
+### coordinating conjunction
 
-### coordinator
+A coordinating conjunction joins two or more independent clauses.
 
-They join two or more independent clauses.
-It is a part of a sentence with a verb and a subject.
+Coordinating conjunctions. ==There are seven coordinating conjunctions in English. For, and, nor, but, or, yet, so. A mnemonic is FANBOYS.==
 
-### subordinator
+For example. The cake was small but it was sweet. "But" is a coordinating conjunction.
+
+```anki
+id: 1741479248385
+---
+Coordinating conjunctions. ==There are seven coordinating conjunctions in English. For, and, nor, but, or, yet, so. A mnemonic is FANBOYS.==
+```
+
+### subordinating conjunction
 
 They join clauses that are dependent on some other clauses for the main idea.
 
@@ -143,7 +179,52 @@ They join clauses that are dependent on some other clauses for the main idea.
 
 A determiner gives us information about nouns, about number, definiteness, and possession.
 
-For example, some apples, many apples, lots of apples, these apples, those apples, an apple, whose apples, my apples, their apples.
+- the - a known noun
+- a - a non-specific noun
+- this
+- that
+- these
+- those
+
+### quantifier
+
+A quantifier is ==a determiner that expresses quantity or amount. For example: All apples are yum. Several apples are yum.==
+
+```anki
+id: 1741479248685
+---
+A quantifier is ==a determiner that expresses quantity or amount. For example: All apples are yum. Several apples are yum.==
+```
+
+- `all`
+- `any`
+- `some`
+- `no` / `none`
+- `every`
+- `each`
+- `either`
+- `neither`
+- `both`
+- `much`
+- `many`
+- `more`
+- `most`
+- `few`
+- `fewer`
+- `fewest`
+- `little`
+- `less`
+- `least`
+- `enough`
+- `several`
+- `plenty of` (informal)
+- `a lot of` (informal)
+- `lots of` (informal)
+
+### numbers
+
+ - `one`, `two`, `three`, `four`, `five`, etc. (These are determiners when they modify a noun; they can also be nouns themselves.)
+- `first`, `second`, `third`, `fourth`, `fifth`, etc. (These are determiners when they modify a noun; they can also be adverbs.
 
 ## interjection
 

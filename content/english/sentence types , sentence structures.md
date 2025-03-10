@@ -4,16 +4,18 @@ description:
 aliases: []
 tags: []
 created: 2025-02-20T10:12:06
-modified: 2025-02-23T12:44:18
+modified: 2025-03-02T15:36:47
 permalink:
 ---
-
+   1
 ## sentence types
 
 There are four sentence types: declarative, imperative, interrogative, and exclamative.
 
 ```anki
-There are four sentence types in English: ==declarative, imperative, interrogative, and exclamative.==
+id: 1740889658584
+---
+Sentence types are ==declarative, imperative, interrogative, and exclamative.==
 ```
 
 ### declarative
@@ -47,12 +49,20 @@ Often ends in an exclamation mark.
 There are five sentence structures: simple, compound, complex, compound-complex, and fragment.
 
 ```anki
-There are five sentence structures: ==simple, compound, complex, compound-complex, and fragment.==
+id: 1740889658735
+---
+Sentence structures are ==simple, compound, complex, compound-complex, and fragment.==
 ```
 
 ### simple sentences
 
-Simple sentences contain only one independent clause.
+A simple sentence contain only one independent clause.
+
+```anki
+id: 1740890185414
+---
+A simple sentence ==contain only one independent clause.==
+```
 
 Example: The functions in the English language study design are Jacobson's six functions of language.
 
@@ -60,19 +70,37 @@ Example: The big hairy spider ate the very powerful witch.
 
 ### compound sentences
 
-Contains two or more independent clauses, often joined by a coordinating conjunction (FANBOYS).
+A compound sentence contains two or more independent clauses, often joined by a coordinating conjunction (FANBOYS).
+
+```anki
+id: 1740890185492
+---
+A compound sentence ==contains two or more independent clauses, often joined by a coordinating conjunction (FANBOYS).==
+```
 
 Example: Bring your textbook to class and pay attention.
 
 ### complex sentences
 
-Contains one independent clause and at least one dependent clauses, under a subordinating conjunction.
+A complex sentence contains one independent clause and at least one dependent clause under a subordinating conjunction.
+
+```anki
+id: 1740890185569
+---
+A complex sentence ==contains one independent clause and at least one dependent clause under a subordinating conjunction.==
+```
 
 Example: If you want to win, you must study hard while managing your time.
 
 ### compound complex sentences
 
-Contains at least three clauses and has both coordinating and subordinating clauses.
+A compound complex sentence contains at least three clauses and has both coordinating and subordinating clauses.
+
+```anki
+id: 1740890185644
+---
+A compound complex sentence ==contains at least three clauses and has both coordinating and subordinating clauses.==
+```
 
 Example: While the oven is preheating, stir the eggs and add sugar.
 

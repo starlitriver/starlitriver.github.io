@@ -30,7 +30,7 @@ $f(x)=ax^2+bx+c$
 - find the turning point with axis of symmetry or with x-intercepts
 
 ```anki
-id: 1740272617123
+id: 1741511532220
 ---
 A quadratic in standard form is $f(x)=ax^2+bx+c$. The axis of symmetry is ==$x=\dfrac{-b}{2a}$==.
 ```
@@ -44,7 +44,7 @@ $f(x)=a(x-h)^2+k$
 - find the x-intercepts by substituting $y=0$
 
 ```anki
-id: 1740272617199
+id: 1741511533020
 ---
 A quadratic in turning point form is ==$f(x)=a(x-h)^2+k$==. The turning point
 ```

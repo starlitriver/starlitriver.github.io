@@ -4,7 +4,7 @@ description:
 aliases: [derivative, differentiate, differentiation]
 tags: []
 created: 2024-11-23T13:40:44
-modified: 2025-02-09T15:53:46
+modified: 2025-03-09T10:59:46
 permalink: derivative
 ---
 
@@ -46,59 +46,95 @@ if differentiable, then it must be continuous.
 
 ### constant rule
 
-for any constant $c$, $\dfrac{d}{dx}\left[c\right]=0$
+$\dfrac{d}{dx}\left[c\right]=0$
+
+```anki
+id: 1741511532045
+---
+$\dfrac{d}{dx}\left[c\right]$ = ==$0$==
+```
 
 ### variable rule
 
 $\dfrac{d}{dx}\left[x\right] = 1$
 
-### constant multiple rule
-
-c is a constant $\dfrac{d}{dx}\left[c*f(x)\right] = c*\dfrac{d}{dx}\left[f(x)\right] = c*f'(x)$
-
-### sum rule
-
-$\dfrac{d}{dx}\left[f(x)+g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] +\dfrac{d}{dx}\left[g(x)\right] = f'(x) + g'(x)$
-
-### difference rule
-
-it's exactly equal to the sum rule, no problem here
-
-$\dfrac{d}{dx}\left[f(x)-g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] -\dfrac{d}{dx}\left[g(x)\right] = f'(x) - g'(x)$
+```anki
+id: 1741511532821
+---
+$\dfrac{d}{dx}\left[x\right]$ = ==1==
+```
 
 ### power rule
 
-if $f(x) = x^n$ and $n\neq0$, then $f'(x)=n\cdot x^{n-1}$
+$\dfrac{d}{dx}[x^{n}]=n\cdot x^{n-1}$
 
-this means that to get $\dfrac{d}{dx}\left[ \sqrt[3]{x^2} \right]$ at $x=8$
+```anki
+id: 1741511533420
+---
+==$\dfrac{d}{dx}[x^{n}]$== = ==$n\cdot x^{n-1}$==
+```
 
-we could evaluate $\dfrac{d}{dx}\left( x^{\dfrac{2}{3}} \right)$, which is equal to $\dfrac{2}{3}*x^{\left(\dfrac{2}{3}-1\right)}$, which is equal to $\dfrac{2}{3}*x^{-\dfrac{1}{3}}$
+### constant multiple rule
 
-substitute $x=8$, we get $\dfrac{2}{3}*8^{-\dfrac{1}{3}}$, which is equal to $\dfrac{1}{3}$
+$\dfrac{d}{dx}\left[c \cdot f(x)\right] = c \cdot \dfrac{d}{dx}\left[f(x)\right]$
 
-this means that if $y=x^13$, then $\dfrac{d}{dx}\left[ y \right] = 13x^{12}$
+```anki
+id: 1741511533922
+---
+==$\dfrac{d}{dx}\left[c \cdot f(x)\right]$== = ==$c \cdot f'(x)$==
+```
+
+### sum rule
+
+$\dfrac{d}{dx}\left[f(x)+g(x)\right] = \dfrac{d}{dx}\left[f(x)\right] +\dfrac{d}{dx}\left[g(x)\right]$
+
+```anki
+id: 1741511534597
+---
+==$\dfrac{d}{dx}\left[f(x)+g(x)\right]$== = ==$f'(x)+g'(x)$==
+```
 
 ### product rule
 
 $\dfrac{d}{dx}\left[f(x)g(x)\right] = f'(x)g(x)+f(x)g'(x)$
 
+```anki
+id: 1741511534896
+---
+==$\dfrac{d}{dx}\left[f(x)g(x)\right]$== = ==$f'(x)g(x)+f(x)g'(x)$==
+```
+
 ### quotient rule
 
 $\dfrac{d}{dx}\left[\dfrac{f(x)}{g(x)}\right] = \dfrac{f'(x)g(x)-f(x)g'(x)}{g(x)^2}$
 
-#### where numerator is 1
+```anki
+id: 1741511535196
+---
+$\dfrac{d}{dx}\left[\dfrac{f(x)}{g(x)}\right]$ = ==$\dfrac{f'(x)g(x)-f(x)g'(x)}{g(x)^2}$==
+```
+
+Hers is a subset of the quotient rule.
 
 $\dfrac{d}{dx}\left[\dfrac{1}{f(x)}\right]=-\dfrac{f'(x)}{f(x)^2}$
+
+```anki
+id: 1741511535395
+---
+$\dfrac{d}{dx}\left[\dfrac{1}{f(x)}\right]$ = ==$-\dfrac{f'(x)}{f(x)^2}$==
+```
 
 ### chain rule
 
 $\dfrac{d}{dx}\left[f(g(x))\right] = f'(g(x))\cdot g'(x)$
 
-here is an example of the chain rule
+```anki
+id: 1741511535596
+---
+$\dfrac{d}{dx}\left[f(g(x))\right]$ = ==$f'(g(x))\cdot g'(x)$==
+```
 
-$\dfrac{d}{dx}\left[\ln(\sin(x))\right] = \dfrac{1}{\sin(x)}\cdot\cos(x)$
-
-### other
+### more derivative rules
 
 $\dfrac{d}{dx}\left[\sin(x)\right] = \cos(x)$
 

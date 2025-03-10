@@ -4,18 +4,18 @@ description:
 aliases: []
 tags: []
 created: 2025-01-30T13:13:11
-modified: 2025-02-23T19:34:12
+modified: 2025-03-02T15:28:52
 permalink:
 ---
 
-Jacobson's functions of language are referential, emotive, conative, poetic, phatic, metalinguistic.
+Functions of language are Jacobson's functions of language. Referential, emotive, conative, poetic, phatic, metalinguistic.
 
 A text can achieve multiple functions simultaneously. For example, conative texts can often be poetic, such as in advertising.
 
 ```anki
-id: 1740272618048
+id: 1740889658809
 ---
-Jacobson's functions of language are ==referential, emotive, conative, poetic, phatic, metalinguistic.==
+Functions of a text can be ==Jacobson's functions of language. Referential, emotive, conative, poetic, phatic, metalinguistic.==
 ```
 
 ## referential function
@@ -23,7 +23,7 @@ Jacobson's functions of language are ==referential, emotive, conative, poetic, p
 The referential function is the sharing of information with an intended audience. The language user presents the message as factual and objective, often using declarative sentences.
 
 ```anki
-id: 1740272618073
+id: 1740889658960
 ---
 The referential function is ==the sharing of information with an intended audience. The language user presents the message as factual and objective, often using declarative sentences.==
 ```
@@ -39,7 +39,7 @@ Also called the expressive function.
 The conative function aims to cause the audience to think, feel, or act in a certain way.
 
 ```anki
-id: 1740272618122
+id: 1740889659110
 ---
 The conative function ==aims to cause the audience to think, feel, or act in a certain way.==
 ```
@@ -49,7 +49,7 @@ The conative function ==aims to cause the audience to think, feel, or act in a c
 The poetic function focuses on the formation of the message itself, concerning the art of the text’s composition, rather than the audience.
 
 ```anki
-id: 1740272618150
+id: 1740889659460
 ---
 The poetic function ==focuses on the formation of the message itself, concerning the art of the text’s composition, rather than the audience.==
 ```
@@ -61,7 +61,7 @@ Also called the aesthetic function.
 The phatic function intends to create and maintain social connections.
 
 ```anki
-id: 1740272618172
+id: 1740889659859
 ---
 The phatic function ==intends to create and maintain social connections.==
 ```

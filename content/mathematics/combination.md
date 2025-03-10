@@ -1,10 +1,10 @@
 ---
 title: 
 description: 
-aliases: [combinations]
+aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-02-22T19:04:09
+modified: 2025-03-09T11:19:43
 permalink:
 ---
 
@@ -15,15 +15,11 @@ in other words, if a set has $n$ elements and we need to select $k$ of them and 
 
 A k-combination can be represented in one of these ways. $C(n,k)={}^{n}C_{k}=C_{k}^{n}=\displaystyle\binom{n}{k}$
 
-%%
-
 ```anki
-id: 1740272617723
+id: 1741511532095
 ---
-The combination function is ==$C(n,k)=\dfrac{n!}{(n-k)!(k!)}$==
+$C(n,k)$ = ==$\dfrac{n!}{k!(n-k)!}$==
 ```
-
-%%
 
 Symmetry seen in Pascal's triangle is represented with the equation $C(n,k)=C(n,n-k)$.
 

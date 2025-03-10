@@ -22,6 +22,14 @@
     },
     {
       "folder": "physics",
+      "deck": "physics"
+    },
+    {
+      "folder": "english",
+      "deck": "english"
+    },
+    {
+      "folder": "biochemistry",
       "deck": ""
     }
   ],

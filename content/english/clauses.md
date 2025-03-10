@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-02-19T08:57:29
-modified: 2025-02-23T12:42:49
+modified: 2025-03-02T20:47:41
 permalink:
 ---
 
@@ -88,9 +88,13 @@ Object Complement: "over there"
 
 ## adverbial phrases
 
-An adverbial phrase is an adverb phrase or prepositional phrase.
+An adverbial phrase is an adverb phrase or prepositional phrase. It is very easy to move around an adverbial phrase.
 
-It is very easy to move around an adverbial phrase.
+```anki
+id: 1740890185022
+---
+An adverbial phrase is ==an adverb phrase or prepositional phrase. It is very easy to move around an adverbial phrase.==
+```
 
 Example - The cat is sleeping on my lap.
 Subject: "the cat"
@@ -102,7 +106,6 @@ Example - The bus will arrive in the morning.
 Subject: "the bus"
 
 Adverbial: "in the morning"
-
 
 Example - Obviously a writer of this book likes potato cakes.
 Subject: "a writer of this book"

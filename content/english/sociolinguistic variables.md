@@ -4,13 +4,15 @@ description:
 aliases: []
 tags: []
 created: 2025-02-23T19:36:41
-modified: 2025-02-23T19:52:01
+modified: 2025-03-02T15:34:59
 permalink:
 ---
 
 The sociolinguistic variables are cultural context, register, audience, purpose, and situational context. You can remember them with "CRAPS".
 
 ```anki
+id: 1740889658561
+---
 The sociolinguistic variables are ==cultural context, register, audience, purpose, and situational context.==
 ```
 

@@ -97,6 +97,8 @@ The diploid number in humans is 46.
 Chromosomes that determine the sex are ==allosomes (also sex chromosomes)== and chromosomes that do not are ==autosomes==.
 
 ```anki
+id: 1741511532970
+---
 Chromosomes that determine the sex are ==allosomes (also sex chromosomes)== and chromosomes that do not are ==autosomes==.
 ```
 
@@ -116,24 +118,32 @@ homozygous means that both genotypes are the same
 Interphase is the phase before mitosis, in charge of DNA replication.
 
 ```anki
+id: 1741511533546
+---
 ==Interphase== is the phase before mitosis, in charge of DNA replication.
 ```
 
 The aim of a cell doing mitosis is to ==divide into two identical cells.==
 
 ```anki
+id: 1741511534296
+---
 The aim of a cell doing mitosis is to ==divide into two identical cells.==
 ```
 
 The phases of mitosis in are ==prophase, metaphase, anaphase, telophase and cytokinesis.==
 
 ```anki
+id: 1741511534696
+---
 The phases of mitosis in are ==prophase, metaphase, anaphase, telophase and cytokinesis.==
 ```
 
 During prophase of mitosis, ==the chromosomes condense and centrosomes move to opposite poles of the cell.== During metaphase of mitosis, ==the chromosomes move and line up at the center of the cell and attaches to spindle fibers.== During anaphase of mitosis, ==chromosome pairs are split by spindle fibers and moved to different directions.== During telophase of mitosis, ==chromosomes start to de-condense, nuclear membrane starts to re-form.== During cytokinesis of mitosis, ==the cell membrane splits.==
 
 ```anki
+id: 1741511535046
+---
 During prophase of mitosis, ==the chromosomes condense and centrosomes move to opposite poles of the cell.== During metaphase of mitosis, ==the chromosomes move and line up at the center of the cell and attaches to spindle fibers.== During anaphase of mitosis, ==chromosome pairs are split by spindle fibers and moved to different directions.== During telophase of mitosis, ==chromosomes start to de-condense, nuclear membrane starts to re-form.== During cytokinesis of mitosis, ==the cell membrane splits.==
 
 ```
@@ -141,36 +151,48 @@ During prophase of mitosis, ==the chromosomes condense and centrosomes move to o
 The aim of meiosis is ==to divide into 4 genetically different gametes (which are haploid cells).==
 
 ```anki
+id: 1741511535271
+---
 The aim of meiosis is ==to divide into 4 genetically different gametes (which are haploid cells).==
 ```
 
 Before meiosis we have ==a diploid cell== and after we have ==four haploid cells.==
 
 ```anki
+id: 1741511535471
+---
 Before meiosis we have ==a diploid cell== and after we have ==four haploid cells.==
 ```
 
  The ==Golgi apparatus== does ==sorting, packaging, processing and modification of proteins.==
 
 ```anki
+id: 1741511535671
+---
 The ==Golgi apparatus== does ==sorting, packaging, processing and modification of proteins.==
 ```
 
 The ==ribosome== does ==translation in protein synthesis.==
 
 ```anki
+id: 1741511535821
+---
 The ==ribosome== does ==translation in protein synthesis.==
 ```
 
 The ==mitochondria== does ==cellular respiration.==
 
 ```anki
+id: 1741511535972
+---
 The ==mitochondria== does ==cellular respiration.==
 ```
 
 Organelles that all eukaryotic cells have are ==cell membrane, ER, Golgi apparatus, nucleus, vacuole, and ribosome.==
 
 ```anki
+id: 1741511536122
+---
 Organelles that all eukaryotic cells have are ==cell membrane, ER, Golgi apparatus, nucleus, vacuole, and ribosome.==
 ```
 

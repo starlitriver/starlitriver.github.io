@@ -4,17 +4,19 @@ description:
 aliases: []
 tags: []
 created: 2025-01-30T13:13:11
-modified: 2025-02-23T19:44:34
+modified: 2025-03-02T15:31:48
 permalink:
 ---
 
 A register is a language variation across subsystems like lexicon, grammar and pronunciation, used for a particular situation.
 
-```anki
-A register is ==a language variation across subsystems like lexicon, grammar and pronunciation, used for a particular situation.==
-```
+We always describe the register of a text with how formal it is.
 
-A formal register means more formal words and less contractions.
+```anki
+id: 1740889658634
+---
+The register of a text may be ==moderately informal. A register is a language variation across subsystems like lexicon, grammar and pronunciation, used for a particular situation.==
+```
 
 One model describes five register styles in spoken English:
 - Frozen: Also referred to as static register. Printed unchanging language, such as biblical quotations; often contains archaisms. Examples are the Pledge of Allegiance of the United States of America and other "static" vocalizations. The wording is exactly the same every time it is spoken.
