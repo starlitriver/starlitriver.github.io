@@ -1,11 +1,11 @@
 ---
 title: 
 description: 
-aliases: [microtubules]
+aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-02-09T15:53:48
+modified: 2025-03-20T21:14:39
 permalink:
 ---
 
-in cell biology, microtubules are [[polymer]] of a protein called tubulin 
+A microtubule is a polymer of the protein tubulin.

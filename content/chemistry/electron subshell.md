@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-02-09T09:29:52
-modified: 2025-03-09T10:10:42
+modified: 2025-03-16T11:51:17
 permalink: chemistry intro
 ---
 

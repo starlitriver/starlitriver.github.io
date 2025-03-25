@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2024-11-19T21:16:11
-modified: 2025-02-09T15:53:45
+modified: 2025-03-23T09:38:42
 permalink:
 ---
 
@@ -36,7 +36,7 @@ trig identities are just equations that can help you evaluate trig expressions
 
 essentially, trig identities provide us the ability to convert between sine and cosine and to express a trig expression in different ways
 
-[[list of trigonometric identities]]
+[[trig identity]]
 
 by forming a right angle triangle on a unit circle and using Pythagorean theorem, we get the Pythagorean identity: $\sin^2(a)+\cos^2(a)=1$
 

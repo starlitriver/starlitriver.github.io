@@ -8,7 +8,7 @@ modified: 2025-02-09T15:53:45
 permalink:
 ---
 
-the double and half angle [[list of trigonometric identities|trig identities]] are useful in evaluating more stuff
+the double and half angle [[trig identity|trig identities]] are useful in evaluating more stuff
 
 ## double angle identities
 

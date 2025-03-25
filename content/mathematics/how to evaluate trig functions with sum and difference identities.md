@@ -8,7 +8,7 @@ modified: 2025-02-09T15:53:45
 permalink:
 ---
 
-the sum and difference [[list of trigonometric identities|trig identities]] are useful in evaluating more stuff
+the sum and difference [[trig identity|trig identities]] are useful in evaluating more stuff
 
 the proof for these are quite intense, better not to worry
 

@@ -15,7 +15,7 @@ cells are between organelles and tissues in [[biological organization]]
 
 everything inside a cell except the [[nucleus]] is called the [[cytoplasm]], enclosed within the [[cell membrane]] and held together by the [[cytoskeleton]]
 
-the two main types of cells are [[prokaryote|prokaryotes]] and [[eukaryote|eukaryotes]]
+the two main types of cells are [[prokaryotic cell|prokaryotes]] and [[eukaryote|eukaryotes]]
 to sort by taxonomy, we have [[plant cell|plant cells]] and [[animal cell|animal cells]]
 
 the surface area of a cell determines how many molecules can move in and out of the cell

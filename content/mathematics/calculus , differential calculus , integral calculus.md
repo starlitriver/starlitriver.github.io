@@ -23,7 +23,7 @@ figure: Differential calculus studies rates of change.
 ![[calculus 2024-11-17 11.32.58.excalidraw.svg|260]]
 %%[[calculus 2024-11-17 11.32.58.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-The core of differential calculus is the [[derivative , differentitation|derivative]].
+The core of differential calculus is the [[derivative|derivative]].
 The derivative is an operation that quantifies the sensitivity of change of a function's output, used to find the rate of change.
 Differentiation is finding the derivative, so this is what differential calculus is all about - the derivative.
 

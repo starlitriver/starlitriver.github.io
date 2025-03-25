@@ -1,13 +1,13 @@
 ---
 title: 
 description: 
-aliases: [centriole]
+aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-02-09T15:53:48
+modified: 2025-03-20T21:16:11
 permalink:
 ---
 
-in cell biology, a centriole is a cylindrical [[organelle]] 
+A centriole is a cylindrical [[organelle]].
 
-centrioles are typically made up of nine sets of short [[microtubule|microtubules]] composed of mainly a protein called tubulin
+Centrioles are typically made up of nine sets of short [[microtubule|microtubules]].

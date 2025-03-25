@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-02-22T19:04:11
-modified: 2025-03-10T09:47:48
+modified: 2025-03-23T09:20:19
 permalink:
 ---
 
@@ -93,7 +93,8 @@ Question. What frequencies and wavelengths of light does the sun emit? ==The sun
 ```
 
 ```anki
-id: 1741511535621
+id: null
+enabled: false
 ---
 Question. Calculate the speed of light in olive oil, given it has a refractive index of 1.47. ==Let $x$ be the answer. We are told that $1.47=\dfrac==3\cdot 10^8====x==$, so $x=2.04\cdot 10^8$ (m/s)==
 ```

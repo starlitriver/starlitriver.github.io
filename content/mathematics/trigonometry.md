@@ -15,4 +15,4 @@ trigonometry is based on the [[unit circle]]
 [[trigonometric functions]]
 
 
-furthermore, see [list of trigonometric identities](list%20of%20trigonometric%20identities.md)
+furthermore, see [trig identity](trig%20identity.md)

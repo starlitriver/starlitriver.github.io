@@ -4,7 +4,7 @@ description:
 aliases: [organelles]
 tags: []
 created: 2024-12-03T09:27:52
-modified: 2025-02-14T17:35:59
+modified: 2025-03-20T21:13:01
 permalink:
 ---
 
@@ -30,7 +30,7 @@ Plants and protists can have them.
 | ------------------------- | -------------------------------------------------------------------------------------------- | ---------------- |
 | [[cell membrane]]         | separates the cell interior from the outside environment                                     | all eukaryotes   |
 | [[cell wall]]             | has a rigid structure composed of cellulose that provides shape to the cell                  | plants, protists |
-| [[chloroplast]]           | traps energy from sunlight for photosynthesis                                                | plants, algae    |
+| chloroplast               | traps energy from sunlight for photosynthesis                                                | plants, algae    |
 | [[endoplasmic reticulum]] | has rough ER for translation and folding of new proteins, smooth ER for expression of lipids | all eukaryotes   |
 | [[flagellum]]             | is used for locomotion and sensory                                                           | some eukaryotes  |
 | [[Golgi apparatus]]       | does sorting, packaging, processing and modification of proteins                             | all eukaryotes   |

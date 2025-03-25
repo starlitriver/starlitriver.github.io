@@ -4,7 +4,7 @@ description:
 aliases: [polynomials]
 tags: []
 created: 2025-01-30T13:13:11
-modified: 2025-02-23T09:53:07
+modified: 2025-03-15T14:42:47
 permalink:
 ---
 

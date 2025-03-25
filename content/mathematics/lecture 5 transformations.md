@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-03-09T14:21:35
-modified: 2025-03-10T13:20:47
+modified: 2025-03-17T20:27:18
 permalink:
 ---
 
@@ -288,3 +288,87 @@ $y=(x+4)^2+2$
 $\to$
 $\dfrac{y}{3}=(x+4)^2+2$
 $y=3(x+4)^2+6$
+
+## Consider the transformation $T(x,y)=(3+x,4-y)$. Find the inverse transformation $T^{-1}$.
+
+$x'=3+x$
+$y'=4-y$
+
+$x=x-3$
+$y=4-y'$
+
+Therefore.
+$T^{-1}(x,y)=(x-3,4-y')$
+
+## Consider the transformation $T(x,y)=(\dfrac{3x+4}{3},\dfrac{5y-4}{4})$. Find the inverse transformation $T^{-1}$.
+
+$x'=\dfrac{3x+4}{3}$
+$y'=\dfrac{5y-4}{4}$
+
+$x=\dfrac{3x-4}{3}$
+$y=\dfrac{4y+4}{5}$
+
+Therefore.
+
+$T^{-1}(x,y)=(\dfrac{3x-4}{3},\dfrac{4y+4}{5})$
+
+## Let $f(x)=x^2-4$ and $g(x)=4(x−1)^2−4$, let the graph of g be a transformation of the graph of f where the transformations have been applied in the following order: Dilation $n$ from the x axis, translation 1 right and $m$ up. $n$ and $m$ are positive real numbers. What is $m-n$?
+
+Let f be y and g be y'
+
+$y'=4(x'-1)^2-4$
+
+$(x,y)\to x'=x+1,y'=ny+m$
+$x=x'-1$
+$y=\dfrac{y'-m}{n}$
+
+$y=x^2-4$
+
+$\dfrac{y'-m}{n}=(x'-1)^2-4$
+$y'=n(x'-1)^2-4n+m$
+$y'=4(x'-1)^2-4$
+
+$4(x'-1)^2-4=n(x'-1)^2-4n+m$
+$4(x-1)^2-4=n(x^2-2x+1)-4n+m$
+$4(x-1)^2-4=nx^2-2nx+n-4n+m$
+$4x^2-8x=nx^2-2nx-3n+m$
+
+$4=n$
+$-8=-2n$
+$-3n+m=0$
+
+$-12+m=0$
+$m=12$
+$m-n=8$
+
+## Given that $g(x)=2x−2$ and $f(x)=x^2+2x+3$, for what dilation factor(s) from the x-axis does the graph of g(x) need to undergo if g(x) and f(x) intersect exactly once?
+
+Let dilation factor needed be d
+Let y be g(x) and dilated g(x) be y'
+
+$y=2x-2$
+$(x,y)\to x'=x,y'=dy$
+$\dfrac{y'}{d}=2x'-2$
+
+$y'=2dx'-2d$
+
+Intersection.
+
+$x^2+2x+3=2dx-2d$
+$x^2+(2-2d)x+3+2d=0$
+
+There is one solution to this equation. Discriminant be zero.
+$\Delta=0$
+$\Delta=(2-2d)^2-4(1)(3+2d)$
+$0=4-8d+4d^2-12-8d$
+$0=4d^2-16d-8$
+$0=d^2-4d-2$
+
+Use quadratic formula.
+
+$d=\dfrac{4\pm\sqrt{16-4(-2)}}{2}$
+$d=2\pm\sqrt{6}$
+
+The word dilation implies the dilation factor is positive, therefore.
+
+$d=2+\sqrt{6}$

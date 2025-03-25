@@ -8,4 +8,4 @@ modified: 2025-02-09T15:53:45
 permalink:
 ---
 
-mathematical analysis is the branch of mathematics that deals with [[continuous function|continuous functions]], [[limit|limits]] and related theories such as [[derivative , differentitation|differentiation]], [[integral|integrals]] and others
+mathematical analysis is the branch of mathematics that deals with [[continuous function|continuous functions]], [[limit|limits]] and related theories such as [[derivative|differentiation]], [[integral|integrals]] and others

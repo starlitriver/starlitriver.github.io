@@ -51,7 +51,7 @@ a function $f$ has an [[inverse function]] $f^{-1}$ that can map the codomain on
 
 ## derivatives
 
-the [[derivative , differentitation]] of a function $f(x)$ is a function $g(x)$ such that for any constant $c$ , $g(c)$ is equal to the [[slope]] of the tangent line at $f(c)$
+the [[derivative]] of a function $f(x)$ is a function $g(x)$ such that for any constant $c$ , $g(c)$ is equal to the [[slope]] of the tangent line at $f(c)$
 
 ## exponential function
 

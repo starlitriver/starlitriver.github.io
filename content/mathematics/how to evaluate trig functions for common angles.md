@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-02-07T13:50:50
-modified: 2025-02-09T15:53:45
+modified: 2025-03-21T13:38:20
 permalink:
 ---
 
@@ -17,6 +17,7 @@ Please take your time to remember this table. Just do it today.
 | $\sin(\theta)$ | 0   | $\dfrac{1}{2}$        | $\dfrac{\sqrt{2}}{2}$ | $\dfrac{\sqrt{3}}{2}$ | 1                |
 | $\cos(\theta)$ | 1   | $\dfrac{\sqrt{3}}{2}$ | $\dfrac{\sqrt{2}}{2}$ | $\dfrac{1}{2}$        | 0                |
 | $\tan(\theta)$ | 0   | $\dfrac{1}{\sqrt{3}}$ | 1                     | $\sqrt{3}$            | undefined        |
+|                |     |                       |                       |                       |                  |
 
 But if you forget, you can easily create this table anytime you wish, just use these steps.
 

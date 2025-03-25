@@ -120,7 +120,7 @@ $f'(x)=15x^2-20x$
 if $f(x)=g(x)−h(x)$ then $f′(x)=g′(x)−h′(x)$
 
 
-see [[derivative , differentitation|derivatives]] page and you can see the differential rules
+see [[derivative|derivatives]] page and you can see the differential rules
 
 we can practice the power rule by solving these
 

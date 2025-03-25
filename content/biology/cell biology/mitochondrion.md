@@ -4,7 +4,7 @@ description:
 aliases: [mitochondria]
 tags: []
 created: 2024-12-03T09:04:15
-modified: 2025-02-23T15:31:25
+modified: 2025-03-25T08:48:38
 permalink:
 ---
 

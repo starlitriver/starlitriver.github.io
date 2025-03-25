@@ -4,11 +4,15 @@ description:
 aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-03-10T19:26:28
+modified: 2025-03-18T17:09:02
 permalink:
 ---
 
-A power function is a function in the form $f(x)=a[b(x-h)]^n+k$
+A power function is a function in the form $f(x)=a[b(x-h)]^n+k$, given that $n$ is rational. This means that $n$ can be expressed as an integer over an integer.
+
+$l=ab^n(i-h)^n+k$
+
+Best way to identify a power function is the linear inner expression.
 
 Note: a power function is not an [[exponential function]].
 
