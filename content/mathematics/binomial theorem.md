@@ -4,13 +4,13 @@ description:
 aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-02-09T15:53:46
+modified: 2025-08-04T09:46:11
 permalink:
 ---
 
 in algebra, the binomial theorem describes the algebraic expansion of [[exponent|exponents]] of a binomial
 
-the binomial theorem says it is possible to expand the polynomial $(x+y)^n$ into a sum involving terms of the form $ax^by^c$ where $b$ and $c$ are non-negative integers and $a=C(n,b)$ where $C$ is the [[combination]] function
+the binomial theorem says it is possible to expand the polynomial $(x+y)^n$ into a sum involving terms of the form $ax^by^c$ where $b$ and $c$ are non-negative integers and $a=C(n,b)$ where $C$ is the [[permutation , combination]] function
 
 $\displaystyle (x+y)^{n}={n \choose 0}x^{n}y^{0}+{n \choose 1}x^{n-1}y^{1}+{n \choose 2}x^{n-2}y^{2}+\cdots +{n \choose n-1}x^{1}y^{n-1}+{n \choose n}x^{0}y^{n}$
 

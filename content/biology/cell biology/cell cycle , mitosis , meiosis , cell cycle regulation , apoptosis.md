@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-03-25T09:37:23
+modified: 2025-04-01T08:46:16
 permalink:
 ---
 
@@ -101,9 +101,7 @@ Figure: Happy.
 - The **sister chromatids** start to condense, to become more compact. They are more visible.
 - The two **centrioles** move towards opposite ends of the cell.
 - **Spindle fibers** begin to form at centrioles.
-
-
-Mitosis checkpoint happens. Check every chromosome is attached to spindle fibers. The spindles must be correctly attached to the kinetochores (proteins on the centromeres). It may send a wait signal until everything is ok.
+- Mitosis checkpoint happens. Check every chromosome is attached to spindle fibers. The spindles must be correctly attached to the kinetochores (proteins on the centromeres). It may send a wait signal until everything is ok.
 
 ### metaphase
 

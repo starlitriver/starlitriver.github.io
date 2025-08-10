@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-02-09T09:29:52
-modified: 2025-03-16T11:51:17
+modified: 2025-04-16T10:56:37
 permalink: chemistry intro
 ---
 
@@ -39,12 +39,12 @@ id: 1741511533496
 When an electron moves from higher subshell to a lower one, ==electromagnetic radiation is emitted.==
 ```
 
-The subshells sorted by energy is 1s, 2s, 2p, 2s, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s.
+The subshells sorted by energy is 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s.
 
 ```anki
 id: 1741511534246
 ---
-The subshells sorted by energy ==is 1s, 2s, 2p, 2s, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s.==
+The subshells sorted by energy ==is 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, 4d, 5p, 6s.==
 ```
 
 Figure: The subshells electron filling order. The shells of lower energy levels are filled first.

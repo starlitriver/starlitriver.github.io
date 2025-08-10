@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-03-23T09:38:32
+modified: 2025-04-15T11:59:14
 permalink:
 ---
 
@@ -13,6 +13,11 @@ A trig identity is an equation that involves [[trigonometric functions|trig func
 Remembering trig identities can help you simplify some expressions.
 
 For visualization of these identities, see [[unit circle]]. For a better explanation of these identities, see [here](https://www.khanacademy.org/math/trigonometry/trig-equations-and-identities/using-trig-identities/a/trig-identity-reference)
+
+And I have a mindmap that is awesome if you can use imagination.
+
+![[trig identity 2025-04-15 11.29.40.excalidraw.svg]]
+%%[[trig identity 2025-04-15 11.29.40.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 ## reciprocal and quotient identities
 
@@ -42,12 +47,12 @@ id: 1742684527443
 ==$\sec(a)$== = ==$\dfrac{1}{\cos(a)}$==
 ```
 
-$\cot(a)=\dfrac{\cos(a)}{\sin(a)}$
+$\cot(a)=\dfrac{1}{\tan(a)}=\dfrac{\cos(a)}{\sin(a)}$
 
 ```anki
 id: 1742684527594
 ---
-==$\cot(a)$== = ==$\dfrac{\cos(a)}{\sin(a)}$==
+==$\cot(a)$== = ==$\dfrac{1}{\tan(a)}=\dfrac{\cos(a)}{\sin(a)}$==
 ```
 
 ## Pythagorean identities
@@ -59,31 +64,13 @@ $\sin^2(a)+\cos^2(a)=1$
 ```anki
 id: 1742684527718
 ---
-==$\sin^2(a)$== = ==$\dfrac{1-\cos(2a)}{2}$==
+==$\sin^2(a)+\cos^2(a)$== = ==$1$==
 ```
-
-$\tan^2(a)+1=\sec^2(a)$
-
-```anki
-id: 1742684527843
----
-==$\tan^2(a)+1$== = ==$\sec^2(a)$==
-```
-
-$\cot^2(a)+1=\csc^2(a)$
-
-```anki
-id: 1742684527943
----
-==$\cot^2(a)+1$== = ==$\csc^2(a)$==
-```
-
-Pythagorean identities are able to be rearranged to suit many simplifying purposes
 
 $\sin^2(a) = \dfrac{1-\cos(2a)}{2}$
 
 ```anki
-id: null
+id: 1744680343868
 ---
 ==$\sin^2(a)$== = ==$\dfrac{1-\cos(2a)}{2}$==
 ```
@@ -96,46 +83,56 @@ id: 1742684528169
 ==$\cos^2(a)$== = ==$\dfrac{1+\cos(2a)}{2}$==
 ```
 
-$\cos^2(a)=1-\sin^2(a)$
+## cosecant and secant squared
+
+$\csc^2(a)=\cot^2(a)+1$
 
 ```anki
-id: 1742684528418
+id: 1742684527943
 ---
-==$\cos^2(a)$== = ==$1-\sin^2(a)$==
+==$\csc^2(a)$== = ==$\cot^2(a)+1$==
+```
+
+$\sec^2(a)=\tan^2(a)+1$
+
+```anki
+id: 1742684527843
+---
+==$\sec^2(a)$== = ==$\tan^2(a)+1$==
 ```
 
 ## angle sum and difference identities
 
-$\sin(a+b) = \sin(a)\cdot\cos(b)+\cos(a)\cdot\sin(b)$
+$\sin(a+b) = \sin(a)\cdot\cos(b)+\sin(b)\cdot\cos(a)$
 
 ```anki
 id: 1742684528819
 ---
-==$\sin(a+b)$== = ==$\sin(a)\cdot\cos(b)+\cos(a)\cdot\sin(b)$==
+==$\sin(a+b)$== = ==$\sin(a)\cdot\cos(b)+\sin(b)\cdot\cos(a)$==
 ```
 
-$\sin(a-b) = \sin(a)\cdot\cos(b)-\cos(a)\cdot\sin(b)$
+$\sin(a-b) = \sin(a)\cdot\cos(b)-\sin(b)\cdot\cos(a)$
 
 ```anki
 id: 1742684529219
 ---
-==$\sin(a-b)$== = ==$\sin(a)\cdot\cos(b)-\cos(a)\cdot\sin(b)$==
+==$\sin(a-b)$== = ==$\sin(a)\cdot\cos(b)-\sin(b)\cdot\cos(a)$==
 ```
 
-$\cos(a+b) = \cos(a)\cdot\cos(b)-\sin(a)\cdot\sin(b)$
+$\cos(a+b) = \cos(a)\cdot\cos(b)-\sin(b)\cdot\sin(a)$
 
 ```anki
 id: 1742684529594
 ---
-==$\cos(a+b)$== = ==$\cos(a)\cdot\cos(b)-\sin(a)\cdot\sin(b)$==
+==$\cos(a+b)$== = ==$\cos(a)\cdot\cos(b)-\sin(b)\cdot\sin(a)$==
 ```
 
-$\cos(a-b) = \cos(a)\cdot\cos(b)+\sin(a)\cdot\sin(b)$
+$\cos(a-b) = \cos(a)\cdot\cos(b)+\sin(b)\cdot\sin(a)$
 
 ```anki
 id: 1742684529918
 ---
-==$\cos(a-b)$== = ==$\cos(a)\cdot\cos(b)+\sin(a)\cdot\sin(b)$==
+==$\cos(a-b)$== = ==$\cos(a)\cdot\cos(b)+\sin(b)\cdot\sin(a)$==
 ```
 
 $\tan(a+b)=\dfrac{\tan(a)+\tan(b)}{1-\tan(a)\tan(b)}$

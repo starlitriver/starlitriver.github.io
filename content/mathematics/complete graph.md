@@ -12,7 +12,7 @@ in graph theory, a complete graph is a graph in which every possible pair of gra
 
 as seen in the [handshake problem](https://mathworld.wolfram.com/HandshakeProblem.html), if there are $n$ vertices that must handshake with every other one, each possible handshake represents an edge in the graph
 
-all the possible handshakes can be found by using the [[combination]] function with $C(n,2)$, therefore, a complete graph with $n$ vertices has $C(n,2)$ edges.
+all the possible handshakes can be found by using the [[permutation , combination]] function with $C(n,2)$, therefore, a complete graph with $n$ vertices has $C(n,2)$ edges.
 
 for reference, the combination functions page says $C(n,2)=\dfrac{n(n-1)}{2}$
 

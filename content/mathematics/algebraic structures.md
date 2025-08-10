@@ -4,7 +4,7 @@ description:
 aliases: [algebraic structure]
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-02-09T15:53:46
+modified: 2025-08-04T09:46:09
 permalink:
 ---
 

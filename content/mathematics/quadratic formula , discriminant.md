@@ -4,17 +4,11 @@ description:
 aliases: [formula]
 tags: []
 created: 2025-01-30T13:13:11
-modified: 2025-02-23T13:11:13
+modified: 2025-04-14T11:44:29
 permalink:
 ---
 
 The quadratic formula can find ==the x-intercepts (roots) of a quadratic.== It is ==$x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$==. 
-
-```anki
-id: 1741511531721
----
-The quadratic formula can find ==the x-intercepts (roots) of a quadratic.== It is ==$x=\dfrac{-b\pm\sqrt{b^2-4ac}}{2a}$==. 
-```
 
 The discriminant ($\Delta$) of a polynomial determines the number of x-intercepts (roots). It is calculated with $b^2-4ac$.
 

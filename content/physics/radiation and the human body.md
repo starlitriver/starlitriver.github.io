@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-03-17T09:13:38
-modified: 2025-03-17T10:55:28
+modified: 2025-04-02T09:12:49
 permalink:
 ---
 
@@ -38,7 +38,7 @@ Figure: Weighting factor of radiation.
 
 Effective dose is a measure of the potential for long term and organ specific damage.
 
-$E=\sum(Hq\cdot w_t)$
+$E=\sum(H\cdot w_t)$
 
 Where $E$ is effective dose in Sv, Joules per kilogram.
 

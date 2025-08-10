@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2024-11-21T07:41:39
-modified: 2025-02-09T15:53:46
+modified: 2025-04-19T18:19:52
 permalink:
 ---
 
@@ -13,11 +13,18 @@ suggest
 explore
 examine
 exhibit
+express
+
 emphasise
 illuminate
 illustrate
 accentuate
 demonstrate
+
+enhance
+evoke
+
+symbolise
 
 determine
 showcase
@@ -40,18 +47,16 @@ reveal
 expose
 unveil
 uncover
+support
+
 
 disclose
 unearth
 prove
 validate
-
 determine
 
 display
-flaunt
-
-parade
 
 imply
 allude
