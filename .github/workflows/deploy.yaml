@@ -1,13 +1,10 @@
-name: Deploy to Github Pages.
+name: Deploy
 
 on:
-  pull_request:
-    branches:
-      - main
+  workflow_dispatch:
   push:
     branches:
       - main
-  workflow_dispatch:
 
 permissions:
   contents: read
@@ -26,26 +23,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: actions/checkout@v4
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-      - name: Update submodules recursively.
-        run: |
-          git submodule update --init --recursive --remote
-      - name: Setup Node.
+      - name: actions/setup-node@v4
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-      - name: Setup Bun.
+          node-version: 22
+      - name: oven-sh/setup-bun@v2
         uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
-      - name: Install.
+      - name: bun install
         run: bun install
-      - name: Build.
+      - name: npx quartz build
         run: npx quartz build
-      - name: Upload artifact.
+      - name: actions/upload-pages-artifact@v3
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
@@ -57,6 +49,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy to Github Pages.
+      - name: actions/deploy-pages@v4
         id: deployment
         uses: actions/deploy-pages@v4
