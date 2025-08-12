@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "starlitriver.github.io",
     ignorePatterns: ["assets/*.md", "drafts", "temp", "private", "plugins", ".obsidian"],
-    defaultDateType: "published",
+    defaultDateType: "created",
     theme: {
       // fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -72,7 +72,6 @@ const config: QuartzConfig = {
     ],
     filters: [
       Plugin.RemoveDrafts(),
-      Plugin.ExplicitPublish(),
     ],
     emitters: [
       Plugin.AliasRedirects(),
