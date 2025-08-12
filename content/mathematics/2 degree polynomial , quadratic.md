@@ -4,7 +4,7 @@ description:
 aliases: [quadratic]
 tags: []
 created: 2025-02-07T13:39:42
-modified: 2025-02-23T13:11:10
+modified: 2025-06-03T16:54:33
 permalink:
 ---
 

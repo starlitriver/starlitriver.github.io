@@ -16,7 +16,7 @@ For each row, the row number is $n$ and the column number is $k$, where:
 The second number of each row is equal to its row number.
 The second number of each row has a column number of 1.
 
-The [[combination]] function is used to calculate a value $a$ in Pascal's triangle with row number $n$ and column number $k$
+The [[permutation , combination]] function is used to calculate a value $a$ in Pascal's triangle with row number $n$ and column number $k$
 $a=C(n,k)$
 
 Figure: rows 0 to 7 of Pascal's triangle

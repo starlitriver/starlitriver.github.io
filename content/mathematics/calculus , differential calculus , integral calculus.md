@@ -4,7 +4,7 @@ description:
 aliases: [calculus, differential calculus, integral calculus]
 tags: []
 created: 2025-02-07T13:40:12
-modified: 2025-02-09T15:53:46
+modified: 2025-08-04T09:46:30
 permalink: calculus
 ---
 

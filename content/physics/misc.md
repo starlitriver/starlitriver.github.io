@@ -4,7 +4,7 @@ description:
 aliases: []
 tags: []
 created: 2025-02-22T19:04:11
-modified: 2025-03-23T09:20:19
+modified: 2025-04-15T11:27:06
 permalink:
 ---
 
@@ -92,19 +92,10 @@ id: 1741511535221
 Question. What frequencies and wavelengths of light does the sun emit? ==The sun emits a range of frequencies and wavelengths, mainly infrared, visible and ultraviolet light.==
 ```
 
-```anki
-id: null
-enabled: false
----
 Question. Calculate the speed of light in olive oil, given it has a refractive index of 1.47. ==Let $x$ be the answer. We are told that $1.47=\dfrac==3\cdot 10^8====x==$, so $x=2.04\cdot 10^8$ (m/s)==
-```
 
-```anki
-id: null
-enabled: false
----
+
 Snell's law is ==$n_1\sin(\theta_1)=n_2\sin(\theta_2)$ and $n_1v_1=n_2v_2$==
-```
 
 ```anki
 id: 1741511535920

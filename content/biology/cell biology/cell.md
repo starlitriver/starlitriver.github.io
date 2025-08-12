@@ -4,10 +4,12 @@ description:
 aliases: [cells, cellular]
 tags: []
 created: 2024-11-19T21:16:10
-modified: 2025-02-09T15:53:48
+modified: 2025-07-01T16:07:50
 permalink:
 ---
 
+![[cell 2025-07-01 16.07.49.excalidraw.svg]]
+%%[[cell 2025-07-01 16.07.49.excalidraw.md|🖋 Edit in Excalidraw]]%%
 in biology, a cell is the smallest structural and functional unit of an [[organism]]
 cells are between organelles and tissues in [[biological organization]]
 

@@ -5,12 +5,13 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 0;
+  gap: 0.5rem;
 }
 
 .breadcrumb-element {
   p {
-    margin: 0 3px 0;
+    margin: 0;
+    margin-left: 0.5rem;
     padding: 0;
     line-height: normal;
   }

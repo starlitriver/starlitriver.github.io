@@ -1,12 +1,16 @@
 ---
 title: 
 description: 
-aliases: [derivative, differentiate, differentiation]
+aliases: [differentiation]
 tags: []
 created: 2024-11-23T13:40:44
-modified: 2025-03-23T10:42:25
+modified: 2025-05-10T17:45:27
 permalink: derivative
 ---
+
+
+
+
 
 
 [[guide to differentiation]]
@@ -112,7 +116,7 @@ $\dfrac{d}{dx}\left[\dfrac{f(x)}{g(x)}\right] = \dfrac{f'(x)g(x)-f(x)g'(x)}{g(x)
 ```anki
 id: 1741511535196
 ---
-$\dfrac{d}{dx}\left[\dfrac{f(x)}{g(x)}\right]$ = ==$\dfrac{f'(x)g(x)-f(x)g'(x)}{g(x)^2}$==
+==$\dfrac{d}{dx}\left[\dfrac{f(x)}{g(x)}\right]$== = ==$\dfrac{f'(x)g(x)-f(x)g'(x)}{g(x)^2}$==
 ```
 
 Hers is a subset of the quotient rule.
@@ -122,7 +126,7 @@ $\dfrac{d}{dx}\left[\dfrac{1}{f(x)}\right]=-\dfrac{f'(x)}{f(x)^2}$
 ```anki
 id: 1741511535395
 ---
-$\dfrac{d}{dx}\left[\dfrac{1}{f(x)}\right]$ = ==$-\dfrac{f'(x)}{f(x)^2}$==
+==$\dfrac{d}{dx}\left[\dfrac{1}{f(x)}\right]$== = ==$-\dfrac{f'(x)}{f(x)^2}$==
 ```
 
 ### chain rule
@@ -132,32 +136,86 @@ $\dfrac{d}{dx}\left[f(g(x))\right] = f'(g(x))\cdot g'(x)$
 ```anki
 id: 1741511535596
 ---
-$\dfrac{d}{dx}\left[f(g(x))\right]$ = ==$f'(g(x))\cdot g'(x)$==
+==$\dfrac{d}{dx}\left[f(g(x))\right]$== = ==$f'(g(x))\cdot g'(x)$==
 ```
 
 ### exponential
 
 $\dfrac{d}{dx}\left[e^{ax}\right] = ae^{ax}$
 
+```anki
+id: 1744594347171
+---
+==$\dfrac{d}{dx}\left[e^{ax}\right]$== = ==$ae^{ax}$==
+```
+
 $\dfrac{d}{dx}\left[\ln(x)\right] = \dfrac{1}{x}$
+
+```anki
+id: 1744594347320
+---
+==$\dfrac{d}{dx}\left[\ln(x)\right]$== = ==$\dfrac{1}{x}$==
+```
 
 ### trig
 
-$\dfrac{d}{dx}\left[\sin(ax)\right] = a\cos(ax)$
+$\dfrac{d}{dx}\left[\sin(ax)\right]=a\cos(ax)$
 
-$\dfrac{d}{dx}\left[\cos(ax)\right] = -a\sin(x)$
+```anki
+id: 1744765955608
+---
+==$\dfrac{d}{dx}\left[\sin(ax)\right]$== = ==$a\cos(ax)$==
+```
 
-$\dfrac{d}{dx}\left[\tan(x)\right] = \dfrac{1}{\cos^2(x)}$
+$\dfrac{d}{dx}\left[\cos(ax)\right]=-a\sin(x)$
 
-$\dfrac{d}{dx}\left[\tan(ax)\right] = a\sec^2(ax)$
+```anki
+id: 1744765955658
+---
+==$\dfrac{d}{dx}\left[\cos(ax)\right]$== = ==$-a\sin(x)$==
+```
+
+==$\dfrac{d}{dx}\left[\tan(x)\right]=\dfrac{1}{\cos^2(x)}$==
+
+```anki
+id: 1744765955683
+---
+==$\dfrac{d}{dx}\left[\tan(x)\right]$== = ==$\dfrac{1}{\cos^2(x)}$==
+```
+
+==$\dfrac{d}{dx}\left[\tan(ax)\right]=a\sec^2(ax)$==
+
+```anki
+id: 1744765955734
+---
+==$\dfrac{d}{dx}\left[\tan(ax)\right]$== = ==$a\sec^2(ax)$==
+```
 
 ### inverse trig
 
-$\dfrac{d}{dx}(\sin^{-1}(ax)) = \dfrac{a}{\sqrt{1-(ax)^2}}$
+==$\dfrac{d}{dx}(\sin^{-1}(ax))=\dfrac{a}{\sqrt{1-(ax)^2}}$==
 
-$\dfrac{d}{dx}(\cos^{-1}(ax)) = \dfrac{-a}{\sqrt{1-(ax)^2}}$
+```anki
+id: 1744765955759
+---
+==$\dfrac{d}{dx}(\sin^{-1}(ax))$== = ==$\dfrac{a}{\sqrt{1-(ax)^2}}$==
+```
 
-$\dfrac{d}{dx}(\tan^{-1}(ax)) = \dfrac{a}{1+(ax)^2}$
+==$\dfrac{d}{dx}(\cos^{-1}(ax))=\dfrac{-a}{\sqrt{1-(ax)^2}}$==
+
+```anki
+id: 1744765955809
+---
+==$\dfrac{d}{dx}(\cos^{-1}(ax))$== = ==$\dfrac{-a}{\sqrt{1-(ax)^2}}$==
+```
+
+==$\dfrac{d}{dx}(\tan^{-1}(ax))=\dfrac{a}{1+(ax)^2}$==
+
+```anki
+id: 1744765955833
+---
+==$\dfrac{d}{dx}(\tan^{-1}(ax))$== = ==$\dfrac{a}{1+(ax)^2}$==
+```
 
 ### more trig
 

@@ -1,23 +1,16 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-
+// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    // Component.Darkmode(),
-    Component.Search(),
-    Component.DesktopOnly(Component.TableOfContents()),
-  ],
   afterBody: [
     Component.MobileOnly(Component.TableOfContents()),
   ],
   footer: Component.Footer({
     links: {
-      // "wiktionary": "https://wiktionary.org",
+      // "somewherer": "https://github.com/somewherer",
     },
   }),
 }
@@ -25,7 +18,10 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -33,8 +29,15 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    // Component.Darkmode(),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.ReaderMode() },
+      ],
+    }),
     Component.Explorer(),
   ],
   right: [
@@ -42,45 +45,49 @@ export const defaultContentPageLayout: PageLayout = {
       localGraph: {
         drag: true,
         zoom: true,
-        depth: 2,
-        scale: 1.7,
+        depth: 1,
+        scale: 1.5,
         repelForce: 2,
         centerForce: 0.3,
-        linkDistance: 13,
-        fontSize: 0.5,
-        opacityScale: 3,
+        linkDistance: 20,
+        fontSize: 0.6,
+        opacityScale: 5,
         removeTags: [],
         showTags: true,
       },
       globalGraph: {
         drag: true,
         zoom: true,
-        depth: 3,
+        depth: 4,
         scale: 1.6,
         repelForce: 2,
         centerForce: 0.8,
         linkDistance: 40,
-        fontSize: 0.8,
-        opacityScale: 2,
+        fontSize: 0.45,
+        opacityScale: 5,
         removeTags: [],
         showTags: true,
       },
     }),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
   ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    // Component.Darkmode(),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+      ],
+    }),
     Component.Explorer(),
   ],
   right: [],

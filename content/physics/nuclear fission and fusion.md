@@ -4,9 +4,10 @@ description:
 aliases: []
 tags: []
 created: 2025-03-19T10:08:05
-modified: 2025-03-19T11:45:38
+modified: 2025-05-30T12:41:22
 permalink:
 ---
+
 Mass and energy are essentially the same, as seen in the equation $E=mc^2$
 
 This equation suggests that a big amount of energy can make a small amount of mass.
